@@ -1,0 +1,40 @@
+{
+  "phrases": [
+    {
+      "english": "My mother, she's kind.",
+      "indonesian": "Ibuku, dia baik.",
+      "transliteration": "ee-boo-koo, dee-ah bah-eek",
+      "category": "Family Terms",
+      "generated_at": "2026-06-15T22:53:09.965396"
+    },
+    {
+      "english": "My father, he's strong.",
+      "indonesian": "Ayahku, dia kuat.",
+      "transliteration": "ah-yah-koo, dee-ah koo-at",
+      "category": "Family Terms",
+      "generated_at": "2026-06-15T22:53:09.965404"
+    },
+    {
+      "english": "My older sister, loves reading.",
+      "indonesian": "Kakakku, suka membaca.",
+      "transliteration": "kah-kah-koo, soo-kah mem-bah-cha",
+      "category": "Family Terms",
+      "generated_at": "2026-06-15T22:53:09.965406"
+    },
+    {
+      "english": "My younger brother, plays soccer.",
+      "indonesian": "Adikku, main bola.",
+      "transliteration": "ah-deek-koo, mah-een boh-lah",
+      "category": "Family Terms",
+      "generated_at": "2026-06-15T22:53:09.965410"
+    },
+    {
+      "english": "My grandparents, live nearby.",
+      "indonesian": "Kakek nenekku, tinggal dekat.",
+      "transliteration": "kah-kek neh-nek-koo, teeng-gal deh-kat",
+      "category": "Family Terms",
+      "generated_at": "2026-06-15T22:53:09.965411"
+    }
+  ],
+  "last_updated": "2026-06-15T22:53:09.965412"
+}
