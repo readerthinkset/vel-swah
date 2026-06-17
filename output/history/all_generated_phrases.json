@@ -314,7 +314,42 @@
       "transliteration": "Sabar, itu kebajikan.",
       "category": "Patience",
       "generated_at": "2026-06-17T14:48:35.044377"
+    },
+    {
+      "english": "Hello there, my friend.",
+      "indonesian": "Halo teman, apa kabar?",
+      "transliteration": "Halo teman, apa kabar?",
+      "category": "Greetings",
+      "generated_at": "2026-06-17T16:57:04.327410"
+    },
+    {
+      "english": "Good morning, sir.",
+      "indonesian": "Selamat pagi, Bapak.",
+      "transliteration": "Selamat pagi, Bapak.",
+      "category": "Greetings",
+      "generated_at": "2026-06-17T16:57:04.327422"
+    },
+    {
+      "english": "Good afternoon, madam.",
+      "indonesian": "Selamat siang, Ibu.",
+      "transliteration": "Selamat siang, Ibu.",
+      "category": "Greetings",
+      "generated_at": "2026-06-17T16:57:04.327424"
+    },
+    {
+      "english": "Good evening, everyone.",
+      "indonesian": "Selamat sore, semuanya.",
+      "transliteration": "Selamat sore, semuanya.",
+      "category": "Greetings",
+      "generated_at": "2026-06-17T16:57:04.327425"
+    },
+    {
+      "english": "How are you doing?",
+      "indonesian": "Bagaimana kabarmu?",
+      "transliteration": "Bagaimana kabarmu?",
+      "category": "Greetings",
+      "generated_at": "2026-06-17T16:57:04.327426"
     }
   ],
-  "last_updated": "2026-06-17T14:48:35.044378"
+  "last_updated": "2026-06-17T16:57:04.327428"
 }
