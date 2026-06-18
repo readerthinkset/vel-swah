@@ -524,7 +524,42 @@
       "transliteration": "Dengar lebih banyak, bicara lebih baik.",
       "category": "Growth",
       "generated_at": "2026-06-18T17:04:00.371609"
+    },
+    {
+      "english": "How much is this, please?",
+      "indonesian": "Berapa harganya, ya?",
+      "transliteration": "Ber-ah-pah har-gah-nyah, yah?",
+      "category": "Shopping",
+      "generated_at": "2026-06-18T19:43:16.708239"
+    },
+    {
+      "english": "I want to buy this one.",
+      "indonesian": "Saya mau beli yang ini.",
+      "transliteration": "Sah-yah mau beh-lee yang ee-nee.",
+      "category": "Shopping",
+      "generated_at": "2026-06-18T19:43:16.708248"
+    },
+    {
+      "english": "Do you have other colors?",
+      "indonesian": "Ada warna lain, tidak?",
+      "transliteration": "Ah-dah war-nah lah-een, tee-dak?",
+      "category": "Shopping",
+      "generated_at": "2026-06-18T19:43:16.708250"
+    },
+    {
+      "english": "Can I try this on?",
+      "indonesian": "Boleh coba ini, Pak/Bu?",
+      "transliteration": "Boh-leh choh-bah ee-nee, Pak/Bu?",
+      "category": "Shopping",
+      "generated_at": "2026-06-18T19:43:16.708251"
+    },
+    {
+      "english": "Where is the fitting room?",
+      "indonesian": "Ruang coba di mana?",
+      "transliteration": "Roo-ahng choh-bah dee mah-nah?",
+      "category": "Shopping",
+      "generated_at": "2026-06-18T19:43:16.708252"
     }
   ],
-  "last_updated": "2026-06-18T17:04:00.371611"
+  "last_updated": "2026-06-18T19:43:16.708254"
 }
