@@ -734,7 +734,42 @@
       "transliteration": "so-re i-ni, san-tai",
       "category": "Time",
       "generated_at": "2026-06-19T18:53:19.844438"
+    },
+    {
+      "english": "Keep going, don't stop.",
+      "indonesian": "Terus maju, jangan berhenti.",
+      "transliteration": "Terus mah-joo, jangan ber-hen-tee.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-19T21:12:00.388582"
+    },
+    {
+      "english": "Try again, little by little.",
+      "indonesian": "Coba lagi, sedikit demi sedikit.",
+      "transliteration": "Cho-bah lah-gee, se-dee-kit deh-mee se-dee-kit.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-19T21:12:00.388591"
+    },
+    {
+      "english": "Learn from mistakes, grow stronger.",
+      "indonesian": "Belajar dari salah, jadi kuat.",
+      "transliteration": "Be-lah-jar dah-ree sah-lah, jah-dee koo-at.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-19T21:12:00.388592"
+    },
+    {
+      "english": "Push forward, past the limits.",
+      "indonesian": "Dorong maju, lampaui batas.",
+      "transliteration": "Do-rong mah-joo, lam-pow-ee bah-tas.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-19T21:12:00.388594"
+    },
+    {
+      "english": "One step at a time.",
+      "indonesian": "Satu langkah, satu waktu.",
+      "transliteration": "Sah-too lang-kah, sah-too wak-too.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-19T21:12:00.388595"
     }
   ],
-  "last_updated": "2026-06-19T18:53:19.844440"
+  "last_updated": "2026-06-19T21:12:00.388597"
 }
