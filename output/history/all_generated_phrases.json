@@ -699,7 +699,42 @@
       "transliteration": "keh-loo-ar-gah kah-mee, bah-hah-gee-ah",
       "category": "Family Terms",
       "generated_at": "2026-06-19T16:32:49.180145"
+    },
+    {
+      "english": "Now, let's go.",
+      "indonesian": "Sekarang, ayo pergi.",
+      "transliteration": "se-ka-rang, a-yo per-gi",
+      "category": "Time",
+      "generated_at": "2026-06-19T18:53:19.844425"
+    },
+    {
+      "english": "Later, maybe.",
+      "indonesian": "Nanti, mungkin saja.",
+      "transliteration": "nan-ti, mung-kin sa-ja",
+      "category": "Time",
+      "generated_at": "2026-06-19T18:53:19.844434"
+    },
+    {
+      "english": "Once upon a time.",
+      "indonesian": "Dahulu kala.",
+      "transliteration": "da-hu-lu ka-la",
+      "category": "Time",
+      "generated_at": "2026-06-19T18:53:19.844436"
+    },
+    {
+      "english": "In the morning, awake.",
+      "indonesian": "Pagi hari, bangun.",
+      "transliteration": "pa-gi ha-ri, ba-ngun",
+      "category": "Time",
+      "generated_at": "2026-06-19T18:53:19.844437"
+    },
+    {
+      "english": "Afternoon break, relax.",
+      "indonesian": "Sore ini, santai.",
+      "transliteration": "so-re i-ni, san-tai",
+      "category": "Time",
+      "generated_at": "2026-06-19T18:53:19.844438"
     }
   ],
-  "last_updated": "2026-06-19T16:32:49.180147"
+  "last_updated": "2026-06-19T18:53:19.844440"
 }
