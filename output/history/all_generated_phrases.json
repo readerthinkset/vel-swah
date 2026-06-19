@@ -664,7 +664,42 @@
       "transliteration": "Set-ee-ap lah-tee-han, boo-at keh-mah-joo-an.",
       "category": "Motivation",
       "generated_at": "2026-06-19T14:40:10.655088"
+    },
+    {
+      "english": "My uncle, is funny.",
+      "indonesian": "Pamanku, lucu sekali.",
+      "transliteration": "pah-mahn-koo, loo-choo seh-kah-lee",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T16:32:49.180133"
+    },
+    {
+      "english": "My aunt, cooks well.",
+      "indonesian": "Bibiku, masakannya enak.",
+      "transliteration": "bee-bee-koo, mah-sah-kahn-nyah eh-nak",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T16:32:49.180141"
+    },
+    {
+      "english": "My cousin, is my age.",
+      "indonesian": "Sepupuku, seumuran aku.",
+      "transliteration": "seh-poo-poo-koo, seh-oo-moor-ahn ah-koo",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T16:32:49.180143"
+    },
+    {
+      "english": "My child, is very smart.",
+      "indonesian": "Anakku, pintar sekali.",
+      "transliteration": "ah-nahk-koo, peen-tar seh-kah-lee",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T16:32:49.180144"
+    },
+    {
+      "english": "Our family, is happy.",
+      "indonesian": "Keluarga kami, bahagia.",
+      "transliteration": "keh-loo-ar-gah kah-mee, bah-hah-gee-ah",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T16:32:49.180145"
     }
   ],
-  "last_updated": "2026-06-19T14:40:10.655089"
+  "last_updated": "2026-06-19T16:32:49.180147"
 }
