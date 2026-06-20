@@ -874,7 +874,42 @@
       "transliteration": "Bu-at ke-nang-an, ra-sa-kan gem-bi-ra.",
       "category": "Happiness",
       "generated_at": "2026-06-20T15:46:44.702518"
+    },
+    {
+      "english": "Where is the nearest, bathroom?",
+      "indonesian": "Di mana, toilet terdekat?",
+      "transliteration": "Dee mah-nah, toh-ee-let ter-deh-kaht?",
+      "category": "Travel",
+      "generated_at": "2026-06-20T18:08:56.363372"
+    },
+    {
+      "english": "I need, a taxi, please.",
+      "indonesian": "Saya perlu, taksi, ya.",
+      "transliteration": "Sah-yah per-loo, tahk-see, yah.",
+      "category": "Travel",
+      "generated_at": "2026-06-20T18:08:56.363381"
+    },
+    {
+      "english": "How much, is this, item?",
+      "indonesian": "Berapa harganya, barang ini?",
+      "transliteration": "Beh-rah-pah har-gah-nyah, bah-rahng ee-nee?",
+      "category": "Travel",
+      "generated_at": "2026-06-20T18:08:56.363382"
+    },
+    {
+      "english": "Can you help, me, please?",
+      "indonesian": "Bisa bantu, saya, tidak?",
+      "transliteration": "Bee-sah bahn-too, sah-yah, tee-dahk?",
+      "category": "Travel",
+      "generated_at": "2026-06-20T18:08:56.363384"
+    },
+    {
+      "english": "I want to go, to the beach.",
+      "indonesian": "Saya mau ke, pantai.",
+      "transliteration": "Sah-yah mah-oo keh, pahn-tai.",
+      "category": "Travel",
+      "generated_at": "2026-06-20T18:08:56.363385"
     }
   ],
-  "last_updated": "2026-06-20T15:46:44.702519"
+  "last_updated": "2026-06-20T18:08:56.363387"
 }
