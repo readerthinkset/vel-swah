@@ -909,7 +909,42 @@
       "transliteration": "Sah-yah mah-oo keh, pahn-tai.",
       "category": "Travel",
       "generated_at": "2026-06-20T18:08:56.363385"
+    },
+    {
+      "english": "Hello, how are you?",
+      "indonesian": "Halo, apa kabar?",
+      "transliteration": "Halo, apa kabar?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-21T02:33:56.868839"
+    },
+    {
+      "english": "Thank you, very much.",
+      "indonesian": "Terima kasih, banyak.",
+      "transliteration": "Terima kasih, banyak.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-21T02:33:56.868849"
+    },
+    {
+      "english": "Yes, I understand.",
+      "indonesian": "Ya, saya mengerti.",
+      "transliteration": "Ya, saya mengerti.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-21T02:33:56.868850"
+    },
+    {
+      "english": "No, I don't know.",
+      "indonesian": "Tidak, saya tidak tahu.",
+      "transliteration": "Tidak, saya tidak tahu.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-21T02:33:56.868852"
+    },
+    {
+      "english": "Excuse me, please.",
+      "indonesian": "Permisi, tolong.",
+      "transliteration": "Permisi, tolong.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-21T02:33:56.868853"
     }
   ],
-  "last_updated": "2026-06-20T18:08:56.363387"
+  "last_updated": "2026-06-21T02:33:56.868854"
 }
