@@ -1154,7 +1154,42 @@
       "transliteration": "Ah-koo teh-ree-mah mah-ahf-moo.",
       "category": "Forgiveness",
       "generated_at": "2026-06-22T16:25:39.827937"
+    },
+    {
+      "english": "Help, please. I'm lost.",
+      "indonesian": "Tolong, saya tersesat.",
+      "transliteration": "Toh-long, sah-yah ter-seh-sat.",
+      "category": "Emergency",
+      "generated_at": "2026-06-22T18:13:42.654228"
+    },
+    {
+      "english": "Where is the hospital?",
+      "indonesian": "Di mana rumah sakit?",
+      "transliteration": "Dee mah-nah roo-mah sah-keet?",
+      "category": "Emergency",
+      "generated_at": "2026-06-22T18:13:42.654237"
+    },
+    {
+      "english": "I need a doctor, quickly.",
+      "indonesian": "Saya perlu dokter, cepat.",
+      "transliteration": "Sah-yah per-loo dok-ter, che-pat.",
+      "category": "Emergency",
+      "generated_at": "2026-06-22T18:13:42.654238"
+    },
+    {
+      "english": "There's been an accident.",
+      "indonesian": "Terjadi kecelakaan.",
+      "transliteration": "Ter-jah-dee ke-che-la-ka-an.",
+      "category": "Emergency",
+      "generated_at": "2026-06-22T18:13:42.654239"
+    },
+    {
+      "english": "Call the police, now.",
+      "indonesian": "Panggil polisi, sekarang.",
+      "transliteration": "Pang-geel poh-lee-see, seh-ka-rang.",
+      "category": "Emergency",
+      "generated_at": "2026-06-22T18:13:42.654239"
     }
   ],
-  "last_updated": "2026-06-22T16:25:39.827938"
+  "last_updated": "2026-06-22T18:13:42.654241"
 }
