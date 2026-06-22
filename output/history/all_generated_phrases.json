@@ -1189,7 +1189,42 @@
       "transliteration": "Pang-geel poh-lee-see, seh-ka-rang.",
       "category": "Emergency",
       "generated_at": "2026-06-22T18:13:42.654239"
+    },
+    {
+      "english": "No problem, anytime.",
+      "indonesian": "Tidak apa-apa, kapan saja.",
+      "transliteration": "Tidak apa-apa, kapan saja.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-22T20:08:37.193187"
+    },
+    {
+      "english": "Where is the toilet?",
+      "indonesian": "Toiletnya di mana?",
+      "transliteration": "Toiletnya di mana?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-22T20:08:37.193193"
+    },
+    {
+      "english": "I don't understand.",
+      "indonesian": "Saya tidak mengerti.",
+      "transliteration": "Saya tidak mengerti.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-22T20:08:37.193195"
+    },
+    {
+      "english": "Can you repeat that?",
+      "indonesian": "Bisa ulangi lagi?",
+      "transliteration": "Bisa ulangi lagi?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-22T20:08:37.193196"
+    },
+    {
+      "english": "How much is this?",
+      "indonesian": "Berapa harganya ini?",
+      "transliteration": "Berapa harganya ini?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-22T20:08:37.193197"
     }
   ],
-  "last_updated": "2026-06-22T18:13:42.654241"
+  "last_updated": "2026-06-22T20:08:37.193199"
 }
