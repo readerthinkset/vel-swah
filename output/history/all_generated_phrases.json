@@ -1259,7 +1259,42 @@
       "transliteration": "Ciptakan be-ra-ni, ja-di-lah as-li.",
       "category": "Creativity",
       "generated_at": "2026-06-22T22:03:40.166064"
+    },
+    {
+      "english": "Table for two, please.",
+      "indonesian": "Meja untuk dua orang, ya.",
+      "transliteration": "Me-jah oontook doo-ah oh-rahng, yah.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-23T02:05:32.077714"
+    },
+    {
+      "english": "Can I see the menu?",
+      "indonesian": "Boleh lihat menunya?",
+      "transliteration": "Boh-leh lee-haht meh-noo-nyah?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-23T02:05:32.077724"
+    },
+    {
+      "english": "What do you recommend?",
+      "indonesian": "Ada rekomendasi apa?",
+      "transliteration": "Ah-dah reh-koh-men-dah-see ah-pah?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-23T02:05:32.077725"
+    },
+    {
+      "english": "I'll have this one.",
+      "indonesian": "Saya mau yang ini.",
+      "transliteration": "Sah-yah mah-oo yahng ee-nee.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-23T02:05:32.077726"
+    },
+    {
+      "english": "Spicy, not too spicy.",
+      "indonesian": "Pedas, tapi tidak terlalu.",
+      "transliteration": "Peh-dahs, tah-pee tee-dahk teh-rlah-loo.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-23T02:05:32.077727"
     }
   ],
-  "last_updated": "2026-06-22T22:03:40.166069"
+  "last_updated": "2026-06-23T02:05:32.077728"
 }
