@@ -1469,7 +1469,42 @@
       "transliteration": "Du-ni-a ba-tin-mu, ke-te-nang-an-mu.",
       "category": "Inner Peace",
       "generated_at": "2026-06-24T14:03:47.073342"
+    },
+    {
+      "english": "One apple, please.",
+      "indonesian": "Satu apel, tolong.",
+      "transliteration": "Sa-too ah-pel, to-long.",
+      "category": "Numbers",
+      "generated_at": "2026-06-24T16:23:28.237942"
+    },
+    {
+      "english": "Two cats, sleeping.",
+      "indonesian": "Dua kucing, tidur.",
+      "transliteration": "Doo-ah koo-ching, tee-door.",
+      "category": "Numbers",
+      "generated_at": "2026-06-24T16:23:28.237950"
+    },
+    {
+      "english": "Three books, read them.",
+      "indonesian": "Tiga buku, baca saja.",
+      "transliteration": "Tee-gah boo-koo, ba-cha sa-jah.",
+      "category": "Numbers",
+      "generated_at": "2026-06-24T16:23:28.237952"
+    },
+    {
+      "english": "Four chairs, are empty.",
+      "indonesian": "Empat kursi, kosong.",
+      "transliteration": "Em-pat koor-see, ko-song.",
+      "category": "Numbers",
+      "generated_at": "2026-06-24T16:23:28.237953"
+    },
+    {
+      "english": "Five friends, came over.",
+      "indonesian": "Lima teman, datang.",
+      "transliteration": "Lee-mah te-man, da-tang.",
+      "category": "Numbers",
+      "generated_at": "2026-06-24T16:23:28.237954"
     }
   ],
-  "last_updated": "2026-06-24T14:03:47.073344"
+  "last_updated": "2026-06-24T16:23:28.237956"
 }
