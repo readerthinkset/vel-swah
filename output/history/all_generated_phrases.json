@@ -1399,7 +1399,42 @@
       "transliteration": "Kerja cerdas, hidup bahagia.",
       "category": "Strength",
       "generated_at": "2026-06-23T21:43:58.731279"
+    },
+    {
+      "english": "Learn daily, improve greatly.",
+      "indonesian": "Belajar setiap hari, meningkat pesat.",
+      "transliteration": "Belajar setiap hari, meningkat pesat.",
+      "category": "Success",
+      "generated_at": "2026-06-24T02:05:59.201263"
+    },
+    {
+      "english": "Speak slowly, understand more.",
+      "indonesian": "Bicara pelan, mengerti lebih banyak.",
+      "transliteration": "Bicara pelan, mengerti lebih banyak.",
+      "category": "Success",
+      "generated_at": "2026-06-24T02:05:59.201276"
+    },
+    {
+      "english": "Practice often, master soon.",
+      "indonesian": "Berlatih sering, kuasai segera.",
+      "transliteration": "Berlatih sering, kuasai segera.",
+      "category": "Success",
+      "generated_at": "2026-06-24T02:05:59.201278"
+    },
+    {
+      "english": "Listen carefully, speak clearly.",
+      "indonesian": "Dengar baik-baik, bicara jelas.",
+      "transliteration": "Dengar baik-baik, bicara jelas.",
+      "category": "Success",
+      "generated_at": "2026-06-24T02:05:59.201279"
+    },
+    {
+      "english": "Ask questions, find answers.",
+      "indonesian": "Bertanya, cari jawaban.",
+      "transliteration": "Bertanya, cari jawaban.",
+      "category": "Success",
+      "generated_at": "2026-06-24T02:05:59.201280"
     }
   ],
-  "last_updated": "2026-06-23T21:43:58.731280"
+  "last_updated": "2026-06-24T02:05:59.201282"
 }
