@@ -1,6 +1,6 @@
 """
-Facebook Reels Automation - Bilingual English/Indonesian Content Generator
-IMPROVED VERSION: Better backgrounds, English categories, no repeats, VELOCITY INDONESIAN branding
+Facebook Reels Automation - Bilingual English/Swahili Content Generator
+IMPROVED VERSION: Better backgrounds, English categories, no repeats, VELOCITY SWAHILI branding
 Rounded container style from Habla Verse
 """
 
@@ -78,52 +78,72 @@ CATEGORIES_ENGLISH = [
     "Growth",
     "Purpose",
     "Mindfulness"
-]
+
+    "Daily Routine",
+    "Weather",
+    "Feelings",
+    "Food",
+    "Health",
+    "Work",
+    "Technology",
+    "Nature",
+    "Animals",
+    "Colors",
+    "Directions",
+    "Body Parts",
+    "Clothes",
+    "Music",
+    "Sports",
+    "Holidays",
+    "Education",
+    "Culture",
+    "Finance",
+    "Relationships",]
 
 CATEGORIES_NATIVE = {
-    "Greetings": "Salam",
-    "Basic Phrases": "Frasa Dasar",
-    "Common Expressions": "Ekspresi Umum",
-    "Travel": "Perjalanan",
-    "Restaurant": "Restoran",
-    "Shopping": "Belanja",
-    "Emergency": "Darurat",
-    "Family Terms": "Istilah Keluarga",
-    "Numbers": "Angka",
-    "Time": "Waktu",
-    "Motivation": "Motivasi",
-    "Love": "Cinta",
-    "Success": "Sukses",
-    "Wisdom": "Kebijaksanaan",
-    "Happiness": "Kebahagiaan",
-    "Self Improvement": "Perbaikan Diri",
-    "Gratitude": "Rasa Syukur",
-    "Friendship": "Persahabatan",
-    "Hope": "Harapan",
-    "Creativity": "Kreativitas",
-    "Inner Peace": "Kedamaian Batin",
-    "Confidence": "Percaya Diri",
-    "Perseverance": "Ketekunan",
-    "Inspiration": "Inspirasi",
-    "Positive Life": "Hidup Positif",
-    "Courage": "Keberanian",
-    "Kindness": "Kebaikan",
-    "Patience": "Kesabaran",
-    "Forgiveness": "Pengampunan",
-    "Strength": "Kekuatan",
-    "Joy": "Sukacita",
-    "Balance": "Keseimbangan",
-    "Growth": "Pertumbuhan",
-    "Purpose": "Tujuan",
-    "Mindfulness": "Perhatian Penuh"
+    "Greetings": "Salamu",
+    "Basic Phrases": "Misamiati ya Msingi",
+    "Common Expressions": "Maneno ya Kawaida",
+    "Travel": "Safari",
+    "Restaurant": "Mgahawa",
+    "Shopping": "Ununuzi",
+    "Emergency": "Dharura",
+    "Family Terms": "Maneno ya Familia",
+    "Numbers": "Nambari",
+    "Time": "Wakati",
+    "Motivation": "Motisha",
+    "Love": "Upendo",
+    "Success": "Mafanikio",
+    "Wisdom": "Hekima",
+    "Happiness": "Furaha",
+    "Self Improvement": "Kujiboresha",
+    "Gratitude": "Shukrani",
+    "Friendship": "Urafiki",
+    "Hope": "Tumaini",
+    "Creativity": "Ubunifu",
+    "Inner Peace": "Amani ya Ndani",
+    "Confidence": "Kujiamini",
+    "Perseverance": "Uvumilivu",
+    "Inspiration": "Msukumo",
+    "Positive Life": "Maisha Chanya",
+    "Courage": "Ujasiri",
+    "Kindness": "Wema",
+    "Patience": "Subira",
+    "Forgiveness": "Msamaha",
+    "Strength": "Nguvu",
+    "Joy": "Shangwe",
+    "Balance": "Usawa",
+    "Growth": "Ukuaji",
+    "Purpose": "Kusudi",
+    "Mindfulness": "Uangalifu"
 }
 
 ENGLISH_VOICE = "en-US-GuyNeural"
-NATIVE_VOICE = "id-ID-ArdiNeural"
+NATIVE_VOICE = "sw-KE-RafikiNeural"
 
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
 RECENT_CATEGORIES_FILE = HISTORY_DIR / "recent_categories.json"
-MAX_RECENT_CATEGORIES = 15
+MAX_RECENT_CATEGORIES = 25
 
 
 def load_phrase_history():
@@ -150,7 +170,7 @@ def is_phrase_used(english_phrase):
 
 def add_phrases_to_history(phrases, category):
     history = load_phrase_history()
-    lang_key = "indonesian"
+    lang_key = "swahili"
     for phrase in phrases:
         history["phrases"].append({
             "english": phrase["english"],
@@ -198,6 +218,10 @@ def get_available_category():
 def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
     category_native = CATEGORIES_NATIVE[category_english]
     max_attempts = 3
+
+    history = load_phrase_history()
+    recent_english = [p["english"] for p in history.get("phrases", []) if p.get("category") == category_english][-30:]
+
     for attempt in range(max_attempts):
         try:
             import requests
@@ -207,7 +231,11 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
                 "Content-Type": "application/json"
             }
 
-            prompt = f"""Create {num_phrases * 2} unique {category_english} phrases for English speakers learning Indonesian.
+            avoid_text = ""
+            if recent_english:
+                avoid_text = "\nABSOLUTELY AVOID these already-used phrases:\n" + "\n".join(f"- {p}" for p in recent_english)
+
+            prompt = f"""Create {num_phrases * 6} unique and creative {category_english} phrases for English speakers learning Swahili.{avoid_text}
 
 IMPORTANT RULES FOR NATURAL SPEECH:
 1. Keep phrases SHORT (5-12 words max per language)
@@ -215,28 +243,29 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 3. Use punctuation for breathing room in TTS
 4. Avoid long run-on sentences
 5. Each phrase should be speakable in 3-5 seconds
-6. Indonesian text should be CLEAN - use standard Indonesian script
-7. Do NOT include multiple versions or slashes - just ONE clean Indonesian translation
+6. Swahili text should be CLEAN - use standard Swahili script
+7. Do NOT include multiple versions or slashes - just ONE clean Swahili translation
 8. Transliteration should be in Roman script for pronunciation
+9. BE CREATIVE AND VARIED - do NOT repeat themes from the avoid list
 
 For each phrase:
 1. English phrase (with commas for natural pauses)
-2. Indonesian translation (in Indonesian script)
+2. Swahili translation (in Swahili script)
 3. Transliteration (Roman script pronunciation)
 
 Return as JSON array:
-[{{"english": "...", "indonesian": "...", "transliteration": "..."}}]
+[{{"english": "...", "swahili": "...", "transliteration": "..."}}]
 
 IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.
-IMPORTANT: Indonesian text must be clean - no slashes, no multiple versions."""
+IMPORTANT: Swahili text must be clean - no slashes, no multiple versions."""
 
             payload = {
                 "model": AI_MODEL,
                 "messages": [
-                    {"role": "system", "content": "You are a Indonesian teacher. Create short, natural phrases with pauses."},
+                    {"role": "system", "content": "You are a Swahili teacher. Create short, natural phrases with pauses. Each generation must produce completely different, creative phrases."},
                     {"role": "user", "content": prompt}
                 ],
-                "temperature": 0.9
+                "temperature": min(0.95 + attempt * 0.03, 1.0)
             }
 
             response = requests.post(url, headers=headers, json=payload, timeout=60)
@@ -255,13 +284,13 @@ IMPORTANT: Indonesian text must be clean - no slashes, no multiple versions."""
             for p in phrases:
                 if "transliteration" not in p and "romaji" in p:
                     p["transliteration"] = p.pop("romaji")
-                if "indonesian" not in p:
-                    alt_keys = ["indonesian_text", "native", "translation", p.get("language", "")]
+                if "swahili" not in p:
+                    alt_keys = ["swahili_text", "native", "translation", p.get("language", "")]
                     for k in alt_keys:
                         if k in p:
-                            p["indonesian"] = p.pop(k)
+                            p["swahili"] = p.pop(k)
                             break
-                if "indonesian" not in p:
+                if "swahili" not in p:
                     continue
 
             unique_phrases = []
@@ -277,6 +306,11 @@ IMPORTANT: Indonesian text must be clean - no slashes, no multiple versions."""
                 add_phrases_to_history(unique_phrases[:num_phrases], category_english)
                 return unique_phrases[:num_phrases]
 
+            print(f"[content] Attempt {attempt + 1}: API returned {len(phrases)} phrases, only {len(unique_phrases)} are new (need {num_phrases})")
+            for p in unique_phrases:
+                if p["english"] not in recent_english:
+                    recent_english.append(p["english"])
+
         except Exception as e:
             print(f"[content] Attempt {attempt + 1} failed: {e}")
 
@@ -288,22 +322,58 @@ IMPORTANT: Indonesian text must be clean - no slashes, no multiple versions."""
 def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
     """Return simple English fallback phrases when AI generation fails"""
     generic_fallbacks = [
-        {"english": "Hello, nice to meet you.", "indonesian": "[ID] Hello", "transliteration": "hello"},
-        {"english": "Thank you very much.", "indonesian": "[ID] Thank you", "transliteration": "thank you"},
-        {"english": "Good morning, have a great day.", "indonesian": "[ID] Good morning", "transliteration": "good morning"},
-        {"english": "I love learning new languages.", "indonesian": "[ID] Love learning", "transliteration": "love learning"},
-        {"english": "Never give up on your dreams.", "indonesian": "[ID] Never give up", "transliteration": "never give up"},
-        {"english": "Every day is a fresh start.", "indonesian": "[ID] Fresh start", "transliteration": "fresh start"},
-        {"english": "Believe in yourself always.", "indonesian": "[ID] Believe", "transliteration": "believe"},
-        {"english": "Small steps lead to big changes.", "indonesian": "[ID] Small steps", "transliteration": "small steps"},
-        {"english": "You are stronger than you think.", "indonesian": "[ID] Stronger", "transliteration": "stronger"},
-        {"english": "Happiness is a choice, choose it.", "indonesian": "[ID] Happiness", "transliteration": "happiness"},
+        {"english": "Hello, nice to meet you.", "swahili": "Habari, nimefurahi kukutana nawe.", "transliteration": "Habari, nimefurahi kukutana nawe."},
+        {"english": "Thank you very much.", "swahili": "Asante sana.", "transliteration": "Asante sana."},
+        {"english": "Good morning, have a great day.", "swahili": "Habari za asubuhi, siku njema.", "transliteration": "Habari za asubuhi, siku njema."},
+        {"english": "I love learning new languages.", "swahili": "Ninapenda kujifunza lugha mpya.", "transliteration": "Ninapenda kujifunza lugha mpya."},
+        {"english": "Never give up on your dreams.", "swahili": "Usiwahi kukata tamaa juu ya ndoto zako.", "transliteration": "Usiwahi kukata tamaa juu ya ndoto zako."},
+        {"english": "Every day is a fresh start.", "swahili": "Kila siku ni mwanzo mpya.", "transliteration": "Kila siku ni mwanzo mpya."},
+        {"english": "Believe in yourself always.", "swahili": "Jiamini kila wakati.", "transliteration": "Jiamini kila wakati."},
+        {"english": "Small steps lead to big changes.", "swahili": "Hatua ndogo huleta mabadiliko makubwa.", "transliteration": "Hatua ndogo huleta mabadiliko makubwa."},
+        {"english": "You are stronger than you think.", "swahili": "Wewe ni hodari kuliko unavyofikiri.", "transliteration": "Wewe ni hodari kuliko unavyofikiri."},
+        {"english": "Happiness is a choice, choose it.", "swahili": "Furaha ni chaguo, ichague.", "transliteration": "Furaha ni chaguo, ichague."},
+        {"english": "What time is it please.", "swahili": "Ni saa ngapi tafadhali.", "transliteration": "Ni saa ngapi tafadhali."},
+        {"english": "Where is the train station.", "swahili": "Kituo cha treni kiko wapi.", "transliteration": "Kituo cha treni kiko wapi."},
+        {"english": "How much does this cost.", "swahili": "Hii inagharimu kiasi gani.", "transliteration": "Hii inagharimu kiasi gani."},
+        {"english": "Can you help me please.", "swahili": "Unaweza kunisaidia tafadhali.", "transliteration": "Unaweza kunisaidia tafadhali."},
+        {"english": "I would like a coffee please.", "swahili": "Ningependa kahawa tafadhali.", "transliteration": "Ningependa kahawa tafadhali."},
+        {"english": "The food is delicious today.", "swahili": "Chakula ni kitamu leo.", "transliteration": "Chakula ni kitamu leo."},
+        {"english": "Have a wonderful weekend.", "swahili": "Kuwa na wikendi njema.", "transliteration": "Kuwa na wikendi njema."},
+        {"english": "Take care of yourself.", "swahili": "Jitunze.", "transliteration": "Jitunze."},
+        {"english": "See you tomorrow my friend.", "swahili": "Tutaonana kesho rafiki yangu.", "transliteration": "Tutaonana kesho rafiki yangu."},
+        {"english": "The weather is beautiful outside.", "swahili": "Hali ya hewa ni nzuri nje.", "transliteration": "Hali ya hewa ni nzuri nje."},
+        {"english": "I am very happy today.", "swahili": "Nina furaha sana leo.", "transliteration": "Nina furaha sana leo."},
+        {"english": "Learning a language opens new doors.", "swahili": "Kujifunza lugha hufungua milango mipya.", "transliteration": "Kujifunza lugha hufungua milango mipya."},
+        {"english": "Keep practicing every single day.", "swahili": "Endelea kufanya mazoezi kila siku.", "transliteration": "Endelea kufanya mazoezi kila siku."},
+        {"english": "You can achieve anything you want.", "swahili": "Unaweza kufikia chochote unachotaka.", "transliteration": "Unaweza kufikia chochote unachotaka."},
+        {"english": "Rest when you are tired.", "swahili": "Pumzika unapokuwa umechoka.", "transliteration": "Pumzika unapokuwa umechoka."},
+        {"english": "Focus on the positive things.", "swahili": "Zingatia mambo mazuri.", "transliteration": "Zingatia mambo mazuri."},
+        {"english": "Learn from your mistakes.", "swahili": "Jifunze kutokana na makosa yako.", "transliteration": "Jifunze kutokana na makosa yako."},
+        {"english": "Trust the process completely.", "swahili": "Amini mchakato huo kikamilifu.", "transliteration": "Amini mchakato huo kikamilifu."},
+        {"english": "Breathe deeply and stay calm.", "swahili": "Vuta pumzi kwa kina na ukae utulivu.", "transliteration": "Vuta pumzi kwa kina na ukae utulivu."},
+        {"english": "Enjoy the little moments in life.", "swahili": "Furahia wakati mdogo maishani.", "transliteration": "Furahia wakati mdogo maishani."},
+        {"english": "Smile more, worry less.", "swahili": "Tabasamu zaidi, jali kidogo.", "transliteration": "Tabasamu zaidi, jali kidogo."},
+        {"english": "Be kind to everyone you meet.", "swahili": "Kuwa mkarimu kwa kila mtu unayekutana naye.", "transliteration": "Kuwa mkarimu kwa kila mtu unayekutana naye."},
+        {"english": "Help others without expecting anything back.", "swahili": "Wasaidie wengine bila kutarajia chochote kurudi.", "transliteration": "Wasaidie wengine bila kutarajia chochote kurudi."},
+        {"english": "Forgive yourself and move forward.", "swahili": "Jisamehe na songa mbele.", "transliteration": "Jisamehe na songa mbele."},
+        {"english": "Stay strong in difficult times.", "swahili": "Kaa imara katika nyakati ngumu.", "transliteration": "Kaa imara katika nyakati ngumu."},
+        {"english": "Every moment is a new beginning.", "swahili": "Kila wakati ni mwanzo mpya.", "transliteration": "Kila wakati ni mwanzo mpya."},
+        {"english": "Listen to your heart always.", "swahili": "Sikiliza moyo wako kila wakati.", "transliteration": "Sikiliza moyo wako kila wakati."},
+        {"english": "Do what makes you happy.", "swahili": "Fanya kile kinachokufurahisha.", "transliteration": "Fanya kile kinachokufurahisha."},
+        {"english": "Your potential is unlimited.", "swahili": "Uwezo wako hauna kikomo.", "transliteration": "Uwezo wako hauna kikomo."},
+        {"english": "Be brave and take risks.", "swahili": "Kuwa jasiri na chukua hatari.", "transliteration": "Kuwa jasiri na chukua hatari."},
+        {"english": "Celebrate your progress every day.", "swahili": "Sherehekea maendeleo yako kila siku.", "transliteration": "Sherehekea maendeleo yako kila siku."},
+        {"english": "Surround yourself with good people.", "swahili": "Jizunguke na watu wazuri.", "transliteration": "Jizunguke na watu wazuri."},
+        {"english": "Read books and grow your mind.", "swahili": "Soma vitabu na ukue akili yako.", "transliteration": "Soma vitabu na ukue akili yako."},
+        {"english": "Travel and discover new places.", "swahili": "Safiri na ugundue maeneo mapya.", "transliteration": "Safiri na ugundue maeneo mapya."},
+        {"english": "Appreciate what you already have.", "swahili": "Thamini ulichonacho tayari.", "transliteration": "Thamini ulichonacho tayari."},
+        {"english": "Dance like nobody is watching.", "swahili": "Cheza kama hakuna anayekuangalia.", "transliteration": "Cheza kama hakuna anayekuangalia."},
+        {"english": "Sing from your heart out loud.", "swahili": "Imba kutoka moyoni mwako kwa sauti kubwa.", "transliteration": "Imba kutoka moyoni mwako kwa sauti kubwa."},
+        {"english": "Plant seeds of kindness everywhere.", "swahili": "Panda mbegu za wema kila mahali.", "transliteration": "Panda mbegu za wema kila mahali."},
+        {"english": "Let go of what you cannot control.", "swahili": "Achilia mambo ambayo huwezi kuyadhibiti.", "transliteration": "Achilia mambo ambayo huwezi kuyadhibiti."},
+        {"english": "Be present in the here and now.", "swahili": "Kuwa hapa na sasa.", "transliteration": "Kuwa hapa na sasa."}
     ]
     fresh = [p for p in generic_fallbacks if not is_phrase_used(p["english"])]
-    # Assign the right language key
-    lang_key = "indonesian"
-    for p in fresh:
-        p[lang_key] = p.pop("indonesian")
     return fresh[:num_phrases]
 async def generate_single_audio(text: str, voice: str, output_path: str):
     try:
@@ -350,13 +420,13 @@ def generate_all_audio(phrases: list, output_dir: str):
 
         print(f"\n  Phrase {i+1}:")
         print(f"    EN: {phrase['english']}")
-        print(f"    ID: {phrase['indonesian']}")
+        print(f"    SW: {phrase['swahili']}")
 
-        nat_success = asyncio.run(generate_audio_with_retries(phrase["indonesian"], NATIVE_VOICE, str(native_file)))
+        nat_success = asyncio.run(generate_audio_with_retries(phrase["swahili"], NATIVE_VOICE, str(native_file)))
         if nat_success:
-            print(f"    - Indonesian: {native_file.name}")
+            print(f"    - Swahili: {native_file.name}")
         else:
-            print(f"    - Indonesian: SILENCE FALLBACK (TTS failed)")
+            print(f"    - Swahili: SILENCE FALLBACK (TTS failed)")
             cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(native_file)]
             subprocess.run(cmd, capture_output=True)
 
@@ -373,7 +443,7 @@ def generate_all_audio(phrases: list, output_dir: str):
         pause_between = 0.5
         total_duration = en_duration + pause_between + nat_duration
 
-        print(f"    Total: {total_duration:.2f}s (EN: {en_duration:.2f}s + pause: {pause_between}s + ID: {nat_duration:.2f}s)")
+        print(f"    Total: {total_duration:.2f}s (EN: {en_duration:.2f}s + pause: {pause_between}s + SW: {nat_duration:.2f}s)")
 
         cmd = [
             "ffmpeg", "-y",
@@ -1292,7 +1362,7 @@ def create_impressive_background(category_english: str):
 
 def find_font(bold=False, size=40):
     from PIL import ImageFont
-    font_file = FONTS_DIR / "NotoSansIndonesian-Bold.ttf"
+    font_file = FONTS_DIR / "NotoSansSwahili-Bold.ttf"
     if font_file.exists():
         try:
             return ImageFont.truetype(str(font_file), size)
@@ -1356,7 +1426,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     font_branding = find_font(bold=True, size=SIZE_BRANDING)
     font_progress = find_font(bold=False, size=SIZE_PROGRESS)
 
-    native = phrase_data.get("indonesian", "")
+    native = phrase_data.get("swahili", "")
     english = phrase_data.get("english", "")
     transliteration = phrase_data.get("transliteration", "")
 
@@ -1389,7 +1459,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
         b = draw.textbbox((0, 0), "Ag", font=font)
         return b[3] - b[1]
 
-    max_text_w = VIDEO_WIDTH - 180
+    max_text_w = VIDEO_WIDTH - 140
     cat_native = CATEGORIES_NATIVE.get(category_english, category_english)
 
     nat_font, nat_lines = pick_native_font(native, max_text_w - 40)
@@ -1426,7 +1496,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     cy = start_y
 
     # Category bar (rounded)
-    cat_text = cat_native
+    cat_text = category_english
     cat_bb = draw.textbbox((0, 0), cat_text, font=font_category)
     cat_tw = cat_bb[2] - cat_bb[0]
     cat_th = cat_bb[3] - cat_bb[1]
@@ -1446,7 +1516,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     cy += gap_cat_nat
 
     # English phrase (top)
-    en_margin = 50
+    en_margin = 60
     rounded_rect(draw, (en_margin, cy, VIDEO_WIDTH - en_margin, cy + en_box_h), 28,
                  fill=(20, 40, 100, 220))
     for i, line in enumerate(en_lines):
@@ -1458,7 +1528,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     cy += en_box_h + gap_nat_en
 
     # Native phrase (below English)
-    nat_margin = 70
+    nat_margin = 50
     rounded_rect(draw, (nat_margin, cy, VIDEO_WIDTH - nat_margin, cy + nat_box_h), 24,
                  fill=(139, 0, 0, 220))
     for i, line in enumerate(nat_lines):
@@ -1471,7 +1541,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
 
     # Transliteration
     if trans_lines:
-        trans_margin = 90
+        trans_margin = 70
         rounded_rect(draw, (trans_margin, cy, VIDEO_WIDTH - trans_margin, cy + trans_box_h), 18,
                      fill=(40, 40, 40, 220))
         for i, line in enumerate(trans_lines):
@@ -1491,7 +1561,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
               fill=(180, 180, 180), font=font_progress, anchor="mm")
 
     # Branding (rounded)
-    brand_text = "VELOCITY INDONESIAN"
+    brand_text = "VELOCITY SWAHILI"
     brand_bb = draw.textbbox((0, 0), brand_text, font=font_branding)
     brand_tw = brand_bb[2] - brand_bb[0]
     brand_th = brand_bb[3] - brand_bb[1]
@@ -1525,7 +1595,7 @@ def create_video_from_images_audio(image_files: list, audio_files: list, combine
 
     for i, (img_path, audio_info) in enumerate(zip(image_files, audio_files)):
         duration = audio_info['duration']
-        print(f"  Image {i+1}/{len(image_files)}: {duration:.2f}s (EN: {audio_info.get('en_duration', 0):.1f}s + ID: {audio_info.get('nat_duration', 0):.1f}s)")
+        print(f"  Image {i+1}/{len(image_files)}: {duration:.2f}s (EN: {audio_info.get('en_duration', 0):.1f}s + SW: {audio_info.get('nat_duration', 0):.1f}s)")
 
         temp_clip = Path(output_file).parent / f"temp_clip_{i:02d}.mp4"
         temp_clips.append(temp_clip)
@@ -1597,7 +1667,7 @@ def generate_reel(category_english: str = None):
     phrases = generate_phrases(category_english, num_phrases=5)
 
     for i, phrase in enumerate(phrases, 1):
-        print(f"  {i}. {phrase['english']} -> {phrase['indonesian']}")
+        print(f"  {i}. {phrase['english']} -> {phrase['swahili']}")
 
     print("\n[2/4] Generating images with impressive backgrounds...")
     for i, phrase in enumerate(phrases):
@@ -1605,7 +1675,7 @@ def generate_reel(category_english: str = None):
         generate_complete_image(phrase, category_english, str(output_path), phrase_index=i, total_phrases=len(phrases))
         print(f"  Image {i+1}: {phrase['english'][:40]}...")
 
-    print("\n[3/4] Generating audio (English + Indonesian with 500ms pause)...")
+    print("\n[3/4] Generating audio (English + Swahili with 500ms pause)...")
     audio_files = generate_all_audio(phrases, str(reel_dir))
 
     final_audio = reel_dir / "narration.mp3"
@@ -1639,7 +1709,7 @@ def generate_reel(category_english: str = None):
     print(f"REEL COMPLETE!")
     print(f"  {reel_dir}")
     print(f"  {output_video.name}")
-    print(f"  Branding: VELOCITY INDONESIAN")
+    print(f"  Branding: VELOCITY SWAHILI")
     print(f"{'='*80}\n")
 
     return metadata
@@ -1647,14 +1717,14 @@ def generate_reel(category_english: str = None):
 
 if __name__ == "__main__":
     print("\n" + "="*80)
-    print(f"VELOCITY INDONESIAN - FACEBOOK REELS AUTOMATION")
+    print(f"VELOCITY SWAHILI - FACEBOOK REELS AUTOMATION")
     print("="*80)
     print("\nFEATURES:")
     print("  - Natural pauses with commas (non-robotic TTS)")
     print("  - Perfect audio-video synchronization")
     print("  - Complete audio playback guaranteed")
     print("  - English category names (for learners)")
-    print(f"  - VELOCITY INDONESIAN branding at bottom")
+    print(f"  - VELOCITY SWAHILI branding at bottom")
     print("  - NEVER repeats phrases (permanent history tracking)")
     print(f"\nAVAILABLE CATEGORIES ({len(CATEGORIES_ENGLISH)} total):")
     for i, cat in enumerate(CATEGORIES_ENGLISH, 1):
