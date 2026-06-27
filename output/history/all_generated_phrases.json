@@ -1609,7 +1609,42 @@
       "transliteration": "Heh-wah ee-nah-hee-see bah-ree-dee zah-ee-dee sah-sah.",
       "category": "Weather",
       "generated_at": "2026-06-27T15:17:12.421457"
+    },
+    {
+      "english": "My head, it aches.",
+      "swahili": "Kichwa changu, kinauma.",
+      "transliteration": "Kee-choh chahn-goo, kee-nah-oo-mah.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-27T17:59:49.834373"
+    },
+    {
+      "english": "Feel my hand, gently.",
+      "swahili": "Shika mkono wangu, polepole.",
+      "transliteration": "Shee-kah mah-koh-noh wahn-goo, poh-leh-poh-leh.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-27T17:59:49.834383"
+    },
+    {
+      "english": "Her eyes, sparkling bright.",
+      "swahili": "Macho yake, yanang'aa sana.",
+      "transliteration": "Mah-choh yah-keh, yah-nahn-gah sah-nah.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-27T17:59:49.834384"
+    },
+    {
+      "english": "He has strong legs.",
+      "swahili": "Ana miguu imara.",
+      "transliteration": "Ah-nah mee-goo ee-mah-rah.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-27T17:59:49.834386"
+    },
+    {
+      "english": "Touch your ear, listen.",
+      "swahili": "Gusa sikio lako, sikiliza.",
+      "transliteration": "Goo-sah see-kee-oh lah-koh, see-kee-lee-zah.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-27T17:59:49.834387"
     }
   ],
-  "last_updated": "2026-06-27T15:17:12.421458"
+  "last_updated": "2026-06-27T17:59:49.834389"
 }
