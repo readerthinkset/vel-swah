@@ -1574,7 +1574,42 @@
       "transliteration": "LEN-ga a-KI-li ya-KO, ka-ri-BI-sha chang-a-MO-to",
       "category": "Perseverance",
       "generated_at": "2026-06-27T13:05:58.212019"
+    },
+    {
+      "english": "The sun shines brightly, doesn't it?",
+      "swahili": "Jua linang'aa sana, sivyo?",
+      "transliteration": "Joo-ah lee-nah-ngaa sa-nah, see-vee-yoh?",
+      "category": "Weather",
+      "generated_at": "2026-06-27T15:17:12.421444"
+    },
+    {
+      "english": "Rain is coming, I think.",
+      "swahili": "Mvua inakuja, nadhani.",
+      "transliteration": "Moo-vah ee-nah-koo-jah, nah-thah-nee.",
+      "category": "Weather",
+      "generated_at": "2026-06-27T15:17:12.421453"
+    },
+    {
+      "english": "It's very windy today.",
+      "swahili": "Upepo ni mkali leo.",
+      "transliteration": "Oo-peh-poh nee moo-kah-lee leh-oh.",
+      "category": "Weather",
+      "generated_at": "2026-06-27T15:17:12.421454"
+    },
+    {
+      "english": "Clouds are gathering, look.",
+      "swahili": "Mawingu yanajaa, angalia.",
+      "transliteration": "Mah-wee-ngoo yah-nah-jah-ah, ah-ngah-lee-ah.",
+      "category": "Weather",
+      "generated_at": "2026-06-27T15:17:12.421456"
+    },
+    {
+      "english": "The air feels cooler now.",
+      "swahili": "Hewa inahisi baridi zaidi sasa.",
+      "transliteration": "Heh-wah ee-nah-hee-see bah-ree-dee zah-ee-dee sah-sah.",
+      "category": "Weather",
+      "generated_at": "2026-06-27T15:17:12.421457"
     }
   ],
-  "last_updated": "2026-06-27T13:05:58.212021"
+  "last_updated": "2026-06-27T15:17:12.421458"
 }
