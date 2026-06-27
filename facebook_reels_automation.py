@@ -77,8 +77,7 @@ CATEGORIES_ENGLISH = [
     "Balance",
     "Growth",
     "Purpose",
-    "Mindfulness"
-
+    "Mindfulness",
     "Daily Routine",
     "Weather",
     "Feelings",
@@ -135,7 +134,27 @@ CATEGORIES_NATIVE = {
     "Balance": "Usawa",
     "Growth": "Ukuaji",
     "Purpose": "Kusudi",
-    "Mindfulness": "Uangalifu"
+    "Mindfulness": "Uangalifu",
+    "Daily Routine": "Utaratibu wa Kila Siku",
+    "Weather": "Hali ya Hewa",
+    "Feelings": "Hisia",
+    "Food": "Chakula",
+    "Health": "Afya",
+    "Work": "Kazi",
+    "Technology": "Teknolojia",
+    "Nature": "Asili",
+    "Animals": "Wanyama",
+    "Colors": "Rangi",
+    "Directions": "Maelekezo",
+    "Body Parts": "Sehemu za Mwili",
+    "Clothes": "Nguo",
+    "Music": "Muziki",
+    "Sports": "Michezo",
+    "Holidays": "Likizo",
+    "Education": "Elimu",
+    "Culture": "Utamaduni",
+    "Finance": "Fedha",
+    "Relationships": "Mahusiano"
 }
 
 ENGLISH_VOICE = "en-US-GuyNeural"
