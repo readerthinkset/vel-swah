@@ -1784,7 +1784,42 @@
       "transliteration": "Kwa uungwaji mkono wako, nashukuru.",
       "category": "Gratitude",
       "generated_at": "2026-06-28T15:19:17.735571"
+    },
+    {
+      "english": "Sweet mango, juicy bite.",
+      "swahili": "Tunda tamu, tamu sana.",
+      "transliteration": "Tunda tamu, tamu sana.",
+      "category": "Food",
+      "generated_at": "2026-06-28T18:03:16.856955"
+    },
+    {
+      "english": "Spicy curry, warms the soul.",
+      "swahili": "Kari ya pilipili, ya moto.",
+      "transliteration": "Kari ya pilipili, ya moto.",
+      "category": "Food",
+      "generated_at": "2026-06-28T18:03:16.856964"
+    },
+    {
+      "english": "Fresh bread, just baked.",
+      "swahili": "Mkate safi, mpya kabisa.",
+      "transliteration": "Mkate safi, mpya kabisa.",
+      "category": "Food",
+      "generated_at": "2026-06-28T18:03:16.856966"
+    },
+    {
+      "english": "Cool water, so refreshing.",
+      "swahili": "Maji baridi, yanatosha.",
+      "transliteration": "Maji baridi, yanatosha.",
+      "category": "Food",
+      "generated_at": "2026-06-28T18:03:16.856967"
+    },
+    {
+      "english": "Sweet tea, with milk.",
+      "swahili": "Chai tamu, na maziwa.",
+      "transliteration": "Chai tamu, na maziwa.",
+      "category": "Food",
+      "generated_at": "2026-06-28T18:03:16.856968"
     }
   ],
-  "last_updated": "2026-06-28T15:19:17.735572"
+  "last_updated": "2026-06-28T18:03:16.856970"
 }
