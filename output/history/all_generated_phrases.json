@@ -1819,7 +1819,42 @@
       "transliteration": "Chai tamu, na maziwa.",
       "category": "Food",
       "generated_at": "2026-06-28T18:03:16.856968"
+    },
+    {
+      "english": "Happy New Year, friend.",
+      "swahili": "Heri ya Mwaka Mpya, rafiki.",
+      "transliteration": "Her-i ya Mwa-ka M-py-a, ra-fi-ki.",
+      "category": "Holidays",
+      "generated_at": "2026-06-28T21:02:39.703607"
+    },
+    {
+      "english": "Enjoy the holiday, relax.",
+      "swahili": "Furahia sikukuu, pumzika.",
+      "transliteration": "Fu-ra-hi-a si-ku-kuu, pu-mzi-ka.",
+      "category": "Holidays",
+      "generated_at": "2026-06-28T21:02:39.703618"
+    },
+    {
+      "english": "Merry Christmas, everyone.",
+      "swahili": "Krismasi njema, nyote.",
+      "transliteration": "Kri-sma-si nye-ma, ny-o-te.",
+      "category": "Holidays",
+      "generated_at": "2026-06-28T21:02:39.703620"
+    },
+    {
+      "english": "Have a good Eid, family.",
+      "swahili": "Eid njema, familia.",
+      "transliteration": "Eid nye-ma, fa-mi-li-a.",
+      "category": "Holidays",
+      "generated_at": "2026-06-28T21:02:39.703621"
+    },
+    {
+      "english": "Celebrate the season, warmly.",
+      "swahili": "Sherehekea msimu, kwa joto.",
+      "transliteration": "She-re-he-ke-a msi-mu, kwa j-o-to.",
+      "category": "Holidays",
+      "generated_at": "2026-06-28T21:02:39.703623"
     }
   ],
-  "last_updated": "2026-06-28T18:03:16.856970"
+  "last_updated": "2026-06-28T21:02:39.703624"
 }
