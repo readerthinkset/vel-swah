@@ -1889,7 +1889,42 @@
       "transliteration": "Muziki unatuunganisha, wote.",
       "category": "Culture",
       "generated_at": "2026-06-29T02:13:39.104849"
+    },
+    {
+      "english": "Greetings, fellow traveler.",
+      "swahili": "Salamu, mwenzangu wa safari.",
+      "transliteration": "Sala-moo, mwe-nza-ngu wa sa-fa-ri.",
+      "category": "Greetings",
+      "generated_at": "2026-06-29T15:27:17.688168"
+    },
+    {
+      "english": "A warm welcome, newcomer.",
+      "swahili": "Karibu sana, mpya hapa.",
+      "transliteration": "Ka-ri-bu sa-na, m-pu-ya ha-pa.",
+      "category": "Greetings",
+      "generated_at": "2026-06-29T15:27:17.688179"
+    },
+    {
+      "english": "Peace be with you, stranger.",
+      "swahili": "Amani kwako, mgeni.",
+      "transliteration": "A-ma-ni kwa-ko, m-ge-ni.",
+      "category": "Greetings",
+      "generated_at": "2026-06-29T15:27:17.688181"
+    },
+    {
+      "english": "May joy find you, friend.",
+      "swahili": "Furaha ikufikie, rafiki.",
+      "transliteration": "Fu-ra-ha i-ku-fi-kie, ra-fi-ki.",
+      "category": "Greetings",
+      "generated_at": "2026-06-29T15:27:17.688182"
+    },
+    {
+      "english": "A beautiful day, isn't it?",
+      "swahili": "Siku njema, si hivyo?",
+      "transliteration": "Si-ku nje-ma, si hi-vyo?",
+      "category": "Greetings",
+      "generated_at": "2026-06-29T15:27:17.688183"
     }
   ],
-  "last_updated": "2026-06-29T02:13:39.104851"
+  "last_updated": "2026-06-29T15:27:17.688185"
 }
