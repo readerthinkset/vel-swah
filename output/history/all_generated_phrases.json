@@ -1994,7 +1994,42 @@
       "transliteration": "Jua, ndani ya nafsi yangu.",
       "category": "Joy",
       "generated_at": "2026-06-29T19:04:15.455188"
+    },
+    {
+      "english": "Let's plan the day, together.",
+      "swahili": "Tupange siku, pamoja.",
+      "transliteration": "Tupange siku, pamojah.",
+      "category": "Work",
+      "generated_at": "2026-06-29T21:27:35.221806"
+    },
+    {
+      "english": "The meeting is soon, be ready.",
+      "swahili": "Mkutano ni karibu, kuwa tayari.",
+      "transliteration": "Mkutano ni karibu, kuwah tayari.",
+      "category": "Work",
+      "generated_at": "2026-06-29T21:27:35.221814"
+    },
+    {
+      "english": "I will finish this task, quickly.",
+      "swahili": "Nitaamaliza kazi hii, haraka.",
+      "transliteration": "Nitaamaliza kazi hii, harakah.",
+      "category": "Work",
+      "generated_at": "2026-06-29T21:27:35.221816"
+    },
+    {
+      "english": "Can you help me, please?",
+      "swahili": "Unaweza kunisaidia, tafadhali?",
+      "transliteration": "Unawaeza kunisaidiya, tafadhali?",
+      "category": "Work",
+      "generated_at": "2026-06-29T21:27:35.221817"
+    },
+    {
+      "english": "We need to focus, now.",
+      "swahili": "Tunahitaji kuzingatia, sasa.",
+      "transliteration": "Tunahitaji kuzingatia, sasah.",
+      "category": "Work",
+      "generated_at": "2026-06-29T21:27:35.221822"
     }
   ],
-  "last_updated": "2026-06-29T19:04:15.455190"
+  "last_updated": "2026-06-29T21:27:35.221824"
 }
