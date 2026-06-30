@@ -2134,7 +2134,42 @@
       "transliteration": "Kafuu ya ardhi, thabiti na kina.",
       "category": "Colors",
       "generated_at": "2026-06-30T16:24:49.641279"
+    },
+    {
+      "english": "Breathe deep, feel calm.",
+      "swahili": "Vuta pumzi kwa ndani, jisikie raha.",
+      "transliteration": "Voo-tah poom-zee kwah in-dah-nee, jees-kee-ay rah-hah.",
+      "category": "Health",
+      "generated_at": "2026-06-30T18:55:09.255903"
+    },
+    {
+      "english": "Eat well, live strong.",
+      "swahili": "Kula vizuri, ishi kwa nguvu.",
+      "transliteration": "Koo-lah vee-zoo-ree, ee-shee kwah ngoo-voo.",
+      "category": "Health",
+      "generated_at": "2026-06-30T18:55:09.255915"
+    },
+    {
+      "english": "Move your body, gain energy.",
+      "swahili": "Sogeza mwili wako, pata nguvu.",
+      "transliteration": "Soh-geh-zah mwee-lee wah-koh, pah-tah ngoo-voo.",
+      "category": "Health",
+      "generated_at": "2026-06-30T18:55:09.255917"
+    },
+    {
+      "english": "Sleep soundly, wake refreshed.",
+      "swahili": "Lala vizuri, amka umepoa.",
+      "transliteration": "Lah-lah vee-zoo-ree, ah-m-kah oo-meh-poh-ah.",
+      "category": "Health",
+      "generated_at": "2026-06-30T18:55:09.255918"
+    },
+    {
+      "english": "Hydrate often, stay healthy.",
+      "swahili": "Nyunyiza maji, kaa na afya.",
+      "transliteration": "Nyoong-zee-zah mah-jee, kah-ah nah ah-fya.",
+      "category": "Health",
+      "generated_at": "2026-06-30T18:55:09.255920"
     }
   ],
-  "last_updated": "2026-06-30T16:24:49.641280"
+  "last_updated": "2026-06-30T18:55:09.255921"
 }
