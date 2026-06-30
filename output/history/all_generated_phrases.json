@@ -2029,7 +2029,42 @@
       "transliteration": "Tunahitaji kuzingatia, sasah.",
       "category": "Work",
       "generated_at": "2026-06-29T21:27:35.221822"
+    },
+    {
+      "english": "This is beautiful, thank you.",
+      "swahili": "Hii ni nzuri, asante.",
+      "transliteration": "Hee nee nzoo-ree, ah-sahn-teh.",
+      "category": "Shopping",
+      "generated_at": "2026-06-30T02:08:22.650257"
+    },
+    {
+      "english": "Do you have, something cheaper?",
+      "swahili": "Una kitu, cha bei nafuu?",
+      "transliteration": "Oo-nah kee-too, chah bay nah-foo?",
+      "category": "Shopping",
+      "generated_at": "2026-06-30T02:08:22.650264"
+    },
+    {
+      "english": "This size, is it okay?",
+      "swahili": "Ukubwa huu, unatosha?",
+      "transliteration": "Oo-koo-bwah hoo, oo-nah-toh-shah?",
+      "category": "Shopping",
+      "generated_at": "2026-06-30T02:08:22.650266"
+    },
+    {
+      "english": "I'm just looking, for now.",
+      "swahili": "Natazama tu, kwa sasa.",
+      "transliteration": "Nah-tah-zah-mah too, kwah sah-sah.",
+      "category": "Shopping",
+      "generated_at": "2026-06-30T02:08:22.650268"
+    },
+    {
+      "english": "Can I pay, with my card?",
+      "swahili": "Naweza kulipa, kwa kadi?",
+      "transliteration": "Nah-way-zah koo-lee-pah, kwah kah-dee?",
+      "category": "Shopping",
+      "generated_at": "2026-06-30T02:08:22.650269"
     }
   ],
-  "last_updated": "2026-06-29T21:27:35.221824"
+  "last_updated": "2026-06-30T02:08:22.650270"
 }
