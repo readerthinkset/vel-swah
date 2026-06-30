@@ -2064,7 +2064,42 @@
       "transliteration": "Nah-way-zah koo-lee-pah, kwah kah-dee?",
       "category": "Shopping",
       "generated_at": "2026-06-30T02:08:22.650269"
+    },
+    {
+      "english": "Listen, to the rustling leaves.",
+      "swahili": "Sikiza, sauti ya majani.",
+      "transliteration": "Sikeeza, sawtee ya majani.",
+      "category": "Nature",
+      "generated_at": "2026-06-30T13:52:38.241375"
+    },
+    {
+      "english": "The river flows, on and on.",
+      "swahili": "Mto unatiririka, milele.",
+      "transliteration": "Mtoe unaatiree-reka, meele.",
+      "category": "Nature",
+      "generated_at": "2026-06-30T13:52:38.241386"
+    },
+    {
+      "english": "Sunlight warms, the forest floor.",
+      "swahili": "Jua lajipasha, sakafu ya msitu.",
+      "transliteration": "Joo laajeepasha, sakafu ya musitu.",
+      "category": "Nature",
+      "generated_at": "2026-06-30T13:52:38.241387"
+    },
+    {
+      "english": "A gentle breeze, whispers secrets.",
+      "swahili": "Upepo mwanana, wajisemesha.",
+      "transliteration": "Oo-pepo mwanana, wajisemeeka.",
+      "category": "Nature",
+      "generated_at": "2026-06-30T13:52:38.241388"
+    },
+    {
+      "english": "Birds sing, at dawn.",
+      "swahili": "Ndege huimba, alfajiri.",
+      "transliteration": "Ndege hoo-eemba, alfajeeree.",
+      "category": "Nature",
+      "generated_at": "2026-06-30T13:52:38.241390"
     }
   ],
-  "last_updated": "2026-06-30T02:08:22.650270"
+  "last_updated": "2026-06-30T13:52:38.241391"
 }
