@@ -2204,7 +2204,42 @@
       "transliteration": "Soksi heesi, zinatosha kikamilifu.",
       "category": "Clothes",
       "generated_at": "2026-06-30T21:29:05.686920"
+    },
+    {
+      "english": "Just a moment, please.",
+      "swahili": "Tafadhali, muda mfupi.",
+      "transliteration": "tafadhaali, muda mfupi",
+      "category": "Time",
+      "generated_at": "2026-07-01T02:13:29.066987"
+    },
+    {
+      "english": "When is dinner, soon?",
+      "swahili": "Chakula cha jioni lini, karibuni?",
+      "transliteration": "chakula cha jioni lini, karibuni",
+      "category": "Time",
+      "generated_at": "2026-07-01T02:13:29.066998"
+    },
+    {
+      "english": "Before the sun sets, hurry.",
+      "swahili": "Kabla jua halijazama, haraka.",
+      "transliteration": "kabla jua halijazama, haraka",
+      "category": "Time",
+      "generated_at": "2026-07-01T02:13:29.067000"
+    },
+    {
+      "english": "This hour, it feels good.",
+      "swahili": "Saa hii, yajisikia vizuri.",
+      "transliteration": "saa hii, yajisikia vizuri",
+      "category": "Time",
+      "generated_at": "2026-07-01T02:13:29.067001"
+    },
+    {
+      "english": "The day passes, quickly.",
+      "swahili": "Siku hupita, haraka.",
+      "transliteration": "siku hupita, haraka",
+      "category": "Time",
+      "generated_at": "2026-07-01T02:13:29.067003"
     }
   ],
-  "last_updated": "2026-06-30T21:29:05.686922"
+  "last_updated": "2026-07-01T02:13:29.067004"
 }
