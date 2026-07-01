@@ -2344,7 +2344,42 @@
       "transliteration": "Ah-mee-nee sah-fah-ree, foo-rah-hee-ah oo-koo-ah-jee.",
       "category": "Success",
       "generated_at": "2026-07-01T18:58:39.767494"
+    },
+    {
+      "english": "The lion roars, mighty and proud.",
+      "swahili": "Simba ananguruma, mwenye nguvu, anajivunia.",
+      "transliteration": "Simba ananguruma, mwenye nguvu, anajivunia.",
+      "category": "Animals",
+      "generated_at": "2026-07-01T21:39:34.445734"
+    },
+    {
+      "english": "A tiny mouse, scurries so fast.",
+      "swahili": "Panya mdogo, anakimbia kasi sana.",
+      "transliteration": "Panya mdogo, anakimbia kasi sana.",
+      "category": "Animals",
+      "generated_at": "2026-07-01T21:39:34.445745"
+    },
+    {
+      "english": "Elephants walk, with gentle giants' grace.",
+      "swahili": "Tembo wanatembea, kwa neema ya majitu marembo.",
+      "transliteration": "Tembo wanatembea, kwa neema ya majitu marembo.",
+      "category": "Animals",
+      "generated_at": "2026-07-01T21:39:34.445747"
+    },
+    {
+      "english": "Monkeys chatter, high in the trees.",
+      "swahili": "Vimbeu vinapiga kelele, juu mitini.",
+      "transliteration": "Vimbeu vinapiga kelele, juu mitini.",
+      "category": "Animals",
+      "generated_at": "2026-07-01T21:39:34.445748"
+    },
+    {
+      "english": "The snake slithers, silent and unseen.",
+      "swahili": "Nyoka anatembea, kimya bila kuonekana.",
+      "transliteration": "Nyoka anatembea, kimya bila kuonekana.",
+      "category": "Animals",
+      "generated_at": "2026-07-01T21:39:34.445749"
     }
   ],
-  "last_updated": "2026-07-01T18:58:39.767496"
+  "last_updated": "2026-07-01T21:39:34.445751"
 }
