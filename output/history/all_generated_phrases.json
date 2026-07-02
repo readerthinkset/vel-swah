@@ -2449,7 +2449,42 @@
       "transliteration": "Ruhusu udadisi, uongoze njia yako.",
       "category": "Inspiration",
       "generated_at": "2026-07-02T13:27:22.089678"
+    },
+    {
+      "english": "My, bag, is gone.",
+      "swahili": "Mfuko, wangu, umepotea.",
+      "transliteration": "Mfoo-ko, wan-goo, oo-meh-po-teh-ah.",
+      "category": "Emergency",
+      "generated_at": "2026-07-02T16:07:11.231235"
+    },
+    {
+      "english": "I, can't, breathe.",
+      "swahili": "Siwezi, kupumua.",
+      "transliteration": "See-weh-zee, koo-poo-moo-ah.",
+      "category": "Emergency",
+      "generated_at": "2026-07-02T16:07:11.231244"
+    },
+    {
+      "english": "Fire, inside, building.",
+      "swahili": "Moto, ndani, jengo.",
+      "transliteration": "Mo-toh, din-nee, jen-goo.",
+      "category": "Emergency",
+      "generated_at": "2026-07-02T16:07:11.231246"
+    },
+    {
+      "english": "Someone, is sick, here.",
+      "swahili": "Mtu, mgonjwa, hapa.",
+      "transliteration": "Mtoo, mgon-jwa, ha-pah.",
+      "category": "Emergency",
+      "generated_at": "2026-07-02T16:07:11.231247"
+    },
+    {
+      "english": "I, feel, dizzy.",
+      "swahili": "Nahisi, kizunguzungu.",
+      "transliteration": "Na-hee-see, kee-zoo-ngoo-zoo-ngoo.",
+      "category": "Emergency",
+      "generated_at": "2026-07-02T16:07:11.231249"
     }
   ],
-  "last_updated": "2026-07-02T13:27:22.089680"
+  "last_updated": "2026-07-02T16:07:11.231250"
 }
