@@ -2519,7 +2519,42 @@
       "transliteration": "Hii inanukia, vizuri ajabu!",
       "category": "Restaurant",
       "generated_at": "2026-07-02T18:25:43.417452"
+    },
+    {
+      "english": "This view, is amazing, truly.",
+      "swahili": "Hii mandhari, ni ya ajabu, kweli.",
+      "transliteration": "Hee mahn-dah-ree, nee yah ah-jah-boo, kweli.",
+      "category": "Travel",
+      "generated_at": "2026-07-02T21:08:39.493767"
+    },
+    {
+      "english": "May I take, a photograph, here?",
+      "swahili": "Naweza kupiga, picha, hapa?",
+      "transliteration": "Nah-weh-zah koo-pee-gah, pee-chah, hah-pah?",
+      "category": "Travel",
+      "generated_at": "2026-07-02T21:08:39.493774"
+    },
+    {
+      "english": "What is, this delicious, food?",
+      "swahili": "Hii chakula, kitamu, ni kipi?",
+      "transliteration": "Hee chah-koo-lah, kee-tah-moo, nee kee-pee?",
+      "category": "Travel",
+      "generated_at": "2026-07-02T21:08:39.493776"
+    },
+    {
+      "english": "Where can, I find, local crafts?",
+      "swahili": "Nitapata, bidhaa za sanaa, wapi?",
+      "transliteration": "Nee-tah-pah-tah, bee-dhaah zah sah-nah-ah, wah-pee?",
+      "category": "Travel",
+      "generated_at": "2026-07-02T21:08:39.493777"
+    },
+    {
+      "english": "This music, is so lively, yes?",
+      "swahili": "Hii muziki, una nguvu, sivyo?",
+      "transliteration": "Hee moo-zee-kee, oo-nah n-goo-voo, see-vyo?",
+      "category": "Travel",
+      "generated_at": "2026-07-02T21:08:39.493779"
     }
   ],
-  "last_updated": "2026-07-02T18:25:43.417453"
+  "last_updated": "2026-07-02T21:08:39.493780"
 }
