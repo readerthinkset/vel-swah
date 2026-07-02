@@ -2484,7 +2484,42 @@
       "transliteration": "Na-hee-see, kee-zoo-ngoo-zoo-ngoo.",
       "category": "Emergency",
       "generated_at": "2026-07-02T16:07:11.231249"
+    },
+    {
+      "english": "Just water, please, no ice.",
+      "swahili": "Maji tu, tafadhali, bila barafu.",
+      "transliteration": "Maji tu, tafadhali, bila barafu.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-02T18:25:43.417438"
+    },
+    {
+      "english": "Is this dish, vegetarian?",
+      "swahili": "Je, hii chakula, ni mboga?",
+      "transliteration": "Je, hii chakula, ni mboga?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-02T18:25:43.417448"
+    },
+    {
+      "english": "We are ready, to order now.",
+      "swahili": "Tupo tayari, kuagiza sasa.",
+      "transliteration": "Tupo tayari, kuagiza sasa.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-02T18:25:43.417449"
+    },
+    {
+      "english": "Could I have, some bread, with that?",
+      "swahili": "Naweza kupata, mkate, na hiyo?",
+      "transliteration": "Naweza kupata, mkate, na hiyo?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-02T18:25:43.417451"
+    },
+    {
+      "english": "This smells, wonderful!",
+      "swahili": "Hii inanukia, vizuri ajabu!",
+      "transliteration": "Hii inanukia, vizuri ajabu!",
+      "category": "Restaurant",
+      "generated_at": "2026-07-02T18:25:43.417452"
     }
   ],
-  "last_updated": "2026-07-02T16:07:11.231250"
+  "last_updated": "2026-07-02T18:25:43.417453"
 }
