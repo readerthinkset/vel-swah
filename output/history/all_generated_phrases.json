@@ -2659,7 +2659,42 @@
       "transliteration": "U-we-po wa-ko, za-wa-di.",
       "category": "Friendship",
       "generated_at": "2026-07-03T15:53:36.058196"
+    },
+    {
+      "english": "Good morning, sun shines.",
+      "swahili": "Habari za asubuhi, jua linang'aa.",
+      "transliteration": "Habari za asubuhi, ju-ah lee-nah-nga-ah.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-03T18:11:05.504610"
+    },
+    {
+      "english": "Welcome, sit here.",
+      "swahili": "Karibu, kaa hapa.",
+      "transliteration": "Kah-ree-boo, kah hah-pah.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-03T18:11:05.504620"
+    },
+    {
+      "english": "This is delicious, truly.",
+      "swahili": "Hii ni tamu, kweli kabisa.",
+      "transliteration": "Hee nee tah-moo, kweh-lee kah-bee-sah.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-03T18:11:05.504622"
+    },
+    {
+      "english": "Where is the market?",
+      "swahili": "Soko liko wapi?",
+      "transliteration": "So-ko lee-ko wah-pee?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-03T18:11:05.504623"
+    },
+    {
+      "english": "I want water, please.",
+      "swahili": "Nataka maji, tafadhali.",
+      "transliteration": "Nah-tah-kah mah-jee, tah-fah-thah-lee.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-03T18:11:05.504624"
     }
   ],
-  "last_updated": "2026-07-03T15:53:36.058198"
+  "last_updated": "2026-07-03T18:11:05.504626"
 }
