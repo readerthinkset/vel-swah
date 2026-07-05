@@ -2939,7 +2939,42 @@
       "transliteration": "To-a m-sa-a-da, bi-la ma-sha-ri-ti.",
       "category": "Kindness",
       "generated_at": "2026-07-05T01:54:39.665366"
+    },
+    {
+      "english": "Sky's clear, perfect day.",
+      "swahili": "Anga safi, siku njema.",
+      "transliteration": "Anga safi, siku njema.",
+      "category": "Weather",
+      "generated_at": "2026-07-05T13:04:23.260692"
+    },
+    {
+      "english": "A little breeze, nice.",
+      "swahili": "Upepo mwanana, wapendeza.",
+      "transliteration": "Upepo mwanana, wapendeza.",
+      "category": "Weather",
+      "generated_at": "2026-07-05T13:04:23.260701"
+    },
+    {
+      "english": "Thunder rumbles, far off.",
+      "swahili": "Taharuki yajia, mbali.",
+      "transliteration": "Taharuki yajia, mbali.",
+      "category": "Weather",
+      "generated_at": "2026-07-05T13:04:23.260703"
+    },
+    {
+      "english": "Dew drops, on the leaves.",
+      "swahili": "Tembwe, juu ya majani.",
+      "transliteration": "Tembwe, juu ya majani.",
+      "category": "Weather",
+      "generated_at": "2026-07-05T13:04:23.260704"
+    },
+    {
+      "english": "Sunbeams, warm the skin.",
+      "swahili": "Miale ya jua, yachoma ngozi.",
+      "transliteration": "Miale ya jua, yachoma ngozi.",
+      "category": "Weather",
+      "generated_at": "2026-07-05T13:04:23.260705"
     }
   ],
-  "last_updated": "2026-07-05T01:54:39.665368"
+  "last_updated": "2026-07-05T13:04:23.260707"
 }
