@@ -2974,7 +2974,42 @@
       "transliteration": "Miale ya jua, yachoma ngozi.",
       "category": "Weather",
       "generated_at": "2026-07-05T13:04:23.260705"
+    },
+    {
+      "english": "Shine brightly, my friend.",
+      "swahili": "Ng'ara sana, rafiki yangu.",
+      "transliteration": "Ng'ara sana, rafiki yangu.",
+      "category": "Confidence",
+      "generated_at": "2026-07-05T15:14:10.231025"
+    },
+    {
+      "english": "Believe in your power.",
+      "swahili": "Aminia nguvu zako.",
+      "transliteration": "Aminia nguvu zako.",
+      "category": "Confidence",
+      "generated_at": "2026-07-05T15:14:10.231033"
+    },
+    {
+      "english": "Unleash your potential.",
+      "swahili": "Fungua uwezo wako.",
+      "transliteration": "Fungua uwezo wako.",
+      "category": "Confidence",
+      "generated_at": "2026-07-05T15:14:10.231034"
+    },
+    {
+      "english": "Speak with conviction.",
+      "swahili": "Sema kwa ujasiri.",
+      "transliteration": "Sema kwa ujasiri.",
+      "category": "Confidence",
+      "generated_at": "2026-07-05T15:14:10.231036"
+    },
+    {
+      "english": "Embrace the challenge.",
+      "swahili": "Kubali changamoto.",
+      "transliteration": "Kubali changamoto.",
+      "category": "Confidence",
+      "generated_at": "2026-07-05T15:14:10.231037"
     }
   ],
-  "last_updated": "2026-07-05T13:04:23.260707"
+  "last_updated": "2026-07-05T15:14:10.231038"
 }
