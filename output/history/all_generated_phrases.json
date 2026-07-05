@@ -3044,7 +3044,42 @@
       "transliteration": "Kila kitu, kinahisi chenye uhai sana.",
       "category": "Joy",
       "generated_at": "2026-07-05T18:00:04.400280"
+    },
+    {
+      "english": "Go left, then right.",
+      "swahili": "Nenda kushoto, kisha kulia.",
+      "transliteration": "Nenda kushoto, kisha kulia.",
+      "category": "Directions",
+      "generated_at": "2026-07-05T21:03:56.431308"
+    },
+    {
+      "english": "Turn around, slowly.",
+      "swahili": "Geuka, polepole.",
+      "transliteration": "Geuka, polepole.",
+      "category": "Directions",
+      "generated_at": "2026-07-05T21:03:56.431317"
+    },
+    {
+      "english": "Walk straight ahead.",
+      "swahili": "Tembea moja kwa moja.",
+      "transliteration": "Tembea moja kwa moja.",
+      "category": "Directions",
+      "generated_at": "2026-07-05T21:03:56.431319"
+    },
+    {
+      "english": "Stop here, please.",
+      "swahili": "Simama hapa, tafadhali.",
+      "transliteration": "Simama hapa, tafadhali.",
+      "category": "Directions",
+      "generated_at": "2026-07-05T21:03:56.431320"
+    },
+    {
+      "english": "Follow this path.",
+      "swahili": "Fuata njia hii.",
+      "transliteration": "Fuata njia hii.",
+      "category": "Directions",
+      "generated_at": "2026-07-05T21:03:56.431321"
     }
   ],
-  "last_updated": "2026-07-05T18:00:04.400282"
+  "last_updated": "2026-07-05T21:03:56.431322"
 }
