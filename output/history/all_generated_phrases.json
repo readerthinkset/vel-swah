@@ -3324,7 +3324,42 @@
       "transliteration": "Blouse nzuri, kwa ajili ya karamu.",
       "category": "Clothes",
       "generated_at": "2026-07-07T14:04:05.553567"
+    },
+    {
+      "english": "A wise old owl, hoots softly.",
+      "swahili": "Bundi mzee, hulia kimya.",
+      "transliteration": "Boon-dee mm-zay, hoo-lee kim-yah.",
+      "category": "Animals",
+      "generated_at": "2026-07-07T21:25:55.130413"
+    },
+    {
+      "english": "A quick fox, with cunning eyes.",
+      "swahili": "Mbweha mwenye busara, macho makali.",
+      "transliteration": "Mm-bway-hah mway-nyay boo-sah-rah, mah-cho mah-kah-lee.",
+      "category": "Animals",
+      "generated_at": "2026-07-07T21:25:55.130423"
+    },
+    {
+      "english": "A graceful gazelle, leaps and bounds.",
+      "swahili": "Swala mwerevu, huruka kwa uzuri.",
+      "transliteration": "Swah-lah mm-way-ray-voo, hoo-roo-kah kwah oo-zoo-ree.",
+      "category": "Animals",
+      "generated_at": "2026-07-07T21:25:55.130425"
+    },
+    {
+      "english": "A busy bee, collects sweet nectar.",
+      "swahili": "Nyuki mwenye shughuli, anakusanya asali.",
+      "transliteration": "N'yoo-kee mway-nyay shoo-ghoo-lee, ah-nah-koo-sah-nyah ah-sah-lee.",
+      "category": "Animals",
+      "generated_at": "2026-07-07T21:25:55.130427"
+    },
+    {
+      "english": "A proud peacock, fans its colors.",
+      "swahili": "Tausi jasiri, hueneza rangi zake.",
+      "transliteration": "Tow-see jah-see-ree, hoo-way-nay-zah rahn-gee zah-kay.",
+      "category": "Animals",
+      "generated_at": "2026-07-07T21:25:55.130428"
     }
   ],
-  "last_updated": "2026-07-07T14:04:05.553569"
+  "last_updated": "2026-07-07T21:25:55.130430"
 }
