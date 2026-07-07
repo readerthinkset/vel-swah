@@ -3289,7 +3289,42 @@
       "transliteration": "Jenga madaraja, kwa kila sentensi, unayo jifunza.",
       "category": "Purpose",
       "generated_at": "2026-07-07T01:57:08.202478"
+    },
+    {
+      "english": "This scarf, adds flair.",
+      "swahili": "Ganda hili, linaongeza mvuto.",
+      "transliteration": "Ganda hili, linaongeza mvuto.",
+      "category": "Clothes",
+      "generated_at": "2026-07-07T14:04:05.553553"
+    },
+    {
+      "english": "My jacket, is waterproof.",
+      "swahili": "Koti langu, haliingizi maji.",
+      "transliteration": "Koti langu, haliingizi maji.",
+      "category": "Clothes",
+      "generated_at": "2026-07-07T14:04:05.553563"
+    },
+    {
+      "english": "That hat, suits you well.",
+      "swahili": "Kofia ile, inakufaa sana.",
+      "transliteration": "Kofia ile, inakufaa sana.",
+      "category": "Clothes",
+      "generated_at": "2026-07-07T14:04:05.553565"
+    },
+    {
+      "english": "These socks, are cozy.",
+      "swahili": "Soksi hizi, ni za starehe.",
+      "transliteration": "Soksi hizi, ni za starehe.",
+      "category": "Clothes",
+      "generated_at": "2026-07-07T14:04:05.553566"
+    },
+    {
+      "english": "A lovely blouse, for the party.",
+      "swahili": "Blouse nzuri, kwa ajili ya karamu.",
+      "transliteration": "Blouse nzuri, kwa ajili ya karamu.",
+      "category": "Clothes",
+      "generated_at": "2026-07-07T14:04:05.553567"
     }
   ],
-  "last_updated": "2026-07-07T01:57:08.202480"
+  "last_updated": "2026-07-07T14:04:05.553569"
 }
