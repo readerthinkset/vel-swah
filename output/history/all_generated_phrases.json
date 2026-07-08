@@ -3499,7 +3499,42 @@
       "transliteration": "Vaa nguo, jitazame vizuri.",
       "category": "Daily Routine",
       "generated_at": "2026-07-08T18:15:32.423414"
+    },
+    {
+      "english": "Nice day, friend.",
+      "swahili": "Siku nzuri, rafiki.",
+      "transliteration": "Siku nzoo-ree, ra-fee-kee.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-08T21:08:50.760906"
+    },
+    {
+      "english": "See you soon.",
+      "swahili": "Tutaonana baadaye.",
+      "transliteration": "Too-ta-o-na-na ba-a-da-yeh.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-08T21:08:50.760919"
+    },
+    {
+      "english": "What is this?",
+      "swahili": "Hii ni nini?",
+      "transliteration": "Hee nee nee-nee?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-08T21:08:50.760921"
+    },
+    {
+      "english": "I am learning Swahili.",
+      "swahili": "Ninafunza Kiswahili.",
+      "transliteration": "Nee-na-foo-nza Kee-swa-hee-lee.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-08T21:08:50.760922"
+    },
+    {
+      "english": "That is good.",
+      "swahili": "Hiyo ni nzuri.",
+      "transliteration": "Hee-yo nee nzoo-ree.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-08T21:08:50.760923"
     }
   ],
-  "last_updated": "2026-07-08T18:15:32.423416"
+  "last_updated": "2026-07-08T21:08:50.760925"
 }
