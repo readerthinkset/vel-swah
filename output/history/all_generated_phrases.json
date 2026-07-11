@@ -3954,7 +3954,42 @@
       "transliteration": "Milima kumi na moja, mbali sana.",
       "category": "Numbers",
       "generated_at": "2026-07-11T12:51:21.363014"
+    },
+    {
+      "english": "Danger, nearby, very close.",
+      "swahili": "Hatari, karibu, sana hapa.",
+      "transliteration": "Hatari, karibu, sana hapa.",
+      "category": "Emergency",
+      "generated_at": "2026-07-11T14:55:31.918313"
+    },
+    {
+      "english": "I need, to leave, immediately.",
+      "swahili": "Ninahitaji, kuondoka, mara moja.",
+      "transliteration": "Ninahitaji, kuondoka, mara moja.",
+      "category": "Emergency",
+      "generated_at": "2026-07-11T14:55:31.918323"
+    },
+    {
+      "english": "Where is, the nearest, safe place?",
+      "swahili": "Niaje, mahali salama, pa karibu?",
+      "transliteration": "Niaje, mahali salama, pa karibu?",
+      "category": "Emergency",
+      "generated_at": "2026-07-11T14:55:31.918325"
+    },
+    {
+      "english": "My, belongings, are stolen.",
+      "swahili": "Vitu, vyangu, vimeibwa.",
+      "transliteration": "Vitu, vyangu, vimeibwa.",
+      "category": "Emergency",
+      "generated_at": "2026-07-11T14:55:31.918326"
+    },
+    {
+      "english": "I need, to report, something.",
+      "swahili": "Ninahitaji, kuripoti, kitu.",
+      "transliteration": "Ninahitaji, kuripoti, kitu.",
+      "category": "Emergency",
+      "generated_at": "2026-07-11T14:55:31.918327"
     }
   ],
-  "last_updated": "2026-07-11T12:51:21.363016"
+  "last_updated": "2026-07-11T14:55:31.918329"
 }
