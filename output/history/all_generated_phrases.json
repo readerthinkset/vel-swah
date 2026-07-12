@@ -4199,7 +4199,42 @@
       "transliteration": "Keefoongoo keemooja, oosheendi moojah.",
       "category": "Confidence",
       "generated_at": "2026-07-12T17:58:07.309095"
+    },
+    {
+      "english": "Sunrise paints the sky, beautiful.",
+      "swahili": "Jua linachomoza angani, zuri.",
+      "transliteration": "Joo-ah lee-nah-choh-moh-zah ahn-gah-nee, zoo-ree.",
+      "category": "Time",
+      "generated_at": "2026-07-12T20:50:15.774327"
+    },
+    {
+      "english": "Midday sun, very hot.",
+      "swahili": "Jua la adhuhuri, kali sana.",
+      "transliteration": "Joo-ah lah ahd-hoo-ree, kah-lee sah-nah.",
+      "category": "Time",
+      "generated_at": "2026-07-12T20:50:15.774339"
+    },
+    {
+      "english": "Evening arrives, gently.",
+      "swahili": "Jioni yafika, polepole.",
+      "transliteration": "Jee-oh-nee yah-fee-kah, poh-lay-poh-lay.",
+      "category": "Time",
+      "generated_at": "2026-07-12T20:50:15.774341"
+    },
+    {
+      "english": "Night falls, quiet.",
+      "swahili": "Usiku waanguka, kimya.",
+      "transliteration": "Oo-see-koo wah-ahn-goo-kah, kee-myah.",
+      "category": "Time",
+      "generated_at": "2026-07-12T20:50:15.774342"
+    },
+    {
+      "english": "Dawn is breaking, new day.",
+      "swahili": "Alfajiri yaweka, siku mpya.",
+      "transliteration": "Ahl-fah-jee-ree yah-way-kah, see-koo em-pyah.",
+      "category": "Time",
+      "generated_at": "2026-07-12T20:50:15.774344"
     }
   ],
-  "last_updated": "2026-07-12T17:58:07.309097"
+  "last_updated": "2026-07-12T20:50:15.774345"
 }
