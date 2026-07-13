@@ -4234,7 +4234,42 @@
       "transliteration": "Ahl-fah-jee-ree yah-way-kah, see-koo em-pyah.",
       "category": "Time",
       "generated_at": "2026-07-12T20:50:15.774344"
+    },
+    {
+      "english": "Mist rolls in, slowly.",
+      "swahili": "Uwelekevu unafika, taratibu.",
+      "transliteration": "Uwelekevu unafika, taratibu.",
+      "category": "Weather",
+      "generated_at": "2026-07-13T01:29:15.112784"
+    },
+    {
+      "english": "That downpour, was intense.",
+      "swahili": "Mvua hiyo, ilikuwa kali.",
+      "transliteration": "Mvua hiyo, ilikuwa kali.",
+      "category": "Weather",
+      "generated_at": "2026-07-13T01:29:15.112794"
+    },
+    {
+      "english": "Sunlight, dappled through trees.",
+      "swahili": "Mwanga wa jua, umejificha mitini.",
+      "transliteration": "Mwanga wa jua, umejificha mitini.",
+      "category": "Weather",
+      "generated_at": "2026-07-13T01:29:15.112796"
+    },
+    {
+      "english": "Sky turns gray, looks like storm.",
+      "swahili": "Anga inageuka kijivu, inaonekana kama dhoruba.",
+      "transliteration": "Anga inageuka kijivu, inaonekana kama dhoruba.",
+      "category": "Weather",
+      "generated_at": "2026-07-13T01:29:15.112797"
+    },
+    {
+      "english": "A gentle shower, just now.",
+      "swahili": "Nyeshe kidogo, sasa hivi.",
+      "transliteration": "Nyeshe kidogo, sasa hivi.",
+      "category": "Weather",
+      "generated_at": "2026-07-13T01:29:15.112798"
     }
   ],
-  "last_updated": "2026-07-12T20:50:15.774345"
+  "last_updated": "2026-07-13T01:29:15.112800"
 }
