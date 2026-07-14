@@ -4444,7 +4444,42 @@
       "transliteration": "Jenga ulimwengu wako, neno kwa neno.",
       "category": "Purpose",
       "generated_at": "2026-07-14T01:18:31.064256"
+    },
+    {
+      "english": "This aroma, is divine.",
+      "swahili": "Harufu hii, ni nzuri sana.",
+      "transliteration": "Hah-ROO-foo HEE-ee, nee N-zoo-ree SAH-nah.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-14T13:03:44.886348"
+    },
+    {
+      "english": "Could we, have the bill, please?",
+      "swahili": "Tunaweza, kuomba bili, tafadhali?",
+      "transliteration": "Too-nah-WEH-zah, koo-OM-bah BEE-lee, tah-fah-DHAH-lee?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-14T13:03:44.886360"
+    },
+    {
+      "english": "This dish, is a triumph.",
+      "swahili": "Sahani hii, ni ya kipekee.",
+      "transliteration": "Sah-AH-nee HEE-ee, nee yah kee-peh-KEH-eh.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-14T13:03:44.886362"
+    },
+    {
+      "english": "A table, by the window?",
+      "swahili": "Meza, karibu na dirisha?",
+      "transliteration": "MEH-zah, kah-REE-boo nah dee-REE-shah?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-14T13:03:44.886363"
+    },
+    {
+      "english": "More, of this sauce, please.",
+      "swahili": "Ongeza, mchuzi huu, tafadhali.",
+      "transliteration": "ON-geh-zah, moo-choo-zee HOO, tah-fah-DHAH-lee.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-14T13:03:44.886365"
     }
   ],
-  "last_updated": "2026-07-14T01:18:31.064258"
+  "last_updated": "2026-07-14T13:03:44.886366"
 }
