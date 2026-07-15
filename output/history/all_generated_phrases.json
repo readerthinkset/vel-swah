@@ -4724,7 +4724,42 @@
       "transliteration": "Maendeleo, ni muhimu.",
       "category": "Work",
       "generated_at": "2026-07-15T18:03:38.355978"
+    },
+    {
+      "english": "Warm ugali, comfort food.",
+      "swahili": "Ugali wa joto, chakula cha faraja.",
+      "transliteration": "Oo-gah-lee wah jah-toh, chah-koo-lah chah fah-rah-jah.",
+      "category": "Food",
+      "generated_at": "2026-07-15T21:01:46.935586"
+    },
+    {
+      "english": "Grilled fish, ocean's best.",
+      "swahili": "Samaki wa kuchoma, bora wa bahari.",
+      "transliteration": "Sah-mah-kee wah koo-choh-mah, boh-rah wah bah-hah-ree.",
+      "category": "Food",
+      "generated_at": "2026-07-15T21:01:46.935595"
+    },
+    {
+      "english": "Fragrant spices, kitchen magic.",
+      "swahili": "Viungo vinukia, uchawi wa jikoni.",
+      "transliteration": "Vee-oo-ngo vee-noo-kee-ah, oo-chah-wee wah jee-koh-nee.",
+      "category": "Food",
+      "generated_at": "2026-07-15T21:01:46.935597"
+    },
+    {
+      "english": "Sweet potatoes, earthy delight.",
+      "swahili": "Viazi vitamu, furaha ya udongo.",
+      "transliteration": "Vee-ah-zee vee-tah-moo, foo-rah-hah yah oo-don-goh.",
+      "category": "Food",
+      "generated_at": "2026-07-15T21:01:46.935598"
+    },
+    {
+      "english": "Spiced chai, morning ritual.",
+      "swahili": "Chai ya viungo, ibada ya asubuhi.",
+      "transliteration": "Chai yah vee-oo-ngo, ee-bah-dah yah ah-soo-boo-hee.",
+      "category": "Food",
+      "generated_at": "2026-07-15T21:01:46.935600"
     }
   ],
-  "last_updated": "2026-07-15T18:03:38.355980"
+  "last_updated": "2026-07-15T21:01:46.935601"
 }
