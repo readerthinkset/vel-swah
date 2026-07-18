@@ -5144,7 +5144,42 @@
       "transliteration": "Sa-la-mu za ja-to, kwa-ko.",
       "category": "Holidays",
       "generated_at": "2026-07-18T17:54:24.413052"
+    },
+    {
+      "english": "Tick-tock, time flies.",
+      "swahili": "Saa inasonga, muda unakimbia.",
+      "transliteration": "Saah ee-nah-song-gah, moo-dah oo-nah-keem-bee-ah.",
+      "category": "Time",
+      "generated_at": "2026-07-18T20:49:54.667579"
+    },
+    {
+      "english": "Wait a sec, almost ready.",
+      "swahili": "Ngoja kidogo, karibu tayari.",
+      "transliteration": "Ngo-jah kee-doh-goh, kah-ree-boo tah-yah-ree.",
+      "category": "Time",
+      "generated_at": "2026-07-18T20:49:54.667592"
+    },
+    {
+      "english": "Every second, counts.",
+      "swahili": "Kila sekunde, ina umuhimu.",
+      "transliteration": "Kee-lah seh-koon-deh, ee-nah oo-moo-hee-moo.",
+      "category": "Time",
+      "generated_at": "2026-07-18T20:49:54.667593"
+    },
+    {
+      "english": "This moment, precious.",
+      "swahili": "Wakati huu, ni wa thamani.",
+      "transliteration": "Wah-kah-tee hoo, nee wah thah-mah-nee.",
+      "category": "Time",
+      "generated_at": "2026-07-18T20:49:54.667595"
+    },
+    {
+      "english": "Future beckons, onward.",
+      "swahili": "Kesho inaita, mbele tuende.",
+      "transliteration": "Keh-shoh ee-nah-ee-tah, m-beh-leh too-en-deh.",
+      "category": "Time",
+      "generated_at": "2026-07-18T20:49:54.667596"
     }
   ],
-  "last_updated": "2026-07-18T17:54:24.413053"
+  "last_updated": "2026-07-18T20:49:54.667597"
 }
