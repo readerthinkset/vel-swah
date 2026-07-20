@@ -5354,7 +5354,42 @@
       "transliteration": "kumbukumbu zetu, ni za thamani.",
       "category": "Relationships",
       "generated_at": "2026-07-19T20:50:44.938787"
+    },
+    {
+      "english": "Just past the big tree, stop.",
+      "swahili": "Mti mkuu ukipita, simama.",
+      "transliteration": "Mtee mkoo oo-kee-pee-tah, see-mah-mah.",
+      "category": "Directions",
+      "generated_at": "2026-07-20T01:52:20.047179"
+    },
+    {
+      "english": "From the market, take the third street.",
+      "swahili": "Sokoni, chukua njia ya tatu.",
+      "transliteration": "So-ko-nee, choo-koo-ah en-jee yah tah-too.",
+      "category": "Directions",
+      "generated_at": "2026-07-20T01:52:20.047191"
+    },
+    {
+      "english": "When you see the blue house, turn.",
+      "swahili": "Nyumba ya bluu ikionekana, geuka.",
+      "transliteration": "N'yoom-bah yah bloo ee-kee-o-neh-kah-nah, geh-oo-kah.",
+      "category": "Directions",
+      "generated_at": "2026-07-20T01:52:20.047192"
+    },
+    {
+      "english": "Head towards the ocean waves.",
+      "swahili": "Nenda kuelekea mawimbi ya bahari.",
+      "transliteration": "Nen-dah keh-leh-keh-ah mah-weem-bee yah bah-hah-ree.",
+      "category": "Directions",
+      "generated_at": "2026-07-20T01:52:20.047193"
+    },
+    {
+      "english": "Look for the flowing river.",
+      "swahili": "Tafuta mto unaotiririka.",
+      "transliteration": "Tah-foo-tah mtoe oo-nah-o-tee-ree-lee-kah.",
+      "category": "Directions",
+      "generated_at": "2026-07-20T01:52:20.047194"
     }
   ],
-  "last_updated": "2026-07-19T20:50:44.938789"
+  "last_updated": "2026-07-20T01:52:20.047196"
 }
