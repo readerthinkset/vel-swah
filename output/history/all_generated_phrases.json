@@ -5564,7 +5564,42 @@
       "transliteration": "Dada yangu mdogo, na udadisi mwingi.",
       "category": "Family Terms",
       "generated_at": "2026-07-21T13:13:10.948369"
+    },
+    {
+      "english": "Just three, please, no more.",
+      "swahili": "Tatu tu, tafadhali, si zaidi.",
+      "transliteration": "Tatu tu, tafadhali, si zaidi.",
+      "category": "Numbers",
+      "generated_at": "2026-07-21T15:45:12.257674"
+    },
+    {
+      "english": "Only four, for now.",
+      "swahili": "Nne tu, kwa sasa.",
+      "transliteration": "Nne tu, kwa sasa.",
+      "category": "Numbers",
+      "generated_at": "2026-07-21T15:45:12.257684"
+    },
+    {
+      "english": "Six pieces, of cake.",
+      "swahili": "Vipande sita, vya keki.",
+      "transliteration": "Vipande sita, vya keki.",
+      "category": "Numbers",
+      "generated_at": "2026-07-21T15:45:12.257686"
+    },
+    {
+      "english": "Twelve months, fly by.",
+      "swahili": "Miezi kumi na miwili, hupita haraka.",
+      "transliteration": "Miezi kumi na miwili, hupita haraka.",
+      "category": "Numbers",
+      "generated_at": "2026-07-21T15:45:12.257687"
+    },
+    {
+      "english": "Twenty days, of sunshine.",
+      "swahili": "Siku ishirini, za jua.",
+      "transliteration": "Siku ishirini, za jua.",
+      "category": "Numbers",
+      "generated_at": "2026-07-21T15:45:12.257688"
     }
   ],
-  "last_updated": "2026-07-21T13:13:10.948370"
+  "last_updated": "2026-07-21T15:45:12.257690"
 }
