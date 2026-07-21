@@ -5599,7 +5599,42 @@
       "transliteration": "Siku ishirini, za jua.",
       "category": "Numbers",
       "generated_at": "2026-07-21T15:45:12.257688"
+    },
+    {
+      "english": "This sweater, is so warm.",
+      "swahili": "Hii sweta, ni joto sana.",
+      "transliteration": "Hee sweh-tah, nee joh-toh sah-nah.",
+      "category": "Clothes",
+      "generated_at": "2026-07-21T18:14:38.433681"
+    },
+    {
+      "english": "Her skirt, has bright colors.",
+      "swahili": "Sketi yake, ina rangi nzuri.",
+      "transliteration": "Skeht-ee yah-keh, ee-nah rahn-gee nzoo-ree.",
+      "category": "Clothes",
+      "generated_at": "2026-07-21T18:14:38.433692"
+    },
+    {
+      "english": "These shorts, are for the beach.",
+      "swahili": "Hizi kaptula, ni za pwani.",
+      "transliteration": "Hee-zee kahp-too-lah, nee zah pwah-nee.",
+      "category": "Clothes",
+      "generated_at": "2026-07-21T18:14:38.433695"
+    },
+    {
+      "english": "My belt, holds my pants.",
+      "swahili": "Mkanda wangu, unashikilia suruali.",
+      "transliteration": "M-kahn-dah wahng-goo, oo-nah-shee-kee-leh-ah soo-roo-ah-lee.",
+      "category": "Clothes",
+      "generated_at": "2026-07-21T18:14:38.433698"
+    },
+    {
+      "english": "A simple t-shirt, for everyday.",
+      "swahili": "T-shati rahisi, kwa kila siku.",
+      "transliteration": "Tee-shah-tee rah-hee-see, kwah kee-lah see-koo.",
+      "category": "Clothes",
+      "generated_at": "2026-07-21T18:14:38.433700"
     }
   ],
-  "last_updated": "2026-07-21T15:45:12.257690"
+  "last_updated": "2026-07-21T18:14:38.433704"
 }
