@@ -5669,7 +5669,42 @@
       "transliteration": "Jenga falme, kwa vipande rahisi.",
       "category": "Creativity",
       "generated_at": "2026-07-21T21:10:24.795283"
+    },
+    {
+      "english": "Shalom, neighbor. Nice to see you.",
+      "swahili": "Shalom, jirani. Nimefurahi kukuona.",
+      "transliteration": "Sha-lom, ja-ee-ra-nee. Nee-meh-foo-ra-hee koo-koo-o-na.",
+      "category": "Greetings",
+      "generated_at": "2026-07-22T01:24:35.156587"
+    },
+    {
+      "english": "Ahoy, sailor. What brings you here?",
+      "swahili": "Ahoy, mwanamaji. Unaleta nini hapa?",
+      "transliteration": "Ahoy, mwa-na-ma-ja-ee. Oo-na-leh-ta nee-nee ha-pa?",
+      "category": "Greetings",
+      "generated_at": "2026-07-22T01:24:35.156601"
+    },
+    {
+      "english": "Welcome, wanderer. Rest your feet.",
+      "swahili": "Karibu, msafiri. Pumzisha miguu yako.",
+      "transliteration": "Ka-ree-boo, msa-fee-ree. Poo-mzee-sha mee-goo ya-ko.",
+      "category": "Greetings",
+      "generated_at": "2026-07-22T01:24:35.156604"
+    },
+    {
+      "english": "Salutations, seeker. A new path?",
+      "swahili": "Salamu, mtafuta. Njia mpya?",
+      "transliteration": "Sa-la-moo, mta-foo-ta. Njee-a m-poo-ya?",
+      "category": "Greetings",
+      "generated_at": "2026-07-22T01:24:35.156606"
+    },
+    {
+      "english": "Hails, companion. Glad you arrived.",
+      "swahili": "Hails, rafiki. Nimefurahi umefika.",
+      "transliteration": "Hails, ra-fee-kee. Nee-meh-foo-ra-hee oo-meh-fee-ka.",
+      "category": "Greetings",
+      "generated_at": "2026-07-22T01:24:35.156608"
     }
   ],
-  "last_updated": "2026-07-21T21:10:24.795285"
+  "last_updated": "2026-07-22T01:24:35.156609"
 }
