@@ -6474,7 +6474,42 @@
       "transliteration": "shikilia matumaini, inakuongoza",
       "category": "Perseverance",
       "generated_at": "2026-07-26T18:01:57.483999"
+    },
+    {
+      "english": "The clock ticks, steadily.",
+      "swahili": "Saa inapiga, kwa utulivu.",
+      "transliteration": "Saa ee-na-pee-ga, kwa oo-too-loo-vee.",
+      "category": "Time",
+      "generated_at": "2026-07-26T20:58:33.559079"
+    },
+    {
+      "english": "A fleeting second, gone.",
+      "swahili": "Sekunde inayopita, imekwisha.",
+      "transliteration": "Se-koon-de ee-na-yoh-pee-ta, ee-me-kwe-sha.",
+      "category": "Time",
+      "generated_at": "2026-07-26T20:58:33.559087"
+    },
+    {
+      "english": "The season turns, slowly.",
+      "swahili": "Msimu unabadilika, taratibu.",
+      "transliteration": "M-see-moo oo-na-ba-dee-lee-ka, ta-ra-tee-boo.",
+      "category": "Time",
+      "generated_at": "2026-07-26T20:58:33.559089"
+    },
+    {
+      "english": "Soon, the moon appears.",
+      "swahili": "Hivi karibuni, mwezi unaonekana.",
+      "transliteration": "Hee-vee ka-ree-boo-nee, mwe-zee oo-na-oh-ne-ka-na.",
+      "category": "Time",
+      "generated_at": "2026-07-26T20:58:33.559090"
+    },
+    {
+      "english": "Yesterday's memory, fades.",
+      "swahili": "Kumbukumbu za jana, zinafifia.",
+      "transliteration": "Ko-mboo-koom-boo za ja-na, zee-na-fee-fee-ya.",
+      "category": "Time",
+      "generated_at": "2026-07-26T20:58:33.559091"
     }
   ],
-  "last_updated": "2026-07-26T18:01:57.484000"
+  "last_updated": "2026-07-26T20:58:33.559092"
 }
