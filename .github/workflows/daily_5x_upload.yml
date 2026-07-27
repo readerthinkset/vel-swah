@@ -1,4 +1,4 @@
-name: VELOCITY INDONESIAN - Daily 5x Upload
+name: VELOCITY SWAHILI - Daily 5x Upload
 
 on:
   schedule:
@@ -112,9 +112,9 @@ jobs:
           echo "TIMEZONE_OFFSET_HOURS=-5" >> .env
           echo ".env file created"
 
-      - name: Generate Indonesian Learning Reel
+      - name: Generate SWAHILI Learning Reel
         run: |
-          echo "Starting VELOCITY INDONESIAN content generation..."
+          echo "Starting VELOCITY SWAHILI content generation..."
           python facebook_reels_automation.py
           echo "Content generation complete!"
           echo ""
@@ -132,7 +132,7 @@ jobs:
         uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: indonesian-reel-${{ github.run_number }}
+          name: SWAHILI-reel-${{ github.run_number }}
           path: |
             output/video/*/final_reel.mp4
             output/video/*/metadata.json
