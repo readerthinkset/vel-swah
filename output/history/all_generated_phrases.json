@@ -6789,7 +6789,42 @@
       "transliteration": "Hah-bah-ree gah-nee, rah-fee-kee?",
       "category": "Greetings",
       "generated_at": "2026-07-29T18:04:25.360722"
+    },
+    {
+      "english": "This soup, is very comforting.",
+      "swahili": "Hii supu, inanipa raha sana.",
+      "transliteration": "Hee soo-poo, ee-nah-nee pah-pah rah-hah sah-nah.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-29T20:56:39.165406"
+    },
+    {
+      "english": "May I, try a little bit?",
+      "swahili": "Naweza, kujaribu kidogo tu?",
+      "transliteration": "Nah-weh-zah, koo-jah-ree-boo kee-doh-goh too?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-29T20:56:39.165416"
+    },
+    {
+      "english": "This has, a surprising flavor.",
+      "swahili": "Hii ina, ladha ya kushangaza.",
+      "transliteration": "Hee ee-nah, lah-thah yah koo-shang-ga-zah.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-29T20:56:39.165418"
+    },
+    {
+      "english": "Could I have, a stronger coffee?",
+      "swahili": "Naweza kupata, kahawa nzito zaidi?",
+      "transliteration": "Nah-weh-zah koo-pah-tah, kah-hah-wah nzee-toh zah-ee-dee?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-29T20:56:39.165419"
+    },
+    {
+      "english": "The presentation, is artful.",
+      "swahili": "Uwasilishaji, ni wa kisanii.",
+      "transliteration": "Oo-wah-shee-lee-shaj, nee wah kee-sah-nee.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-29T20:56:39.165420"
     }
   ],
-  "last_updated": "2026-07-29T18:04:25.360724"
+  "last_updated": "2026-07-29T20:56:39.165422"
 }
