@@ -7069,7 +7069,42 @@
       "transliteration": "Nataka, kuondoka, sasa hivi.",
       "category": "Emergency",
       "generated_at": "2026-07-31T16:02:30.492145"
+    },
+    {
+      "english": "Sunshine on your face, a happy day.",
+      "swahili": "Jua usoni, siku njema.",
+      "transliteration": "Joo oo-soh-nee, see-koo njem-ah.",
+      "category": "Health",
+      "generated_at": "2026-07-31T18:17:14.480741"
+    },
+    {
+      "english": "Stretch your arms high, reach for the sky.",
+      "swahili": "Nyoosha mikono juu, kimbilia mbingu.",
+      "transliteration": "Nyoh-shah mee-koh-noh joo, keem-beel-ee-ah meem-boo.",
+      "category": "Health",
+      "generated_at": "2026-07-31T18:17:14.480754"
+    },
+    {
+      "english": "A quiet walk, clears the mind.",
+      "swahili": "Taratibu za kutembea, hufuta mawazo.",
+      "transliteration": "Tah-rah-tee-boo zah koo-tem-beh-ah, hoo-foo-tah mah-wah-zoh.",
+      "category": "Health",
+      "generated_at": "2026-07-31T18:17:14.480756"
+    },
+    {
+      "english": "Sip your tea, let worries fade.",
+      "swahili": "N'yunyiza chai, acha wasiwasi upite.",
+      "transliteration": "N'yoon-yee-zah chai, ah-chah wah-see-wah-see oo-pee-teh.",
+      "category": "Health",
+      "generated_at": "2026-07-31T18:17:14.480758"
+    },
+    {
+      "english": "Good food, good mood.",
+      "swahili": "Chakula bora, roho nzuri.",
+      "transliteration": "Chah-koo-lah boh-rah, roh-hoh nzoo-ree.",
+      "category": "Health",
+      "generated_at": "2026-07-31T18:17:14.480759"
     }
   ],
-  "last_updated": "2026-07-31T16:02:30.492146"
+  "last_updated": "2026-07-31T18:17:14.480760"
 }
