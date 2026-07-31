@@ -7034,7 +7034,42 @@
       "transliteration": "Sah-fah-ree yeh-too, ee-nah-en-deh-leh-ah.",
       "category": "Relationships",
       "generated_at": "2026-07-31T13:28:21.591791"
+    },
+    {
+      "english": "I need, a safe, place, now.",
+      "swahili": "Ninahitaji, mahali, salama, sasa.",
+      "transliteration": "Ninahitaji, mahali, salama, sasa.",
+      "category": "Emergency",
+      "generated_at": "2026-07-31T16:02:30.492131"
+    },
+    {
+      "english": "Something, is wrong, here.",
+      "swahili": "Kuna jambo, si sawa, hapa.",
+      "transliteration": "Kuna jambo, si sawa, hapa.",
+      "category": "Emergency",
+      "generated_at": "2026-07-31T16:02:30.492140"
+    },
+    {
+      "english": "Can you, help, me, please?",
+      "swahili": "Unaweza, kunisaidia, tafadhali?",
+      "transliteration": "Unaweza, kunisaidia, tafadhali?",
+      "category": "Emergency",
+      "generated_at": "2026-07-31T16:02:30.492142"
+    },
+    {
+      "english": "I am, very, scared.",
+      "swahili": "Nimeogopa, sana.",
+      "transliteration": "Nimeogopa, sana.",
+      "category": "Emergency",
+      "generated_at": "2026-07-31T16:02:30.492143"
+    },
+    {
+      "english": "I need, to get, away.",
+      "swahili": "Nataka, kuondoka, sasa hivi.",
+      "transliteration": "Nataka, kuondoka, sasa hivi.",
+      "category": "Emergency",
+      "generated_at": "2026-07-31T16:02:30.492145"
     }
   ],
-  "last_updated": "2026-07-31T13:28:21.591793"
+  "last_updated": "2026-07-31T16:02:30.492146"
 }
