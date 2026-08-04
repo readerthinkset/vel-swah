@@ -7734,7 +7734,42 @@
       "transliteration": "Fuata baada ya, ndege wenye kelele.",
       "category": "Directions",
       "generated_at": "2026-08-04T13:43:14.151413"
+    },
+    {
+      "english": "What is this made of, friend?",
+      "swahili": "Hii imetengenezwa na nini, rafiki?",
+      "transliteration": "Hee ee-meh-teh-neh-zwa nah nee-nee, rah-fee-kee?",
+      "category": "Shopping",
+      "generated_at": "2026-08-04T16:13:21.515639"
+    },
+    {
+      "english": "Could you show me, more options?",
+      "swahili": "Unaweza nionyesha, chaguo zaidi?",
+      "transliteration": "Oo-nah-weh-zah nee-oh-nyeh-shah, chah-goo-oh zah-ee-dee?",
+      "category": "Shopping",
+      "generated_at": "2026-08-04T16:13:21.515648"
+    },
+    {
+      "english": "Is this a local craft, perhaps?",
+      "swahili": "Hii ni kazi ya hapa, labda?",
+      "transliteration": "Hee nee kah-zee yah hah-pah, lahb-dah?",
+      "category": "Shopping",
+      "generated_at": "2026-08-04T16:13:21.515650"
+    },
+    {
+      "english": "I admire this design, greatly.",
+      "swahili": "Napenda sana muundo huu.",
+      "transliteration": "Nah-peh-ndah sah-nah moo-oon-doh hoo.",
+      "category": "Shopping",
+      "generated_at": "2026-08-04T16:13:21.515651"
+    },
+    {
+      "english": "What is the origin, of this item?",
+      "swahili": "Asili ya bidhaa hii, ni ipi?",
+      "transliteration": "Ah-see-lee yah bee-dha-ah hee, nee ee-pee?",
+      "category": "Shopping",
+      "generated_at": "2026-08-04T16:13:21.515652"
     }
   ],
-  "last_updated": "2026-08-04T13:43:14.151415"
+  "last_updated": "2026-08-04T16:13:21.515654"
 }
