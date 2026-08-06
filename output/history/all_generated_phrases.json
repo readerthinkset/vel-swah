@@ -8014,7 +8014,42 @@
       "transliteration": "Koom-bah-tee-ah koo-teh-teh-meh-kah, see m-bah-yah.",
       "category": "Balance",
       "generated_at": "2026-08-05T21:08:54.780440"
+    },
+    {
+      "english": "Sky's a lovely blue, today.",
+      "swahili": "Anga ni bluu nzuri, leo.",
+      "transliteration": "Anga ni blu nzuri, leo.",
+      "category": "Weather",
+      "generated_at": "2026-08-06T01:23:12.585645"
+    },
+    {
+      "english": "Feeling a bit chilly, outside.",
+      "swahili": "Nahisi baridi kidogo, nje.",
+      "transliteration": "Nahisi baridi kidogo, nje.",
+      "category": "Weather",
+      "generated_at": "2026-08-06T01:23:12.585655"
+    },
+    {
+      "english": "Sun's peeking, through the clouds.",
+      "swahili": "Jua linachungulia, mawinguni.",
+      "transliteration": "Jua linachungulia, mawinguni.",
+      "category": "Weather",
+      "generated_at": "2026-08-06T01:23:12.585657"
+    },
+    {
+      "english": "Air is so humid, lately.",
+      "swahili": "Hewa ni unyevu mwingi, siku hizi.",
+      "transliteration": "Hewa ni unyevu mwingi, siku hizi.",
+      "category": "Weather",
+      "generated_at": "2026-08-06T01:23:12.585658"
+    },
+    {
+      "english": "Looks like frost, might form.",
+      "swahili": "Inaonekana kama barafu, itatokea.",
+      "transliteration": "Inaonekana kama barafu, itatokea.",
+      "category": "Weather",
+      "generated_at": "2026-08-06T01:23:12.585659"
     }
   ],
-  "last_updated": "2026-08-05T21:08:54.780442"
+  "last_updated": "2026-08-06T01:23:12.585662"
 }
