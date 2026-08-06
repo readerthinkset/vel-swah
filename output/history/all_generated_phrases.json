@@ -8049,7 +8049,42 @@
       "transliteration": "Inaonekana kama barafu, itatokea.",
       "category": "Weather",
       "generated_at": "2026-08-06T01:23:12.585659"
+    },
+    {
+      "english": "My phone, is dead.",
+      "swahili": "Simu yangu, haifanyi kazi.",
+      "transliteration": "Simu yangu, haifanyi kazi.",
+      "category": "Emergency",
+      "generated_at": "2026-08-06T13:31:19.793842"
+    },
+    {
+      "english": "I've fallen, and I can't get up.",
+      "swahili": "Nimeanguka, siwezi kuinuka.",
+      "transliteration": "Nimeanguka, siwezi kuinuka.",
+      "category": "Emergency",
+      "generated_at": "2026-08-06T13:31:19.793851"
+    },
+    {
+      "english": "There's a stranger, watching me.",
+      "swahili": "Kuna mgeni, ananitazama.",
+      "transliteration": "Kuna mgeni, ananitazama.",
+      "category": "Emergency",
+      "generated_at": "2026-08-06T13:31:19.793852"
+    },
+    {
+      "english": "My keys, are gone.",
+      "swahili": "Ufunguo wangu, umepotea.",
+      "transliteration": "Ufunguo wangu, umepotea.",
+      "category": "Emergency",
+      "generated_at": "2026-08-06T13:31:19.793854"
+    },
+    {
+      "english": "I need, to contact, my family.",
+      "swahili": "Ninahitaji, kuwasiliana, na familia yangu.",
+      "transliteration": "Ninahitaji, kuwasiliana, na familia yangu.",
+      "category": "Emergency",
+      "generated_at": "2026-08-06T13:31:19.793855"
     }
   ],
-  "last_updated": "2026-08-06T01:23:12.585662"
+  "last_updated": "2026-08-06T13:31:19.793856"
 }
