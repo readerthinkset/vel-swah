@@ -8329,7 +8329,42 @@
       "transliteration": "Na-foo-ra-hee koo-koo-ta-na, na-weh.",
       "category": "Greetings",
       "generated_at": "2026-08-08T00:45:35.474151"
+    },
+    {
+      "english": "The parrot, talks so much, in bright colors.",
+      "swahili": "Kasuku, anazungumza sana, kwa rangi nzuri.",
+      "transliteration": "Kasuku, anazungumza sana, kwa rangi nzuri.",
+      "category": "Animals",
+      "generated_at": "2026-08-08T12:22:54.079027"
+    },
+    {
+      "english": "A small frog, jumps by the pond.",
+      "swahili": "Chura mdogo, anaruka karibu na kidimbwi.",
+      "transliteration": "Chura mdogo, anaruka karibu na kidimbwi.",
+      "category": "Animals",
+      "generated_at": "2026-08-08T12:22:54.079036"
+    },
+    {
+      "english": "A swift cheetah, hunts on the plains.",
+      "swahili": "Dhahabu ya haraka, inawinda kwenye tambarare.",
+      "transliteration": "Dhahabu ya haraka, inawinda kwenye tambarare.",
+      "category": "Animals",
+      "generated_at": "2026-08-08T12:22:54.079038"
+    },
+    {
+      "english": "A lazy sloth, hangs upside down.",
+      "swahili": "Mnyama mvivu, ananing'inia kichwa chini.",
+      "transliteration": "Mnyama mvivu, ananing'inia kichwa chini.",
+      "category": "Animals",
+      "generated_at": "2026-08-08T12:22:54.079039"
+    },
+    {
+      "english": "The playful otter, dives for fish.",
+      "swahili": "Kinyonga mwenye kucheza, anazama kwa samaki.",
+      "transliteration": "Kinyonga mwenye kucheza, anazama kwa samaki.",
+      "category": "Animals",
+      "generated_at": "2026-08-08T12:22:54.079040"
     }
   ],
-  "last_updated": "2026-08-08T00:45:35.474153"
+  "last_updated": "2026-08-08T12:22:54.079045"
 }
