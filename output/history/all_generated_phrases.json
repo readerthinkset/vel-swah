@@ -8784,7 +8784,42 @@
       "transliteration": "Uvumilivu hushinda, hakika.",
       "category": "Perseverance",
       "generated_at": "2026-08-10T17:48:48.374272"
+    },
+    {
+      "english": "Zero, the beginning.",
+      "swahili": "Sifuri, mwanzo.",
+      "transliteration": "Seefooree, mwaanzo.",
+      "category": "Numbers",
+      "generated_at": "2026-08-10T20:42:35.947585"
+    },
+    {
+      "english": "One coin, found it.",
+      "swahili": "Sarafu moja, nimeipata.",
+      "transliteration": "Sarafoo moojah, neemeepata.",
+      "category": "Numbers",
+      "generated_at": "2026-08-10T20:42:35.947594"
+    },
+    {
+      "english": "Two paths, diverge.",
+      "swahili": "Njia mbili, zinagawanyika.",
+      "transliteration": "Neejah mbeelee, zeenagawanyika.",
+      "category": "Numbers",
+      "generated_at": "2026-08-10T20:42:35.947596"
+    },
+    {
+      "english": "Three cheers, for victory.",
+      "swahili": "Vigelegele vitatu, kwa ushindi.",
+      "transliteration": "Veegelegele veetatoo, kwa oosheende.",
+      "category": "Numbers",
+      "generated_at": "2026-08-10T20:42:35.947597"
+    },
+    {
+      "english": "Four wheels, turning.",
+      "swahili": "Magurudumu manne, yanazunguka.",
+      "transliteration": "Maguroodoomoo mahne, yanazungooka.",
+      "category": "Numbers",
+      "generated_at": "2026-08-10T20:42:35.947598"
     }
   ],
-  "last_updated": "2026-08-10T17:48:48.374273"
+  "last_updated": "2026-08-10T20:42:35.947600"
 }
