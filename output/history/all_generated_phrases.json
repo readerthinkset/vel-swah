@@ -8959,7 +8959,42 @@
       "transliteration": "Pa-ki-a fa-i-li, shi-ri-ki u-lim-wengu wa-ko.",
       "category": "Technology",
       "generated_at": "2026-08-11T17:55:37.800058"
+    },
+    {
+      "english": "Open the door, friend.",
+      "swahili": "Fungua mlango, rafiki.",
+      "transliteration": "Fungua mlango, rafiki.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-11T20:44:13.389343"
+    },
+    {
+      "english": "Share the food, kindly.",
+      "swahili": "Gawanya chakula, kwa huruma.",
+      "transliteration": "Gawanya chakula, kwa huruma.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-11T20:44:13.389352"
+    },
+    {
+      "english": "Listen closely, now.",
+      "swahili": "Sikiliza kwa makini, sasa.",
+      "transliteration": "Sikiliza kwa makini, sasa.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-11T20:44:13.389354"
+    },
+    {
+      "english": "Tell me your name.",
+      "swahili": "Niambie jina lako.",
+      "transliteration": "Niambie jina lako.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-11T20:44:13.389355"
+    },
+    {
+      "english": "What time is it?",
+      "swahili": "Ni saa ngapi?",
+      "transliteration": "Ni saa ngapi?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-11T20:44:13.389356"
     }
   ],
-  "last_updated": "2026-08-11T17:55:37.800060"
+  "last_updated": "2026-08-11T20:44:13.389358"
 }
