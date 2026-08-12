@@ -9099,7 +9099,42 @@
       "transliteration": "Unaunda sentensi, kwa uzuri.",
       "category": "Confidence",
       "generated_at": "2026-08-12T17:55:29.196203"
+    },
+    {
+      "english": "My leg, is injured.",
+      "swahili": "Mguu wangu, umeumia.",
+      "transliteration": "Mgoo wangu, oo-meh-oo-mee-ah.",
+      "category": "Emergency",
+      "generated_at": "2026-08-12T20:44:49.220895"
+    },
+    {
+      "english": "I need water, urgently.",
+      "swahili": "Nahihitaji maji, haraka sana.",
+      "transliteration": "Nah-hee-tah-jee mah-jee, hah-rah-kah sah-nah.",
+      "category": "Emergency",
+      "generated_at": "2026-08-12T20:44:49.220907"
+    },
+    {
+      "english": "This is an emergency.",
+      "swahili": "Hii ni dharura, kubwa.",
+      "transliteration": "Hee nee dhah-roo-rah, koo-bwah.",
+      "category": "Emergency",
+      "generated_at": "2026-08-12T20:44:49.220909"
+    },
+    {
+      "english": "I've lost my way.",
+      "swahili": "Nimepotea, njia yangu.",
+      "transliteration": "Nee-meh-poh-teh-ah, njee-ah yang-oo.",
+      "category": "Emergency",
+      "generated_at": "2026-08-12T20:44:49.220911"
+    },
+    {
+      "english": "I need, medical help.",
+      "swahili": "Nahitaji, msaada wa kimatibabu.",
+      "transliteration": "Nah-hee-tah-jee, m-sah-ah-dah wah kee-mah-tee-bah-boo.",
+      "category": "Emergency",
+      "generated_at": "2026-08-12T20:44:49.220912"
     }
   ],
-  "last_updated": "2026-08-12T17:55:29.196205"
+  "last_updated": "2026-08-12T20:44:49.220914"
 }
