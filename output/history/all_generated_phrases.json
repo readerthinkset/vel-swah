@@ -9134,7 +9134,42 @@
       "transliteration": "Nah-hee-tah-jee, m-sah-ah-dah wah kee-mah-tee-bah-boo.",
       "category": "Emergency",
       "generated_at": "2026-08-12T20:44:49.220912"
+    },
+    {
+      "english": "Sky's getting dark, quickly.",
+      "swahili": "Anga linatiwa giza, haraka.",
+      "transliteration": "Anga linatiwa giza, haraka.",
+      "category": "Weather",
+      "generated_at": "2026-08-13T00:59:30.695606"
+    },
+    {
+      "english": "Warm breeze, whispers past.",
+      "swahili": "Upepo mwanana, wapita kimya.",
+      "transliteration": "Upepo mwanana, wapita kimya.",
+      "category": "Weather",
+      "generated_at": "2026-08-13T00:59:30.695616"
+    },
+    {
+      "english": "That hailstorm, was wild.",
+      "swahili": "Dhoruba ya mvua ya mawe, ilikuwa mbaya.",
+      "transliteration": "Dhoruba ya mvua ya mawe, ilikuwa mbaya.",
+      "category": "Weather",
+      "generated_at": "2026-08-13T00:59:30.695617"
+    },
+    {
+      "english": "Sunlight's fading, evening approaches.",
+      "swahili": "Mwangaza wa jua unachwa, jioni inakaribia.",
+      "transliteration": "Mwangaza wa jua unachwa, jioni inakaribia.",
+      "category": "Weather",
+      "generated_at": "2026-08-13T00:59:30.695618"
+    },
+    {
+      "english": "Air feels crisp, refreshing.",
+      "swahili": "Hewa inahisi safi, inayoburudisha.",
+      "transliteration": "Hewa inahisi safi, inayoburudisha.",
+      "category": "Weather",
+      "generated_at": "2026-08-13T00:59:30.695619"
     }
   ],
-  "last_updated": "2026-08-12T20:44:49.220914"
+  "last_updated": "2026-08-13T00:59:30.695621"
 }
