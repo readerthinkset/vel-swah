@@ -10009,7 +10009,42 @@
       "transliteration": "Nafsi yako, ua linalochipuka.",
       "category": "Hope",
       "generated_at": "2026-08-18T00:35:31.925991"
+    },
+    {
+      "english": "Two doors, slightly ajar.",
+      "swahili": "Milango miwili, imefunguliwa kidogo.",
+      "transliteration": "Milango miwili, imefunguliwa kidogo.",
+      "category": "Numbers",
+      "generated_at": "2026-08-18T12:21:35.388513"
+    },
+    {
+      "english": "Three shades, of green.",
+      "swahili": "Rangi tatu, za kijani.",
+      "transliteration": "Rangi tatu, za kijani.",
+      "category": "Numbers",
+      "generated_at": "2026-08-18T12:21:35.388521"
+    },
+    {
+      "english": "Four winds, blowing strong.",
+      "swahili": "Upepo minne, unavuma kwa nguvu.",
+      "transliteration": "Upepo minne, unavuma kwa nguvu.",
+      "category": "Numbers",
+      "generated_at": "2026-08-18T12:21:35.388523"
+    },
+    {
+      "english": "Five senses, alert now.",
+      "swahili": "Vihisi vitano, macho sasa.",
+      "transliteration": "Vihisi vitano, macho sasa.",
+      "category": "Numbers",
+      "generated_at": "2026-08-18T12:21:35.388524"
+    },
+    {
+      "english": "Six steps, forward please.",
+      "swahili": "Hatua sita, mbele tafadhali.",
+      "transliteration": "Hatua sita, mbele tafadhali.",
+      "category": "Numbers",
+      "generated_at": "2026-08-18T12:21:35.388525"
     }
   ],
-  "last_updated": "2026-08-18T00:35:31.925992"
+  "last_updated": "2026-08-18T12:21:35.388527"
 }
