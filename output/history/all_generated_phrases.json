@@ -10639,7 +10639,42 @@
       "transliteration": "Mbingu, ni turubai, ya ndoto.",
       "category": "Travel",
       "generated_at": "2026-08-21T17:24:53.531062"
+    },
+    {
+      "english": "Beyond the singing birds, keep moving.",
+      "swahili": "Zaidi ya ndege waimbaji, endelea.",
+      "transliteration": "Zai-dee yah... ndege waim-bah-jee, en-deh-leh-ah.",
+      "category": "Directions",
+      "generated_at": "2026-08-21T20:25:57.547461"
+    },
+    {
+      "english": "Where the path widens, look around.",
+      "swahili": "Mahali njia inapanuka, tazama.",
+      "transliteration": "Mah-ah-lee... njee ee-nah-pah-noo-kah, tah-zah-mah.",
+      "category": "Directions",
+      "generated_at": "2026-08-21T20:25:57.547471"
+    },
+    {
+      "english": "Listen for the water's whisper, then turn.",
+      "swahili": "Sikiliza kilio cha maji, kisha geuka.",
+      "transliteration": "See-kee-lee-zah... kee-lee-oh chah mah-jee, kee-shah geh-oo-kah.",
+      "category": "Directions",
+      "generated_at": "2026-08-21T20:25:57.547472"
+    },
+    {
+      "english": "Follow the scent of spices, onward.",
+      "swahili": "Fuata harufu ya viungo, mbele.",
+      "transliteration": "Foo-ah-tah... hah-roo-foo yah vee-oon-goh, mbeh-leh.",
+      "category": "Directions",
+      "generated_at": "2026-08-21T20:25:57.547474"
+    },
+    {
+      "english": "When the sun dips low, pause.",
+      "swahili": "Jua likizama, pumzika.",
+      "transliteration": "Joo-ah lee-kee-zah-mah, poo-mzee-kah.",
+      "category": "Directions",
+      "generated_at": "2026-08-21T20:25:57.547475"
     }
   ],
-  "last_updated": "2026-08-21T17:24:53.531064"
+  "last_updated": "2026-08-21T20:25:57.547477"
 }
