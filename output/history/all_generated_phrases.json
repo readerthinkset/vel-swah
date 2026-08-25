@@ -11269,7 +11269,42 @@
       "transliteration": "Tabasamu la pamoja, hufurahisha siku.",
       "category": "Wisdom",
       "generated_at": "2026-08-25T12:23:55.742377"
+    },
+    {
+      "english": "Joy, like a river, flows.",
+      "swahili": "Furaha, kama mto, inapita.",
+      "transliteration": "Furaha, kama mto, inapita.",
+      "category": "Happiness",
+      "generated_at": "2026-08-25T14:47:30.481619"
+    },
+    {
+      "english": "Smile often, live fully.",
+      "swahili": "Tabasamu mara nyingi, ishi kikamilifu.",
+      "transliteration": "Tabasamu mara nyingi, ishi kikamilifu.",
+      "category": "Happiness",
+      "generated_at": "2026-08-25T14:47:30.481633"
+    },
+    {
+      "english": "A happy heart, a bright day.",
+      "swahili": "Moyo wenye furaha, siku njema.",
+      "transliteration": "Moyo wenye furaha, siku njema.",
+      "category": "Happiness",
+      "generated_at": "2026-08-25T14:47:30.481635"
+    },
+    {
+      "english": "Peace, find it inside.",
+      "swahili": "Amani, ipate ndani.",
+      "transliteration": "Amani, ipate ndani.",
+      "category": "Happiness",
+      "generated_at": "2026-08-25T14:47:30.481636"
+    },
+    {
+      "english": "Contentment, a sweet song.",
+      "swahili": "Umakini, wimbo mtamu.",
+      "transliteration": "Umakini, wimbo mtamu.",
+      "category": "Happiness",
+      "generated_at": "2026-08-25T14:47:30.481637"
     }
   ],
-  "last_updated": "2026-08-25T12:23:55.742379"
+  "last_updated": "2026-08-25T14:47:30.481639"
 }
