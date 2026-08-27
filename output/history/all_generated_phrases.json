@@ -11584,7 +11584,42 @@
       "transliteration": "Na wewe, matukio huanza.",
       "category": "Friendship",
       "generated_at": "2026-08-27T05:31:21.917915"
+    },
+    {
+      "english": "The moon, rises slowly.",
+      "swahili": "Mwezi, unachomoza polepole.",
+      "transliteration": "Mwezi, unachomoza polepole.",
+      "category": "Time",
+      "generated_at": "2026-08-27T21:25:11.003661"
+    },
+    {
+      "english": "Sunrise, brings new hope.",
+      "swahili": "Mawio, huleta tumaini jipya.",
+      "transliteration": "Mawio, huleta tumaini jipya.",
+      "category": "Time",
+      "generated_at": "2026-08-27T21:25:11.003669"
+    },
+    {
+      "english": "A quick glance, then go.",
+      "swahili": "Tazama haraka, kisha nenda.",
+      "transliteration": "Tazama haraka, kisha nenda.",
+      "category": "Time",
+      "generated_at": "2026-08-27T21:25:11.003670"
+    },
+    {
+      "english": "The day, is ending now.",
+      "swahili": "Siku, inaisha sasa.",
+      "transliteration": "Siku, inaisha sasa.",
+      "category": "Time",
+      "generated_at": "2026-08-27T21:25:11.003672"
+    },
+    {
+      "english": "In a short while, I'll be there.",
+      "swahili": "Baada ya muda mfupi, nitakuwa hapo.",
+      "transliteration": "Baada ya muda mfupi, nitakuwa hapo.",
+      "category": "Time",
+      "generated_at": "2026-08-27T21:25:11.003673"
     }
   ],
-  "last_updated": "2026-08-27T05:31:21.917917"
+  "last_updated": "2026-08-27T21:25:11.003674"
 }
