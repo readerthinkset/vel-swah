@@ -11724,7 +11724,42 @@
       "transliteration": "Kunywa maji, kama kijito baridi.",
       "category": "Health",
       "generated_at": "2026-08-28T04:04:48.281502"
+    },
+    {
+      "english": "Sudden pain, here, now.",
+      "swahili": "Maumivu ghafla, hapa, sasa.",
+      "transliteration": "Mah-oo-mee-voo gha-fla, ha-pa, sa-sa.",
+      "category": "Emergency",
+      "generated_at": "2026-08-28T07:27:26.145621"
+    },
+    {
+      "english": "I am trapped, please.",
+      "swahili": "Nimenaswa, tafadhali.",
+      "transliteration": "Nee-meh-na-swa, ta-fa-dha-lee.",
+      "category": "Emergency",
+      "generated_at": "2026-08-28T07:27:26.145630"
+    },
+    {
+      "english": "Quickly, get help, outside.",
+      "swahili": "Haraka, leta msaada, nje.",
+      "transliteration": "Ha-ra-ka, leh-ta m-sa-a-da, n-jeh.",
+      "category": "Emergency",
+      "generated_at": "2026-08-28T07:27:26.145632"
+    },
+    {
+      "english": "This is urgent, listen.",
+      "swahili": "Hii ni ya haraka, sikia.",
+      "transliteration": "Hee nee ya ha-ra-ka, see-kee-a.",
+      "category": "Emergency",
+      "generated_at": "2026-08-28T07:27:26.145633"
+    },
+    {
+      "english": "I need assistance, fast.",
+      "swahili": "Nahihitaji msaada, upesi.",
+      "transliteration": "Na-hee-ha-ta-jee m-sa-a-da, oo-peh-see.",
+      "category": "Emergency",
+      "generated_at": "2026-08-28T07:27:26.145635"
     }
   ],
-  "last_updated": "2026-08-28T04:04:48.281503"
+  "last_updated": "2026-08-28T07:27:26.145636"
 }
