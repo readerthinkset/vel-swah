@@ -12319,7 +12319,42 @@
       "transliteration": "Hee-chee, kee-may-nee-ka-mee-lee-ka.",
       "category": "Shopping",
       "generated_at": "2026-08-31T19:52:14.143488"
+    },
+    {
+      "english": "Red apple, crisp crunch.",
+      "swahili": "Tunda jekundu, la kupasuka.",
+      "transliteration": "Toonda jeh-koo-doo, lah kah-pah-soo-kah.",
+      "category": "Food",
+      "generated_at": "2026-08-31T21:44:13.457429"
+    },
+    {
+      "english": "Green beans, garden's bounty.",
+      "swahili": "Maharage mabichi, wingi shambani.",
+      "transliteration": "Mah-hah-reh-geh mah-bee-chee, ween-gee shahm-bah-nee.",
+      "category": "Food",
+      "generated_at": "2026-08-31T21:44:13.457438"
+    },
+    {
+      "english": "Warm soup, fills the belly.",
+      "swahili": "Supu ya moto, ya jaza tumbo.",
+      "transliteration": "Soo-poo yah moh-toh, yah jah-zah toom-boh.",
+      "category": "Food",
+      "generated_at": "2026-08-31T21:44:13.457440"
+    },
+    {
+      "english": "Yellow corn, sweet kernels.",
+      "swahili": "Mahindi ya njano, mbegu tamu.",
+      "transliteration": "Mah-heen-dee yah n-jah-noh, em-beh-goo tah-moo.",
+      "category": "Food",
+      "generated_at": "2026-08-31T21:44:13.457441"
+    },
+    {
+      "english": "Blueberries, tiny bursting spheres.",
+      "swahili": "Bluberi, mipira midogo inayolipuka.",
+      "transliteration": "Bloo-beh-ree, mee-pee-rah mee-doh-goh ee-nah-yoh-lee-poo-kah.",
+      "category": "Food",
+      "generated_at": "2026-08-31T21:44:13.457442"
     }
   ],
-  "last_updated": "2026-08-31T19:52:14.143490"
+  "last_updated": "2026-08-31T21:44:13.457444"
 }
