@@ -12739,7 +12739,42 @@
       "transliteration": "Chura mwororo, anaruka ndani ya maji.",
       "category": "Nature",
       "generated_at": "2026-09-03T17:35:23.275587"
+    },
+    {
+      "english": "Listen, quickly, I need help.",
+      "swahili": "Sikiliza, haraka, nahitaji msaada.",
+      "transliteration": "Sikiliza, haraka, nahitaji msaada.",
+      "category": "Emergency",
+      "generated_at": "2026-09-03T19:37:32.384144"
+    },
+    {
+      "english": "My, path, is blocked.",
+      "swahili": "Njia, yangu, imefungwa.",
+      "transliteration": "Njia, yangu, imefungwa.",
+      "category": "Emergency",
+      "generated_at": "2026-09-03T19:37:32.384153"
+    },
+    {
+      "english": "Is anyone, there, to hear?",
+      "swahili": "Kuna mtu, huko, anayesikia?",
+      "transliteration": "Kuna mtu, huko, anayesikia?",
+      "category": "Emergency",
+      "generated_at": "2026-09-03T19:37:32.384154"
+    },
+    {
+      "english": "I'm lost, please, guide me.",
+      "swahili": "Nimepotea, tafadhali, niongoze.",
+      "transliteration": "Nimepotea, tafadhali, niongoze.",
+      "category": "Emergency",
+      "generated_at": "2026-09-03T19:37:32.384155"
+    },
+    {
+      "english": "There's a, deep hole, here.",
+      "swahili": "Kuna, shimo kubwa, hapa.",
+      "transliteration": "Kuna, shimo kubwa, hapa.",
+      "category": "Emergency",
+      "generated_at": "2026-09-03T19:37:32.384157"
     }
   ],
-  "last_updated": "2026-09-03T17:35:23.275588"
+  "last_updated": "2026-09-03T19:37:32.384158"
 }
