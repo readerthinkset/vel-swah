@@ -13404,7 +13404,42 @@
       "transliteration": "Ang-a sa-fee, zee-na-kung-o-ja.",
       "category": "Holidays",
       "generated_at": "2026-09-07T18:38:08.705218"
+    },
+    {
+      "english": "The lion, king of the savanna, roars loud.",
+      "swahili": "Simba, mfalme wa savana, huunguruma kwa nguvu.",
+      "transliteration": "Simba, mfalme wa savana, hu-unguruma kwa nguvu.",
+      "category": "Animals",
+      "generated_at": "2026-09-07T20:21:16.097130"
+    },
+    {
+      "english": "A tiny mouse, scurries through the house.",
+      "swahili": "Panya mdogo, hukimbia ndani ya nyumba.",
+      "transliteration": "Panya mdogo, hu-kimbia ndani ya nyumba.",
+      "category": "Animals",
+      "generated_at": "2026-09-07T20:21:16.097141"
+    },
+    {
+      "english": "The elephant, with a mighty trunk, drinks water.",
+      "swahili": "Tembo, na pua kubwa, hunywa maji.",
+      "transliteration": "Tembo, na pua kubwa, hu-nywa maji.",
+      "category": "Animals",
+      "generated_at": "2026-09-07T20:21:16.097142"
+    },
+    {
+      "english": "A swift falcon, dives from above.",
+      "swahili": "Falcon mwepesi, hushuka kutoka juu.",
+      "transliteration": "Falcon mwepesi, hu-shuka kutoka juu.",
+      "category": "Animals",
+      "generated_at": "2026-09-07T20:21:16.097144"
+    },
+    {
+      "english": "The playful monkey, swings through trees.",
+      "swahili": "Kima mcheshi, hujikongoja mitini.",
+      "transliteration": "Kima mcheshi, hu-jikongoja mitini.",
+      "category": "Animals",
+      "generated_at": "2026-09-07T20:21:16.097145"
     }
   ],
-  "last_updated": "2026-09-07T18:38:08.705219"
+  "last_updated": "2026-09-07T20:21:16.097147"
 }
