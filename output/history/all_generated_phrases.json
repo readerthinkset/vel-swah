@@ -13544,7 +13544,42 @@
       "transliteration": "On-jah lah-dhah, seh-mah kwah foo-rah-hah.",
       "category": "Purpose",
       "generated_at": "2026-09-08T17:48:09.671223"
+    },
+    {
+      "english": "Clouds drift, lazily by.",
+      "swahili": "Mawingu yanateleza, polepole.",
+      "transliteration": "Mawingu yanateleza, polepole.",
+      "category": "Weather",
+      "generated_at": "2026-09-08T19:44:50.445380"
+    },
+    {
+      "english": "The air, feels alive, today.",
+      "swahili": "Hewa, inahisi hai, leo.",
+      "transliteration": "Hewa, inahisi hai, leo.",
+      "category": "Weather",
+      "generated_at": "2026-09-08T19:44:50.445390"
+    },
+    {
+      "english": "A sharp wind, bites the skin.",
+      "swahili": "Upepo mkali, unauma ngozi.",
+      "transliteration": "Upepo mkali, unauma ngozi.",
+      "category": "Weather",
+      "generated_at": "2026-09-08T19:44:50.445391"
+    },
+    {
+      "english": "Sunlight glints, on wet ground.",
+      "swahili": "Mwangaza wa jua, unang'aa, ardhini.",
+      "transliteration": "Mwangaza wa jua, unang'aa, ardhini.",
+      "category": "Weather",
+      "generated_at": "2026-09-08T19:44:50.445392"
+    },
+    {
+      "english": "Sky wears, a soft veil.",
+      "swahili": "Anga linavaa, pazia laini.",
+      "transliteration": "Anga linavaa, pazia laini.",
+      "category": "Weather",
+      "generated_at": "2026-09-08T19:44:50.445394"
     }
   ],
-  "last_updated": "2026-09-08T17:48:09.671225"
+  "last_updated": "2026-09-08T19:44:50.445395"
 }
