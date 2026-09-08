@@ -13579,7 +13579,42 @@
       "transliteration": "Anga linavaa, pazia laini.",
       "category": "Weather",
       "generated_at": "2026-09-08T19:44:50.445394"
+    },
+    {
+      "english": "One dream, chase it far.",
+      "swahili": "Ndoto moja, itafute mbali.",
+      "transliteration": "Ndoto moja, i-tafute m-bali.",
+      "category": "Numbers",
+      "generated_at": "2026-09-08T22:24:48.281107"
+    },
+    {
+      "english": "Two hands, build a house.",
+      "swahili": "Mikono miwili, jenga nyumba.",
+      "transliteration": "M-ikono mi-wili, jenga nyumba.",
+      "category": "Numbers",
+      "generated_at": "2026-09-08T22:24:48.281119"
+    },
+    {
+      "english": "Three cheers, for success.",
+      "swahili": "Vigelegele vitatu, kwa mafanikio.",
+      "transliteration": "Vigelegele vi-tatu, kwa ma-fanikio.",
+      "category": "Numbers",
+      "generated_at": "2026-09-08T22:24:48.281121"
+    },
+    {
+      "english": "Four wheels, carry us.",
+      "swahili": "Magurudumu manne, tubebe.",
+      "transliteration": "M-agurudumu ma-nne, tu-bebe.",
+      "category": "Numbers",
+      "generated_at": "2026-09-08T22:24:48.281122"
+    },
+    {
+      "english": "Five senses, feel the world.",
+      "swahili": "Vyanzo vitano, hisi dunia.",
+      "transliteration": "Vyanzo vi-tano, hisi dunia.",
+      "category": "Numbers",
+      "generated_at": "2026-09-08T22:24:48.281123"
     }
   ],
-  "last_updated": "2026-09-08T19:44:50.445395"
+  "last_updated": "2026-09-08T22:24:48.281125"
 }
