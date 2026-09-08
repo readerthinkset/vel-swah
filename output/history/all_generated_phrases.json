@@ -13474,7 +13474,42 @@
       "transliteration": "Kee-voo-lee chah hah-rah-kah, kee-nah-pee-tah.",
       "category": "Time",
       "generated_at": "2026-09-07T22:33:48.406167"
+    },
+    {
+      "english": "Good day, traveler.  Welcome.",
+      "swahili": "Habari njema, msafiri. Karibu.",
+      "transliteration": "Ha-ba-ri n'je-ma, msafiri. Ka-ri-bu.",
+      "category": "Greetings",
+      "generated_at": "2026-09-08T15:34:06.103278"
+    },
+    {
+      "english": "Ah, you've arrived.  Good to see you.",
+      "swahili": "Ah, umefika. Nimefurahi kukuona.",
+      "transliteration": "Ah, u-me-fi-ka. Ni-me-fu-ra-hi ku-ku-o-na.",
+      "category": "Greetings",
+      "generated_at": "2026-09-08T15:34:06.103291"
+    },
+    {
+      "english": "Hello there.  What brings you?",
+      "swahili": "Jambo huko. Unaleta nini?",
+      "transliteration": "Jambo hu-ko. U-na-le-ta nini?",
+      "category": "Greetings",
+      "generated_at": "2026-09-08T15:34:06.103292"
+    },
+    {
+      "english": "A pleasant moment.  Enjoy your stay.",
+      "swahili": "Wakati mzuri. Furahia kukaa kwako.",
+      "transliteration": "Wa-ka-ti m-zu-ri. Fu-ra-hia ku-kaa kwa-ko.",
+      "category": "Greetings",
+      "generated_at": "2026-09-08T15:34:06.103293"
+    },
+    {
+      "english": "Welcome, friend.  All is well?",
+      "swahili": "Karibu, rafiki. Wote ni wema?",
+      "transliteration": "Ka-ri-bu, ra-fi-ki. Wo-te ni we-ma?",
+      "category": "Greetings",
+      "generated_at": "2026-09-08T15:34:06.103294"
     }
   ],
-  "last_updated": "2026-09-07T22:33:48.406169"
+  "last_updated": "2026-09-08T15:34:06.103295"
 }
