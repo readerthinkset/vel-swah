@@ -13509,7 +13509,42 @@
       "transliteration": "Ka-ri-bu, ra-fi-ki. Wo-te ni we-ma?",
       "category": "Greetings",
       "generated_at": "2026-09-08T15:34:06.103294"
+    },
+    {
+      "english": "Explore lands, speak their tales.",
+      "swahili": "Gundua nchi, sema hadithi zao.",
+      "transliteration": "Goo-doo-ah n-chee, seh-mah ha-dee-thee zah-oh.",
+      "category": "Purpose",
+      "generated_at": "2026-09-08T17:48:09.671208"
+    },
+    {
+      "english": "Hear the music, of a new tongue.",
+      "swahili": "Sikia muziki, wa lugha mpya.",
+      "transliteration": "Skee-ee-ah moo-zee-kee, wah loo-gha m-pyah.",
+      "category": "Purpose",
+      "generated_at": "2026-09-08T17:48:09.671218"
+    },
+    {
+      "english": "Share laughter, in this language.",
+      "swahili": "Shiriki kicheko, kwa lugha hii.",
+      "transliteration": "Shee-ree-kee kee-cheh-koh, kwah loo-gha hee.",
+      "category": "Purpose",
+      "generated_at": "2026-09-08T17:48:09.671220"
+    },
+    {
+      "english": "Unlock wisdom, with simple words.",
+      "swahili": "Fungua hekima, kwa maneno rahisi.",
+      "transliteration": "Foon-goo-ah heh-kee-mah, kwah mah-neh-noh rah-hee-see.",
+      "category": "Purpose",
+      "generated_at": "2026-09-08T17:48:09.671222"
+    },
+    {
+      "english": "Taste flavors, speak with joy.",
+      "swahili": "Onja ladha, sema kwa furaha.",
+      "transliteration": "On-jah lah-dhah, seh-mah kwah foo-rah-hah.",
+      "category": "Purpose",
+      "generated_at": "2026-09-08T17:48:09.671223"
     }
   ],
-  "last_updated": "2026-09-08T15:34:06.103295"
+  "last_updated": "2026-09-08T17:48:09.671225"
 }
