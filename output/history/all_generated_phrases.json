@@ -13649,7 +13649,42 @@
       "transliteration": "Lugha, inafunuka kwako.",
       "category": "Motivation",
       "generated_at": "2026-09-09T15:28:32.449700"
+    },
+    {
+      "english": "A river flows, to the sea.",
+      "swahili": "Mto unatiririka, kuelekea bahari.",
+      "transliteration": "Mto una-tiririka, kuelekea ba-ha-ri.",
+      "category": "Nature",
+      "generated_at": "2026-09-09T19:35:59.926006"
+    },
+    {
+      "english": "Leaves rustle, in the breeze.",
+      "swahili": "Majani yanasisimka, kwa upepo.",
+      "transliteration": "Ma-ja-ni ya-na-si-sim-ka, kwa u-pe-po.",
+      "category": "Nature",
+      "generated_at": "2026-09-09T19:35:59.926016"
+    },
+    {
+      "english": "A lone bird sings, a sweet song.",
+      "swahili": "Ndege mmoja anaimba, wimbo mtamu.",
+      "transliteration": "Nde-ge m-moja a-na-im-ba, wim-bo mtam-u.",
+      "category": "Nature",
+      "generated_at": "2026-09-09T19:35:59.926018"
+    },
+    {
+      "english": "The forest whispers, secrets old.",
+      "swahili": "Msitu unanong'ona, siri za kale.",
+      "transliteration": "M-si-tu u-na-nong'o-na, si-ri za ka-le.",
+      "category": "Nature",
+      "generated_at": "2026-09-09T19:35:59.926020"
+    },
+    {
+      "english": "A gentle stream, winds its way.",
+      "swahili": "Kijito kitulivu, kinazunguka njia.",
+      "transliteration": "Ki-ji-to ki-tu-li-vu, ki-na-zun-gu-ka nji-a.",
+      "category": "Nature",
+      "generated_at": "2026-09-09T19:35:59.926021"
     }
   ],
-  "last_updated": "2026-09-09T15:28:32.449702"
+  "last_updated": "2026-09-09T19:35:59.926023"
 }
