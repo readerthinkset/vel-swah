@@ -14209,7 +14209,42 @@
       "transliteration": "Tah-foo-tah m-doon-doh wah-koh m-weh-nyeh-weh.",
       "category": "Balance",
       "generated_at": "2026-09-12T21:58:24.200773"
+    },
+    {
+      "english": "Tender coconut, sweet nectar.",
+      "swahili": "Nazi mbivu, tamu sana.",
+      "transliteration": "Nah-zee mm-bee-voo, tah-moo sah-nah.",
+      "category": "Food",
+      "generated_at": "2026-09-13T01:50:31.919948"
+    },
+    {
+      "english": "Spiced lentils, warming aroma.",
+      "swahili": "Mahiwi ya viungo, harufu ya joto.",
+      "transliteration": "Mah-hee-wee yah vee-oon-go, hah-roof-oo yah jo-to.",
+      "category": "Food",
+      "generated_at": "2026-09-13T01:50:31.919956"
+    },
+    {
+      "english": "Fried plantains, golden crisp.",
+      "swahili": "Ndizi kaanga, dhahabu na sauti.",
+      "transliteration": "Ndee-zee kah-ahn-gah, dhah-hah-boo nah saw-tee.",
+      "category": "Food",
+      "generated_at": "2026-09-13T01:50:31.919957"
+    },
+    {
+      "english": "Fresh passion fruit, tangy burst.",
+      "swahili": "Tunda la pasheni, uchachu tamu.",
+      "transliteration": "Toon-dah lah pah-sheh-nee, oo-chah-choo tah-moo.",
+      "category": "Food",
+      "generated_at": "2026-09-13T01:50:31.919959"
+    },
+    {
+      "english": "Roast chicken, savory goodness.",
+      "swahili": "Kuku choma, ladha nzuri.",
+      "transliteration": "Koo-koo cho-mah, lah-dhah nzoo-ree.",
+      "category": "Food",
+      "generated_at": "2026-09-13T01:50:31.919960"
     }
   ],
-  "last_updated": "2026-09-12T21:58:24.200774"
+  "last_updated": "2026-09-13T01:50:31.919962"
 }
