@@ -14524,7 +14524,42 @@
       "transliteration": "Roo-hoo-soo oo-peh-poh, oo-koo-beh-beh.",
       "category": "Patience",
       "generated_at": "2026-09-14T22:58:48.027014"
+    },
+    {
+      "english": "Fire, over there, big flames.",
+      "swahili": "Moto, pale, miali mikubwa.",
+      "transliteration": "Moto, pale, miali mikubwa.",
+      "category": "Emergency",
+      "generated_at": "2026-09-15T02:14:44.527092"
+    },
+    {
+      "english": "Someone, is yelling, very loud.",
+      "swahili": "Mtu, anapiga kelele, sauti kubwa.",
+      "transliteration": "Mtu, anapiga kelele, sauti kubwa.",
+      "category": "Emergency",
+      "generated_at": "2026-09-15T02:14:44.527109"
+    },
+    {
+      "english": "We must, move, away now.",
+      "swahili": "Tuna lazima, kusonga, mbali sasa.",
+      "transliteration": "Tuna lazima, kusonga, mbali sasa.",
+      "category": "Emergency",
+      "generated_at": "2026-09-15T02:14:44.527112"
+    },
+    {
+      "english": "The ground, is shaking, strongly.",
+      "swahili": "Ardhi, inatikisika, kwa nguvu.",
+      "transliteration": "Ardhi, inatikisika, kwa nguvu.",
+      "category": "Emergency",
+      "generated_at": "2026-09-15T02:14:44.527113"
+    },
+    {
+      "english": "I can't, breathe, properly.",
+      "swahili": "Siwezi, kupumua, vizuri.",
+      "transliteration": "Siwezi, kupumua, vizuri.",
+      "category": "Emergency",
+      "generated_at": "2026-09-15T02:14:44.527115"
     }
   ],
-  "last_updated": "2026-09-14T22:58:48.027018"
+  "last_updated": "2026-09-15T02:14:44.527117"
 }
