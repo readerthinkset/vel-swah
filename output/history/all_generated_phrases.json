@@ -14734,7 +14734,42 @@
       "transliteration": "Unainua, roho yangu juu.",
       "category": "Relationships",
       "generated_at": "2026-09-16T02:08:14.615612"
+    },
+    {
+      "english": "A tiny ant, carries a big crumb.",
+      "swahili": "Mchwa mdogo, hubeba mkate mkubwa.",
+      "transliteration": "Mch-wah m-do-go, hoo-beh-ah m-kah-tay m-koo-bwah.",
+      "category": "Animals",
+      "generated_at": "2026-09-16T15:42:20.231647"
+    },
+    {
+      "english": "The shy chameleon, changes its colors.",
+      "swahili": "Kinyonga mkimya, hubadilisha rangi zake.",
+      "transliteration": "Kee-nyon-gah keem-yah, hoo-bah-dee-lee-shah ran-gee zah-kay.",
+      "category": "Animals",
+      "generated_at": "2026-09-16T15:42:20.231660"
+    },
+    {
+      "english": "A noisy crow, caws from a branch.",
+      "swahili": "Kunguru mzinga, hulia kutoka tawi.",
+      "transliteration": "Koon-goo-roo mzee-nga, hoo-lee-ah koo-toh-kah tah-wee.",
+      "category": "Animals",
+      "generated_at": "2026-09-16T15:42:20.231662"
+    },
+    {
+      "english": "The swift hare, hops across the field.",
+      "swahili": "Sungura mbio, huruka kuvuka uwanja.",
+      "transliteration": "Soon-goo-rah mbee-oh, hoo-roo-kah koo-voo-kah oo-wahn-jah.",
+      "category": "Animals",
+      "generated_at": "2026-09-16T15:42:20.231663"
+    },
+    {
+      "english": "A sleepy owl, hunts in the dark.",
+      "swahili": "Bundi mlegevu, huwinda gizani.",
+      "transliteration": "Boo-dee m-leh-geh-voo, hoo-ween-dah gee-zah-nee.",
+      "category": "Animals",
+      "generated_at": "2026-09-16T15:42:20.231664"
     }
   ],
-  "last_updated": "2026-09-16T02:08:14.615613"
+  "last_updated": "2026-09-16T15:42:20.231666"
 }
