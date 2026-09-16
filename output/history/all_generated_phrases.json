@@ -14804,7 +14804,42 @@
       "transliteration": "Wazazi wangu, rafiki wa kweli.",
       "category": "Family Terms",
       "generated_at": "2026-09-16T18:01:08.634101"
+    },
+    {
+      "english": "Sun climbs higher, hot afternoon.",
+      "swahili": "Jua linapaa juu, adhuhuri kali.",
+      "transliteration": "Ju-a lee-na-pa-a ju-u, a-dhu-hu-ri ka-li.",
+      "category": "Time",
+      "generated_at": "2026-09-16T19:50:47.356942"
+    },
+    {
+      "english": "Shadows lengthen, day dims.",
+      "swahili": "Vivuli virefu, siku inafifia.",
+      "transliteration": "Vee-vu-lee vee-re-fu, see-koo ee-na-fee-fee-a.",
+      "category": "Time",
+      "generated_at": "2026-09-16T19:50:47.356950"
+    },
+    {
+      "english": "First light appears, morning calls.",
+      "swahili": "Mwanga wa kwanza, asubuhi inaita.",
+      "transliteration": "Mwa-nga wa kwan-za, a-su-bu-hi ee-na-a-ee-ta.",
+      "category": "Time",
+      "generated_at": "2026-09-16T19:50:47.356952"
+    },
+    {
+      "english": "Stars begin to gleam, night deepens.",
+      "swahili": "Nyota huoneka, usiku unafika mbali.",
+      "transliteration": "Nyo-ta hoo-o-ne-ka, u-see-koo u-na-fee-ka m-ba-li.",
+      "category": "Time",
+      "generated_at": "2026-09-16T19:50:47.356954"
+    },
+    {
+      "english": "Golden hour approaches, soft glow.",
+      "swahili": "Saa ya dhahabu inakaribia, mwanga mwororo.",
+      "transliteration": "Saa ya dha-ha-bu ee-na-ka-ree-bee-a, mwa-nga mwo-ro-ro.",
+      "category": "Time",
+      "generated_at": "2026-09-16T19:50:47.356955"
     }
   ],
-  "last_updated": "2026-09-16T18:01:08.634103"
+  "last_updated": "2026-09-16T19:50:47.356956"
 }
