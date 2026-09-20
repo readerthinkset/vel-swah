@@ -15469,7 +15469,42 @@
       "transliteration": "Usisahau, kugeuka kulia.",
       "category": "Directions",
       "generated_at": "2026-09-20T19:15:16.050631"
+    },
+    {
+      "english": "This shirt, feels breezy.",
+      "swahili": "Kanzia hii, inahisi upepo.",
+      "transliteration": "Kahn-zee-ah hee, ee-nah-hee-see oo-peh-poh.",
+      "category": "Clothes",
+      "generated_at": "2026-09-20T22:14:02.634423"
+    },
+    {
+      "english": "My dress, is vibrant.",
+      "swahili": "Gauni langu, ni la rangi.",
+      "transliteration": "Gah-oo-nee lahng-goo, nee lah rahng-gee.",
+      "category": "Clothes",
+      "generated_at": "2026-09-20T22:14:02.634443"
+    },
+    {
+      "english": "Her coat, keeps out the chill.",
+      "swahili": "Koti lake, huzuia baridi.",
+      "transliteration": "Koh-tee lah-keh, hoo-zoo-ee-ah bah-ree-dee.",
+      "category": "Clothes",
+      "generated_at": "2026-09-20T22:14:02.634445"
+    },
+    {
+      "english": "Your shoes, look stylish.",
+      "swahili": "Viatu vyako, vinaonekana maridadi.",
+      "transliteration": "Vee-ah-too vyah-koh, vee-nah-oh-neh-kah-nah mah-ree-dah-dee.",
+      "category": "Clothes",
+      "generated_at": "2026-09-20T22:14:02.634446"
+    },
+    {
+      "english": "These pajamas, are a soft dream.",
+      "swahili": "Mavazi ya kulala haya, ni ndoto laini.",
+      "transliteration": "Mah-vah-zee yah koo-lah-lah hah-yah, nee ndoh-toh lah-ee-nee.",
+      "category": "Clothes",
+      "generated_at": "2026-09-20T22:14:02.634447"
     }
   ],
-  "last_updated": "2026-09-20T19:15:16.050632"
+  "last_updated": "2026-09-20T22:14:02.634449"
 }
