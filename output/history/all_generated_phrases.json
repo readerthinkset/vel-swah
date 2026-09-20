@@ -15434,7 +15434,42 @@
       "transliteration": "Hah-dee-thee zah pah-mo-jah, oo-zee m-mo-jah.",
       "category": "Culture",
       "generated_at": "2026-09-20T15:01:41.896388"
+    },
+    {
+      "english": "Kelele za soko, fuata sauti hizo.",
+      "swahili": "Ke-le-le za so-ko, fu-a-ta sau-ti hi-zo.",
+      "transliteration": "Kelele za soko, fuata sauti hizo.",
+      "category": "Directions",
+      "generated_at": "2026-09-20T19:15:16.050616"
+    },
+    {
+      "english": "Mwangaza wa jua, njiani kwako.",
+      "swahili": "Mwan-ga-za wa ju-a, nji-a-ni kwa-ko.",
+      "transliteration": "Mwangaza wa jua, njiani kwako.",
+      "category": "Directions",
+      "generated_at": "2026-09-20T19:15:16.050626"
+    },
+    {
+      "english": "Barabara kuu, songa mbele kidogo.",
+      "swahili": "Ba-ra-ba-ra kuu, son-ga mbe-le ki-do-go.",
+      "transliteration": "Barabara kuu, songa mbele kidogo.",
+      "category": "Directions",
+      "generated_at": "2026-09-20T19:15:16.050628"
+    },
+    {
+      "english": "Mtaa wenye rangi, ingia hapo.",
+      "swahili": "Mtaa we-nye ran-gi, in-gi-a ha-po.",
+      "transliteration": "Mtaa wenye rangi, ingia hapo.",
+      "category": "Directions",
+      "generated_at": "2026-09-20T19:15:16.050629"
+    },
+    {
+      "english": "Usisahau, kugeuka kulia.",
+      "swahili": "U-si-sa-ha-u, ku-ge-u-ka ku-li-a.",
+      "transliteration": "Usisahau, kugeuka kulia.",
+      "category": "Directions",
+      "generated_at": "2026-09-20T19:15:16.050631"
     }
   ],
-  "last_updated": "2026-09-20T15:01:41.896390"
+  "last_updated": "2026-09-20T19:15:16.050632"
 }
