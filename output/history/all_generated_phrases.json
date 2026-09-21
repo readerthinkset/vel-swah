@@ -15644,7 +15644,42 @@
       "transliteration": "Seh-mah poh-leh, see-kee-lee-zah sah-nah.",
       "category": "Education",
       "generated_at": "2026-09-21T20:46:20.462895"
+    },
+    {
+      "english": "Morning dew, still wet.",
+      "swahili": "Umande wa asubuhi, bado mvua.",
+      "transliteration": "Umande wa asubuhi, bado mvua.",
+      "category": "Time",
+      "generated_at": "2026-09-21T23:03:10.465657"
+    },
+    {
+      "english": "Midday sun, highest point.",
+      "swahili": "Jua la adhuhuri, kilele.",
+      "transliteration": "Jua la adhuhuri, kilele.",
+      "category": "Time",
+      "generated_at": "2026-09-21T23:03:10.465667"
+    },
+    {
+      "english": "Afternoon breeze, gentle.",
+      "swahili": "Upepo wa alasiri, mwepesi.",
+      "transliteration": "Upepo wa alasiri, mwepesi.",
+      "category": "Time",
+      "generated_at": "2026-09-21T23:03:10.465668"
+    },
+    {
+      "english": "Twilight hush, descends.",
+      "swahili": "Utulivu wa machweo, washuka.",
+      "transliteration": "Utulivu wa machweo, washuka.",
+      "category": "Time",
+      "generated_at": "2026-09-21T23:03:10.465670"
+    },
+    {
+      "english": "Deep night, silent.",
+      "swahili": "Usiku mzito, kimya.",
+      "transliteration": "Usiku mzito, kimya.",
+      "category": "Time",
+      "generated_at": "2026-09-21T23:03:10.465671"
     }
   ],
-  "last_updated": "2026-09-21T20:46:20.462897"
+  "last_updated": "2026-09-21T23:03:10.465673"
 }
