@@ -15574,7 +15574,42 @@
       "transliteration": "Ni-ki-wa na we-we, na-ji-si-ki-a i-ma-ra.",
       "category": "Relationships",
       "generated_at": "2026-09-21T17:20:53.622427"
+    },
+    {
+      "english": "Danger, approaching, quickly.",
+      "swahili": "Hatari, inakaribia, haraka.",
+      "transliteration": "Hatari, inakaribia, haraka.",
+      "category": "Emergency",
+      "generated_at": "2026-09-21T19:07:41.871571"
+    },
+    {
+      "english": "My breath, is shallow.",
+      "swahili": "Pumzi, yangu, ni hafifu.",
+      "transliteration": "Pumzi, yangu, ni hafifu.",
+      "category": "Emergency",
+      "generated_at": "2026-09-21T19:07:41.871580"
+    },
+    {
+      "english": "I feel, very weak.",
+      "swahili": "Nahisi, udhaifu, mwingi.",
+      "transliteration": "Nahisi, udhaifu, mwingi.",
+      "category": "Emergency",
+      "generated_at": "2026-09-21T19:07:41.871582"
+    },
+    {
+      "english": "Listen, I'm in trouble.",
+      "swahili": "Sikiliza, niko, taabuni.",
+      "transliteration": "Sikiliza, niko, taabuni.",
+      "category": "Emergency",
+      "generated_at": "2026-09-21T19:07:41.871583"
+    },
+    {
+      "english": "Call for, immediate help.",
+      "swahili": "Piga simu, msaada, wa haraka.",
+      "transliteration": "Piga simu, msaada, wa haraka.",
+      "category": "Emergency",
+      "generated_at": "2026-09-21T19:07:41.871585"
     }
   ],
-  "last_updated": "2026-09-21T17:20:53.622429"
+  "last_updated": "2026-09-21T19:07:41.871587"
 }
