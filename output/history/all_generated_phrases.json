@@ -15749,7 +15749,42 @@
       "transliteration": "Karibisha utamaduni, kwa vishazi vipya.",
       "category": "Purpose",
       "generated_at": "2026-09-22T15:53:50.959518"
+    },
+    {
+      "english": "Your voice, a bright sound.",
+      "swahili": "Sauti yako, sauti nzuri.",
+      "transliteration": "Sauti yako, sauti nzuri.",
+      "category": "Confidence",
+      "generated_at": "2026-09-22T17:59:51.330382"
+    },
+    {
+      "english": "Speak clearly, be understood.",
+      "swahili": "Sema wazi, eleweka.",
+      "transliteration": "Sema wazi, eleweka.",
+      "category": "Confidence",
+      "generated_at": "2026-09-22T17:59:51.330396"
+    },
+    {
+      "english": "Dare to try, learn more.",
+      "swahili": "Thubutu kujaribu, jifunze zaidi.",
+      "transliteration": "Thubutu kujaribu, jifunze zaidi.",
+      "category": "Confidence",
+      "generated_at": "2026-09-22T17:59:51.330396"
+    },
+    {
+      "english": "Each word, a new door.",
+      "swahili": "Kila neno, mlango mpya.",
+      "transliteration": "Kila neno, mlango mpya.",
+      "category": "Confidence",
+      "generated_at": "2026-09-22T17:59:51.330397"
+    },
+    {
+      "english": "Your Swahili, growing strong.",
+      "swahili": "Kiswahili chako, kinakua kwa nguvu.",
+      "transliteration": "Kiswahili chako, kinakua kwa nguvu.",
+      "category": "Confidence",
+      "generated_at": "2026-09-22T17:59:51.330398"
     }
   ],
-  "last_updated": "2026-09-22T15:53:50.959520"
+  "last_updated": "2026-09-22T17:59:51.330399"
 }
