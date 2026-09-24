@@ -16064,7 +16064,42 @@
       "transliteration": "Naweza, kuona orodha ya divai?",
       "category": "Restaurant",
       "generated_at": "2026-09-24T16:14:31.603938"
+    },
+    {
+      "english": "Hello there, what's new?",
+      "swahili": "Habari yako, mambo vipi leo?",
+      "transliteration": "Habari yako, mambo vipi leo?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-24T18:17:48.799432"
+    },
+    {
+      "english": "My name is, Maria.",
+      "swahili": "Jina langu ni, Maria.",
+      "transliteration": "Jina langu ni, Maria.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-24T18:17:48.799443"
+    },
+    {
+      "english": "How are you, feeling today?",
+      "swahili": "Unajisikiaje, leo hapa?",
+      "transliteration": "Unajisikiaje, leo hapa?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-24T18:17:48.799445"
+    },
+    {
+      "english": "This place, is beautiful.",
+      "swahili": "Mahali hapa, pazuri sana.",
+      "transliteration": "Mahali hapa, pazuri sana.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-24T18:17:48.799447"
+    },
+    {
+      "english": "I am hungry, for knowledge.",
+      "swahili": "Nina njaa, ya elimu.",
+      "transliteration": "Nina njaa, ya elimu.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-24T18:17:48.799448"
     }
   ],
-  "last_updated": "2026-09-24T16:14:31.603939"
+  "last_updated": "2026-09-24T18:17:48.799450"
 }
