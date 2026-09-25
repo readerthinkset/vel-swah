@@ -16204,7 +16204,42 @@
       "transliteration": "Siku mpya, inaanza sasa.",
       "category": "Greetings",
       "generated_at": "2026-09-25T02:16:26.136899"
+    },
+    {
+      "english": "Spicy samosa, a delightful bite.",
+      "swahili": "Samosa ya viungo, tunda tamu.",
+      "transliteration": "Sa-mo-sa ya vee-oon-go, too-nda ta-moo.",
+      "category": "Food",
+      "generated_at": "2026-09-25T16:04:26.192147"
+    },
+    {
+      "english": "Fresh mango, sunshine in a fruit.",
+      "swahili": "Embe safi, jua kwenye tunda.",
+      "transliteration": "Em-be sa-fee, joo-ah kwen-ye too-nda.",
+      "category": "Food",
+      "generated_at": "2026-09-25T16:04:26.192155"
+    },
+    {
+      "english": "Garlic bread, a fragrant companion.",
+      "swahili": "Mkate wa kitunguu saumu, rafiki yenye harufu.",
+      "transliteration": "M-ka-te wa kee-toon-goo sa-oo-moo, ra-fee-kee ye-nye ha-roo-foo.",
+      "category": "Food",
+      "generated_at": "2026-09-25T16:04:26.192157"
+    },
+    {
+      "english": "Sweet dates, nature's candy.",
+      "swahili": "Tende tamu, pipi ya asili.",
+      "transliteration": "Ten-de ta-moo, pee-pee ya a-see-lee.",
+      "category": "Food",
+      "generated_at": "2026-09-25T16:04:26.192158"
+    },
+    {
+      "english": "Juicy pear, a gentle sweetness.",
+      "swahili": "Pera yenye maji, utamu laini.",
+      "transliteration": "Pe-ra ye-nye ma-jee, oo-ta-moo la-ee-nee.",
+      "category": "Food",
+      "generated_at": "2026-09-25T16:04:26.192159"
     }
   ],
-  "last_updated": "2026-09-25T02:16:26.136901"
+  "last_updated": "2026-09-25T16:04:26.192161"
 }
