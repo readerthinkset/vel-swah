@@ -16659,7 +16659,42 @@
       "transliteration": "Koo-bah-lee chahng-ah-moh-toh, ee-noo-kah joo.",
       "category": "Sports",
       "generated_at": "2026-09-28T02:21:54.973313"
+    },
+    {
+      "english": "Let's prepare, the presentation.",
+      "swahili": "Tujiandae, kwa wasilisho.",
+      "transliteration": "Tujiandae, kwa wasilisho.",
+      "category": "Work",
+      "generated_at": "2026-09-28T18:53:41.057966"
+    },
+    {
+      "english": "I'll handle, that task.",
+      "swahili": "Nitashughulikia, kazi hiyo.",
+      "transliteration": "Nitashughulikia, kazi hiyo.",
+      "category": "Work",
+      "generated_at": "2026-09-28T18:53:41.057976"
+    },
+    {
+      "english": "What's the priority, now?",
+      "swahili": "Kipaumbele, ni kipi sasa?",
+      "transliteration": "Kipaumbele, ni kipi sasa?",
+      "category": "Work",
+      "generated_at": "2026-09-28T18:53:41.057977"
+    },
+    {
+      "english": "We need, your input.",
+      "swahili": "Tunahitaji, maoni yako.",
+      "transliteration": "Tunahitaji, maoni yako.",
+      "category": "Work",
+      "generated_at": "2026-09-28T18:53:41.057979"
+    },
+    {
+      "english": "Let's refine, the strategy.",
+      "swahili": "Tuiweke, mikakati safi.",
+      "transliteration": "Tuiweke, mikakati safi.",
+      "category": "Work",
+      "generated_at": "2026-09-28T18:53:41.057980"
     }
   ],
-  "last_updated": "2026-09-28T02:21:54.973314"
+  "last_updated": "2026-09-28T18:53:41.057982"
 }
