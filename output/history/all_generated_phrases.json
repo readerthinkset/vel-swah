@@ -16799,7 +16799,42 @@
       "transliteration": "Blu ya ba-ha-ri, e-ne-o ku-bwa.",
       "category": "Colors",
       "generated_at": "2026-09-29T03:06:09.342093"
+    },
+    {
+      "english": "Something's wrong, here.",
+      "swahili": "Kitu, kibaya, hapa.",
+      "transliteration": "Kitu, kibaya, hapa.",
+      "category": "Emergency",
+      "generated_at": "2026-09-29T17:11:14.699417"
+    },
+    {
+      "english": "I need, to escape, now.",
+      "swahili": "Nataka, kutoroka, sasa.",
+      "transliteration": "Nataka, kutoroka, sasa.",
+      "category": "Emergency",
+      "generated_at": "2026-09-29T17:11:14.699431"
+    },
+    {
+      "english": "Help, someone, is following.",
+      "swahili": "Saidi, mtu, ananifuata.",
+      "transliteration": "Saidi, mtu, ananifuata.",
+      "category": "Emergency",
+      "generated_at": "2026-09-29T17:11:14.699432"
+    },
+    {
+      "english": "My vision, is blurry.",
+      "swahili": "Macho, yangu, yamebamba.",
+      "transliteration": "Macho, yangu, yamebamba.",
+      "category": "Emergency",
+      "generated_at": "2026-09-29T17:11:14.699434"
+    },
+    {
+      "english": "I feel, dizzy, very.",
+      "swahili": "Nahisi, kizunguzungu, sana.",
+      "transliteration": "Nahisi, kizunguzungu, sana.",
+      "category": "Emergency",
+      "generated_at": "2026-09-29T17:11:14.699435"
     }
   ],
-  "last_updated": "2026-09-29T03:06:09.342095"
+  "last_updated": "2026-09-29T17:11:14.699437"
 }
