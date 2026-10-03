@@ -17464,7 +17464,42 @@
       "transliteration": "Roho yako, yapaa.",
       "category": "Hope",
       "generated_at": "2026-10-02T23:35:27.817342"
+    },
+    {
+      "english": "Nine stars, shine brightly.",
+      "swahili": "Nyota tisa, zinang'aa sana.",
+      "transliteration": "Nyota tisa, zinang'aa sana.",
+      "category": "Numbers",
+      "generated_at": "2026-10-03T02:42:47.577160"
+    },
+    {
+      "english": "Ten fingers, playing music.",
+      "swahili": "Vidole kumi, vinacheza muziki.",
+      "transliteration": "Vidole kumi, vinacheza muziki.",
+      "category": "Numbers",
+      "generated_at": "2026-10-03T02:42:47.577169"
+    },
+    {
+      "english": "Eight legs, on the spider.",
+      "swahili": "Miguu minane, kwenye buibui.",
+      "transliteration": "Miguu minane, kwenye buibui.",
+      "category": "Numbers",
+      "generated_at": "2026-10-03T02:42:47.577170"
+    },
+    {
+      "english": "Seven colors, in the rainbow.",
+      "swahili": "Rangi saba, kwenye upinde wa mvua.",
+      "transliteration": "Rangi saba, kwenye upinde wa mvua.",
+      "category": "Numbers",
+      "generated_at": "2026-10-03T02:42:47.577172"
+    },
+    {
+      "english": "Six seeds, planted today.",
+      "swahili": "Mbegu sita, zilizopandwa leo.",
+      "transliteration": "Mbegu sita, zilizopandwa leo.",
+      "category": "Numbers",
+      "generated_at": "2026-10-03T02:42:47.577173"
     }
   ],
-  "last_updated": "2026-10-02T23:35:27.817344"
+  "last_updated": "2026-10-03T02:42:47.577175"
 }
