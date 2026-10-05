@@ -17849,7 +17849,42 @@
       "transliteration": "Ma-ji ni m-u-hi-mu, ya-ny-we kwa win-gi.",
       "category": "Health",
       "generated_at": "2026-10-05T21:24:24.706889"
+    },
+    {
+      "english": "See that big rock, move towards it.",
+      "swahili": "Ona jiwe hilo kubwa, songa kuelekea.",
+      "transliteration": "Ona jee-weh hee-lo koo-bwah, son-gah keh-leh-keh-ah.",
+      "category": "Directions",
+      "generated_at": "2026-10-05T23:03:20.251377"
+    },
+    {
+      "english": "The shade is here, rest a moment.",
+      "swahili": "Kivuli kipo hapa, pumzika kidogo.",
+      "transliteration": "Kee-voo-lee kee-po hah-pah, poom-zee-kah kee-do-go.",
+      "category": "Directions",
+      "generated_at": "2026-10-05T23:03:20.251387"
+    },
+    {
+      "english": "Follow the bird's song, it knows the way.",
+      "swahili": "Fuata wimbo wa ndege, yeye ajua njia.",
+      "transliteration": "Foo-ah-tah weem-bo wah nde-geh, yeh-yeh ah-joo-ah njee-ah.",
+      "category": "Directions",
+      "generated_at": "2026-10-05T23:03:20.251389"
+    },
+    {
+      "english": "Look for the small stream, go that way.",
+      "swahili": "Tafuta kijito kidogo, nenda huko.",
+      "transliteration": "Tah-foo-tah kee-jee-toh kee-do-go, nen-dah hoo-ko.",
+      "category": "Directions",
+      "generated_at": "2026-10-05T23:03:20.251391"
+    },
+    {
+      "english": "The path dips here, descend carefully.",
+      "swahili": "Njia inateremka hapa, shuka kwa makini.",
+      "transliteration": "Njee-ah ee-nah-teh-reh-m-kah hah-pah, shoo-kah kwah mah-kee-nee.",
+      "category": "Directions",
+      "generated_at": "2026-10-05T23:03:20.251392"
     }
   ],
-  "last_updated": "2026-10-05T21:24:24.706892"
+  "last_updated": "2026-10-05T23:03:20.251394"
 }
