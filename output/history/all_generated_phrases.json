@@ -18164,7 +18164,42 @@
       "transliteration": "Na-dhi-fu nyek-un-du, fu-ra-ha ya gha-fla.",
       "category": "Colors",
       "generated_at": "2026-10-07T19:50:41.964805"
+    },
+    {
+      "english": "Danger, close by, hear me?",
+      "swahili": "Hatari, karibu, unisikia?",
+      "transliteration": "Hatari, karibu, unisikia?",
+      "category": "Emergency",
+      "generated_at": "2026-10-07T21:58:30.547570"
+    },
+    {
+      "english": "Something, fell, on me.",
+      "swahili": "Kitu, kilianguka, juu yangu.",
+      "transliteration": "Kitu, kilianguka, juu yangu.",
+      "category": "Emergency",
+      "generated_at": "2026-10-07T21:58:30.547581"
+    },
+    {
+      "english": "I am, stuck, fast.",
+      "swahili": "Nimenaswa, haraka, sana.",
+      "transliteration": "Nimenaswa, haraka, sana.",
+      "category": "Emergency",
+      "generated_at": "2026-10-07T21:58:30.547583"
+    },
+    {
+      "english": "Please, come, quickly, here.",
+      "swahili": "Tafadhali, njoo, upesi, hapa.",
+      "transliteration": "Tafadhali, njoo, upesi, hapa.",
+      "category": "Emergency",
+      "generated_at": "2026-10-07T21:58:30.547586"
+    },
+    {
+      "english": "My breathing, is difficult.",
+      "swahili": "Kupumua, kwangu, ni kugumu.",
+      "transliteration": "Kupumua, kwangu, ni kugumu.",
+      "category": "Emergency",
+      "generated_at": "2026-10-07T21:58:30.547587"
     }
   ],
-  "last_updated": "2026-10-07T19:50:41.964807"
+  "last_updated": "2026-10-07T21:58:30.547589"
 }
