@@ -18234,7 +18234,42 @@
       "transliteration": "Ji-yo-ni i-na-i-ta, si-ku i-na-pu-m-zi-ka.",
       "category": "Culture",
       "generated_at": "2026-10-08T03:22:23.413570"
+    },
+    {
+      "english": "Now, is the time.",
+      "swahili": "Sasa, ni wakati.",
+      "transliteration": "Sasa, ni wakati.",
+      "category": "Time",
+      "generated_at": "2026-10-08T18:06:45.847769"
+    },
+    {
+      "english": "Tomorrow, will come.",
+      "swahili": "Kesho, itafika.",
+      "transliteration": "Kesho, itafika.",
+      "category": "Time",
+      "generated_at": "2026-10-08T18:06:45.847783"
+    },
+    {
+      "english": "This instant, matters.",
+      "swahili": "Dakika hii, ni muhimu.",
+      "transliteration": "Dakika hii, ni muhimu.",
+      "category": "Time",
+      "generated_at": "2026-10-08T18:06:45.847784"
+    },
+    {
+      "english": "Future, awaits us.",
+      "swahili": "Wakati ujao, unatungojea.",
+      "transliteration": "Wakati ujao, unatungojea.",
+      "category": "Time",
+      "generated_at": "2026-10-08T18:06:45.847785"
+    },
+    {
+      "english": "Yesterday, is gone.",
+      "swahili": "Jana, imepita.",
+      "transliteration": "Jana, imepita.",
+      "category": "Time",
+      "generated_at": "2026-10-08T18:06:45.847786"
     }
   ],
-  "last_updated": "2026-10-08T03:22:23.413572"
+  "last_updated": "2026-10-08T18:06:45.847787"
 }
