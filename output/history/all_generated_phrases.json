@@ -18269,7 +18269,42 @@
       "transliteration": "Jana, imepita.",
       "category": "Time",
       "generated_at": "2026-10-08T18:06:45.847786"
+    },
+    {
+      "english": "The dewdrop glistens, on a green leaf.",
+      "swahili": "Tobo la umande, linameremeta kwenye jani bichi.",
+      "transliteration": "Toh-boh lah oom-ahn-deh, lee-nah-meh-reh-meh-tah keh-nyeh jah-nee bee-chee.",
+      "category": "Nature",
+      "generated_at": "2026-10-08T19:42:21.223480"
+    },
+    {
+      "english": "A gentle breeze, rustles the reeds.",
+      "swahili": "Upepo mwanana, unapunga nyasi ndefu.",
+      "transliteration": "Oo-peh-poh mah-nah-nah, oo-nah-poong-gah nyah-see n-deh-foo.",
+      "category": "Nature",
+      "generated_at": "2026-10-08T19:42:21.223490"
+    },
+    {
+      "english": "The riverbank, alive with small creatures.",
+      "swahili": "Ufuko wa mto, umejaa wadudu wadogo.",
+      "transliteration": "Oo-foo-koh wah m-toh, oo-meh-jah-ah wah-doo-doo wah-goh-goh.",
+      "category": "Nature",
+      "generated_at": "2026-10-08T19:42:21.223491"
+    },
+    {
+      "english": "Sunlight filters, through dense foliage.",
+      "swahili": "Mwangaza wa jua, unapenya miti minene.",
+      "transliteration": "Mwahng-gah-zah wah joo-ah, oo-nah-pen-yah mee-tee mee-neh-neh.",
+      "category": "Nature",
+      "generated_at": "2026-10-08T19:42:21.223492"
+    },
+    {
+      "english": "A robin's call, echoes in the quiet.",
+      "swahili": "Sauti ya robin, inasikika kimya.",
+      "transliteration": "Sow-tee yah roh-been, ee-nah-see-kee-kah kee-myah.",
+      "category": "Nature",
+      "generated_at": "2026-10-08T19:42:21.223493"
     }
   ],
-  "last_updated": "2026-10-08T18:06:45.847787"
+  "last_updated": "2026-10-08T19:42:21.223494"
 }
