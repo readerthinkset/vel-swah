@@ -18409,7 +18409,42 @@
       "transliteration": "Vee-doh-leh vee-tah-noh, vee-nah-goo-sah kwah oo-poh-leh.",
       "category": "Numbers",
       "generated_at": "2026-10-09T03:28:09.848027"
+    },
+    {
+      "english": "Learn Swahili, with joy.",
+      "swahili": "Jifunze Kiswahili, kwa furaha.",
+      "transliteration": "Jee-foon-zeh Kee-swah-hee-lee, kwah foo-rah-hah.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-09T17:40:10.593385"
+    },
+    {
+      "english": "This book, is interesting.",
+      "swahili": "Kitabu hiki, kina kuvutia.",
+      "transliteration": "Kee-tah-boo hee-kee, kee-nah koo-voo-tee-ah.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-09T17:40:10.593401"
+    },
+    {
+      "english": "Let's speak, together now.",
+      "swahili": "Tuzungumze, pamoja sasa.",
+      "transliteration": "Too-zoong-oom-zeh, pah-moh-jah sah-sah.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-09T17:40:10.593402"
+    },
+    {
+      "english": "Welcome, my new friend.",
+      "swahili": "Karibu, rafiki yangu mpya.",
+      "transliteration": "Kah-ree-boo, rah-fee-kee yahng-goo mp-yah.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-09T17:40:10.593404"
+    },
+    {
+      "english": "The sun shines, brightly today.",
+      "swahili": "Jua linang'aa, sana leo.",
+      "transliteration": "Joo-ah lee-nah-ng'ah, sah-nah leh-oh.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-10-09T17:40:10.593404"
     }
   ],
-  "last_updated": "2026-10-09T03:28:09.848032"
+  "last_updated": "2026-10-09T17:40:10.593406"
 }
