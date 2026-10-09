@@ -18374,7 +18374,42 @@
       "transliteration": "Kinywaji baridi, kinaniburudisha.",
       "category": "Travel",
       "generated_at": "2026-10-09T00:12:40.261156"
+    },
+    {
+      "english": "One moment, please.",
+      "swahili": "Sekunde moja, tafadhali.",
+      "transliteration": "Se-koon-deh moh-jah, tah-fah-thaa-lee.",
+      "category": "Numbers",
+      "generated_at": "2026-10-09T03:28:09.848010"
+    },
+    {
+      "english": "Two friends, walking together.",
+      "swahili": "Marafiki wawili, wanatembea pamoja.",
+      "transliteration": "Mah-rah-fee-kee wah-wee-lee, wah-nah-tem-beh-ah poh-moh-jah.",
+      "category": "Numbers",
+      "generated_at": "2026-10-09T03:28:09.848023"
+    },
+    {
+      "english": "Three wishes, I hope.",
+      "swahili": "Mawazo matatu, natumai.",
+      "transliteration": "Mah-wah-zoh mah-tah-too, nah-too-mah-ee.",
+      "category": "Numbers",
+      "generated_at": "2026-10-09T03:28:09.848025"
+    },
+    {
+      "english": "Four wheels, spin fast.",
+      "swahili": "Magurudumu manne, yanazunguka haraka.",
+      "transliteration": "Mah-goo-roo-doo-moo mahn-neh, yah-nah-zoo-ngoo-kah hah-rah-kah.",
+      "category": "Numbers",
+      "generated_at": "2026-10-09T03:28:09.848026"
+    },
+    {
+      "english": "Five fingers, touch gently.",
+      "swahili": "Vidole vitano, vinagusa kwa upole.",
+      "transliteration": "Vee-doh-leh vee-tah-noh, vee-nah-goo-sah kwah oo-poh-leh.",
+      "category": "Numbers",
+      "generated_at": "2026-10-09T03:28:09.848027"
     }
   ],
-  "last_updated": "2026-10-09T00:12:40.261158"
+  "last_updated": "2026-10-09T03:28:09.848032"
 }
