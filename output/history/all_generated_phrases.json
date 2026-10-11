@@ -18759,7 +18759,42 @@
       "transliteration": "Nah-weh-zah koo-pah-tah, heh-sah-boo, hah-rah-kah?",
       "category": "Restaurant",
       "generated_at": "2026-10-11T16:56:15.187454"
+    },
+    {
+      "english": "Go straight, past the red door.",
+      "swahili": "Nenda moja kwa moja, kupita mlango mwekundu.",
+      "transliteration": "Nenda moja kwa moja, kupita mlango mwekundu.",
+      "category": "Directions",
+      "generated_at": "2026-10-11T18:40:52.592331"
+    },
+    {
+      "english": "Find the shady tree, stop there.",
+      "swahili": "Tafuta mti wenye kivuli, simama hapo.",
+      "transliteration": "Tafuta mti wenye kivuli, simama hapo.",
+      "category": "Directions",
+      "generated_at": "2026-10-11T18:40:52.592341"
+    },
+    {
+      "english": "Follow the laughter, around the bend.",
+      "swahili": "Fuata kicheko, kuzunguka kona.",
+      "transliteration": "Fuata kicheko, kuzunguka kona.",
+      "category": "Directions",
+      "generated_at": "2026-10-11T18:40:52.592343"
+    },
+    {
+      "english": "Look for the bright flower, then turn.",
+      "swahili": "Trauta ua refu, kisha geuka.",
+      "transliteration": "Trauta ua refu, kisha geuka.",
+      "category": "Directions",
+      "generated_at": "2026-10-11T18:40:52.592344"
+    },
+    {
+      "english": "Walk towards, the noisy children.",
+      "swahili": "Tembea kuelekea, watoto wenye kelele.",
+      "transliteration": "Tembea kuelekea, watoto wenye kelele.",
+      "category": "Directions",
+      "generated_at": "2026-10-11T18:40:52.592345"
     }
   ],
-  "last_updated": "2026-10-11T16:56:15.187456"
+  "last_updated": "2026-10-11T18:40:52.592347"
 }
