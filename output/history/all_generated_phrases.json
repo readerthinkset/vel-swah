@@ -19144,7 +19144,42 @@
       "transliteration": "Ngo-jah kee-doh-goh, tah-fah-thah-lee.",
       "category": "Time",
       "generated_at": "2026-10-13T20:07:26.024504"
+    },
+    {
+      "english": "Soft moss, cushions the rocks.",
+      "swahili": "Ngozi laini, hufunika mawe.",
+      "transliteration": "Ngoh-zee lah-ee-nee, hoo-foo-nee-kah mah-weh.",
+      "category": "Nature",
+      "generated_at": "2026-10-13T21:43:14.629625"
+    },
+    {
+      "english": "Wildflowers bloom, in the meadow.",
+      "swahili": "Maua pori, huchipua shambani.",
+      "transliteration": "Mah-oo-ah poh-ree, hoo-chee-poo-ah shahm-bah-nee.",
+      "category": "Nature",
+      "generated_at": "2026-10-13T21:43:14.629636"
+    },
+    {
+      "english": "A swift current, pulls downstream.",
+      "swahili": "Mkondo mkuu, huvuta chini.",
+      "transliteration": "M-kon-doh m-koo-oo, hoo-vee-oo-tah chee-nee.",
+      "category": "Nature",
+      "generated_at": "2026-10-13T21:43:14.629636"
+    },
+    {
+      "english": "Distant thunder, rumbles softly.",
+      "swahili": "Taharuki mbali, inanguruma pole.",
+      "transliteration": "Tah-hah-roo-kee mah-lee, ee-nah-ngoo-roo-mah poh-leh.",
+      "category": "Nature",
+      "generated_at": "2026-10-13T21:43:14.629637"
+    },
+    {
+      "english": "Pine needles fall, on the path.",
+      "swahili": "Sindano za msonobari, huangukia njia.",
+      "transliteration": "Seen-dah-noh zah m-soh-noh-bah-ree, hoo-ah-ngoo-kee-ah n-jee-ah.",
+      "category": "Nature",
+      "generated_at": "2026-10-13T21:43:14.629638"
     }
   ],
-  "last_updated": "2026-10-13T20:07:26.024506"
+  "last_updated": "2026-10-13T21:43:14.629639"
 }
