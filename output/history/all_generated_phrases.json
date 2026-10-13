@@ -19109,7 +19109,42 @@
       "transliteration": "Mng'ao wa ndani, furaha ya nje.",
       "category": "Happiness",
       "generated_at": "2026-10-13T18:37:21.940860"
+    },
+    {
+      "english": "The clock ticks, on and on.",
+      "swahili": "Saa inagonga, bila kukoma.",
+      "transliteration": "Saah ee-nah-goh-ngah, bee-lah koo-koh-mah.",
+      "category": "Time",
+      "generated_at": "2026-10-13T20:07:26.024483"
+    },
+    {
+      "english": "Moments fly, like birds.",
+      "swahili": "Dakika huruka, kama ndege.",
+      "transliteration": "Dah-kee-kah hoo-roo-kah, kah-mah n-deh-geh.",
+      "category": "Time",
+      "generated_at": "2026-10-13T20:07:26.024499"
+    },
+    {
+      "english": "A new chapter, begins now.",
+      "swahili": "Kifungu kipya, kinaanza sasa.",
+      "transliteration": "Kee-foo-ngoo kee-pyah, kee-nah-ahn-zah sah-sah.",
+      "category": "Time",
+      "generated_at": "2026-10-13T20:07:26.024501"
+    },
+    {
+      "english": "Seasons change, so fast.",
+      "swahili": "Msimu hubadilika, haraka sana.",
+      "transliteration": "Msee-moo hoo-bah-dee-lee-kah, hah-rah-kah sah-nah.",
+      "category": "Time",
+      "generated_at": "2026-10-13T20:07:26.024503"
+    },
+    {
+      "english": "Wait a moment, please.",
+      "swahili": "Ngoja kidogo, tafadhali.",
+      "transliteration": "Ngo-jah kee-doh-goh, tah-fah-thah-lee.",
+      "category": "Time",
+      "generated_at": "2026-10-13T20:07:26.024504"
     }
   ],
-  "last_updated": "2026-10-13T18:37:21.940861"
+  "last_updated": "2026-10-13T20:07:26.024506"
 }
