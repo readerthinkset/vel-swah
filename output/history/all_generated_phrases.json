@@ -19389,7 +19389,42 @@
       "transliteration": "Hisia ya utulivu, inashuka.",
       "category": "Feelings",
       "generated_at": "2026-10-15T02:11:41.420276"
+    },
+    {
+      "english": "This machine, needs servicing.",
+      "swahili": "Mashine hii, inahitaji matengenezo.",
+      "transliteration": "Mashine hee, inahitaji matengenezo.",
+      "category": "Work",
+      "generated_at": "2026-10-15T15:53:44.318877"
+    },
+    {
+      "english": "Our team, is growing fast.",
+      "swahili": "Timu yetu, inakua haraka.",
+      "transliteration": "Timu yetu, inakua haraka.",
+      "category": "Work",
+      "generated_at": "2026-10-15T15:53:44.318887"
+    },
+    {
+      "english": "Let's track, our progress daily.",
+      "swahili": "Tufuatilie, maendeleo yetu kila siku.",
+      "transliteration": "Tufuatilie, maendeleo yetu kila siku.",
+      "category": "Work",
+      "generated_at": "2026-10-15T15:53:44.318888"
+    },
+    {
+      "english": "This meeting, is crucial.",
+      "swahili": "Mkutano huu, ni muhimu sana.",
+      "transliteration": "Mkutano huu, ni muhimu sana.",
+      "category": "Work",
+      "generated_at": "2026-10-15T15:53:44.318890"
+    },
+    {
+      "english": "What's the bottleneck, here?",
+      "swahili": "Kikwazo ni kipi, hapa?",
+      "transliteration": "Kikwazo ni kipi, hapa?",
+      "category": "Work",
+      "generated_at": "2026-10-15T15:53:44.318891"
     }
   ],
-  "last_updated": "2026-10-15T02:11:41.420278"
+  "last_updated": "2026-10-15T15:53:44.318893"
 }
