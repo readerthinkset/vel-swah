@@ -19459,7 +19459,42 @@
       "transliteration": "Hadithi za babu na nyanya, hoo-soo-ka oo-cha-wee.",
       "category": "Family Terms",
       "generated_at": "2026-10-15T18:04:16.406219"
+    },
+    {
+      "english": "The bridge, it collapsed, behind me.",
+      "swahili": "Daraja, limeporomoka, nyuma yangu.",
+      "transliteration": "Daraja, limeporomoka, nyuma yangu.",
+      "category": "Emergency",
+      "generated_at": "2026-10-15T20:10:52.909173"
+    },
+    {
+      "english": "I've fallen, down a well, very deep.",
+      "swahili": "Nimeanguka, kisimani, kirefu sana.",
+      "transliteration": "Nimeanguka, kisimani, kirefu sana.",
+      "category": "Emergency",
+      "generated_at": "2026-10-15T20:10:52.909186"
+    },
+    {
+      "english": "This area, is flooded, rapidly.",
+      "swahili": "Eneo hili, limefurika, haraka.",
+      "transliteration": "Eneo hili, limefurika, haraka.",
+      "category": "Emergency",
+      "generated_at": "2026-10-15T20:10:52.909188"
+    },
+    {
+      "english": "The path ahead, is a swamp, sinking.",
+      "swahili": "Njia mbele, ni dimbwi, linaingiza.",
+      "transliteration": "Njia mbele, ni dimbwi, linaingiza.",
+      "category": "Emergency",
+      "generated_at": "2026-10-15T20:10:52.909189"
+    },
+    {
+      "english": "I'm losing, my footing, sliding.",
+      "swahili": "Nimepoteza, mshiko, nateleza.",
+      "transliteration": "Nimepoteza, mshiko, nateleza.",
+      "category": "Emergency",
+      "generated_at": "2026-10-15T20:10:52.909190"
     }
   ],
-  "last_updated": "2026-10-15T18:04:16.406221"
+  "last_updated": "2026-10-15T20:10:52.909192"
 }
