@@ -19599,7 +19599,42 @@
       "transliteration": "Tafuta nguvu yako, ndani.",
       "category": "Strength",
       "generated_at": "2026-10-16T15:42:35.555220"
+    },
+    {
+      "english": "A lone wolf, howls at night.",
+      "swahili": "Mbweha mmoja, hulua usiku.",
+      "transliteration": "Mbweha mmoja, hulua usiku.",
+      "category": "Numbers",
+      "generated_at": "2026-10-16T17:50:12.780708"
+    },
+    {
+      "english": "Two rivers, meet the sea.",
+      "swahili": "Mito miwili, hukutana na bahari.",
+      "transliteration": "Mito miwili, hukutana na bahari.",
+      "category": "Numbers",
+      "generated_at": "2026-10-16T17:50:12.780718"
+    },
+    {
+      "english": "Three birds, sing on branches.",
+      "swahili": "Ndege watatu, huimba matawini.",
+      "transliteration": "Ndege watatu, huimba matawini.",
+      "category": "Numbers",
+      "generated_at": "2026-10-16T17:50:12.780719"
+    },
+    {
+      "english": "Four corners, of the room.",
+      "swahili": "Pembe nne, za chumba.",
+      "transliteration": "Pembe nne, za chumba.",
+      "category": "Numbers",
+      "generated_at": "2026-10-16T17:50:12.780720"
+    },
+    {
+      "english": "Five fingers, on each hand.",
+      "swahili": "Vidole vitano, kila mkono.",
+      "transliteration": "Vidole vitano, kila mkono.",
+      "category": "Numbers",
+      "generated_at": "2026-10-16T17:50:12.780720"
     }
   ],
-  "last_updated": "2026-10-16T15:42:35.555221"
+  "last_updated": "2026-10-16T17:50:12.780721"
 }
