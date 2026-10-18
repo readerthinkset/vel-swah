@@ -20019,7 +20019,42 @@
       "transliteration": "Roho yako, haina mipaka.",
       "category": "Courage",
       "generated_at": "2026-10-18T19:13:08.371415"
+    },
+    {
+      "english": "Turn left, at the old well.",
+      "swahili": "Geuka kushoto, kwenye kisima cha zamani.",
+      "transliteration": "Geuka kushoto, kwenye kisima cha zamani.",
+      "category": "Directions",
+      "generated_at": "2026-10-18T22:16:05.340842"
+    },
+    {
+      "english": "Walk towards, the blue gate.",
+      "swahili": "Tembea kuelekea, lango la bluu.",
+      "transliteration": "Tembea kuelekea, lango la bluu.",
+      "category": "Directions",
+      "generated_at": "2026-10-18T22:16:05.340851"
+    },
+    {
+      "english": "Go around, the large baobab.",
+      "swahili": "Pitia pembeni, ya mti mkubwa wa baobab.",
+      "transliteration": "Pitia pembeni, ya mti mkubwa wa baobab.",
+      "category": "Directions",
+      "generated_at": "2026-10-18T22:16:05.340853"
+    },
+    {
+      "english": "Follow the sound, of drumming.",
+      "swahili": "Fuata mlio, wa ngoma.",
+      "transliteration": "Fuata mlio, wa ngoma.",
+      "category": "Directions",
+      "generated_at": "2026-10-18T22:16:05.340854"
+    },
+    {
+      "english": "Keep the river, on your right.",
+      "swahili": "Weka mto, upande wako wa kulia.",
+      "transliteration": "Weka mto, upande wako wa kulia.",
+      "category": "Directions",
+      "generated_at": "2026-10-18T22:16:05.340856"
     }
   ],
-  "last_updated": "2026-10-18T19:13:08.371417"
+  "last_updated": "2026-10-18T22:16:05.340857"
 }
