@@ -19879,7 +19879,42 @@
       "transliteration": "Mtabasamu mgeni, shiriki joto.",
       "category": "Health",
       "generated_at": "2026-10-17T21:59:27.583876"
+    },
+    {
+      "english": "The spotted leopard, sleeps in the tree.",
+      "swahili": "Chui madoa, analala mti juu.",
+      "transliteration": "Chwee moo-ah-doh-ah, ah-nah-lah-lah mtee oo-joo.",
+      "category": "Animals",
+      "generated_at": "2026-10-18T01:55:44.308431"
+    },
+    {
+      "english": "A tiny frog, jumps in the pond.",
+      "swahili": "Chura mdogo, anaruka kwenye kidimbwi.",
+      "transliteration": "Choo-rah mdoo-goh, ah-nah-roo-kah kwen-yeh kee-deem-bwee.",
+      "category": "Animals",
+      "generated_at": "2026-10-18T01:55:44.308443"
+    },
+    {
+      "english": "The buzzing fly, lands on my nose.",
+      "swahili": "Nzi mweupe, anatua kwenye pua yangu.",
+      "transliteration": "Nzee mweh-oo-peh, ah-nah-too-ah kwen-yeh poo-ah yah-ngoo.",
+      "category": "Animals",
+      "generated_at": "2026-10-18T01:55:44.308444"
+    },
+    {
+      "english": "A long snake, slithers on the ground.",
+      "swahili": "Nyoka mrefu, hutambaa juu ya ardhi.",
+      "transliteration": "Nyo-kah mref-foo, hoo-tahm-bah oo-joo yah ahr-dhee.",
+      "category": "Animals",
+      "generated_at": "2026-10-18T01:55:44.308446"
+    },
+    {
+      "english": "The fluffy sheep, eats the green grass.",
+      "swahili": "Kondoo mpenzi, anakula majani mabichi.",
+      "transliteration": "Kon-doh mpen-zee, ah-nah-koo-lah mah-jah-nee mah-bee-chee.",
+      "category": "Animals",
+      "generated_at": "2026-10-18T01:55:44.308447"
     }
   ],
-  "last_updated": "2026-10-17T21:59:27.583878"
+  "last_updated": "2026-10-18T01:55:44.308449"
 }
