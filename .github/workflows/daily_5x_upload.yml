@@ -2,11 +2,11 @@ name: VELOCITY SWAHILI - Daily 5x Upload
 
 on:
   schedule:
-    - cron: '0 12 * * *'
-    - cron: '0 14 * * *'
-    - cron: '0 17 * * *'
-    - cron: '0 20 * * *'
-    - cron: '0 0 * * *'
+    - cron: '36 12 * * *'
+    - cron: '36 14 * * *'
+    - cron: '36 17 * * *'
+    - cron: '36 20 * * *'
+    - cron: '36 0 * * *'
 
   workflow_dispatch:
 
