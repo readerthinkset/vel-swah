@@ -20264,7 +20264,42 @@
       "transliteration": "Pongezi zangu, kwa jikoni.",
       "category": "Restaurant",
       "generated_at": "2026-10-20T05:13:37.506922"
+    },
+    {
+      "english": "Plant a seed, watch it grow.",
+      "swahili": "Panda mbegu, iangalie ikua.",
+      "transliteration": "Panda m-beh-goo, ee-an-gah-lee-eh ee-koo-ah.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T17:30:44.861682"
+    },
+    {
+      "english": "Open a door, to new worlds.",
+      "swahili": "Fungua mlango, kwa ulimwengu mpya.",
+      "transliteration": "Foo-ngo-oo m-lahn-goh, kwah oo-lee-mwen-goo m-poo-yah.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T17:30:44.861689"
+    },
+    {
+      "english": "Build a bridge, of understanding.",
+      "swahili": "Jenga daraja, la kuelewana.",
+      "transliteration": "Jen-gah dah-rah-jah, lah keh-leh-wah-nah.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T17:30:44.861691"
+    },
+    {
+      "english": "Follow the path, with courage.",
+      "swahili": "Fuata njia, kwa ujasiri.",
+      "transliteration": "Foo-ah-tah n-jee-ah, kwah oo-jah-see-ree.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T17:30:44.861692"
+    },
+    {
+      "english": "Share a smile, light up faces.",
+      "swahili": "Shiriki tabasamu, taa nyuso.",
+      "transliteration": "Shee-ree-kee tah-bah-sah-moo, tah-ah n-yoo-so.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T17:30:44.861694"
     }
   ],
-  "last_updated": "2026-10-20T05:13:37.506923"
+  "last_updated": "2026-10-20T17:30:44.861695"
 }
