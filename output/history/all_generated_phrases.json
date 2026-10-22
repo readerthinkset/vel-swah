@@ -20544,7 +20544,42 @@
       "transliteration": "De-ge-vu la ma-tu-ma-i-ni, li-ko ka-ri-bu.",
       "category": "Joy",
       "generated_at": "2026-10-22T18:45:41.777070"
+    },
+    {
+      "english": "Sky's a soft blue, today.",
+      "swahili": "Anga ni buluu laini, leo.",
+      "transliteration": "Anga ni buluu laini, leo.",
+      "category": "Weather",
+      "generated_at": "2026-10-22T20:46:56.624412"
+    },
+    {
+      "english": "Dewdrops kiss, the morning petals.",
+      "swahili": "Tamakua yabusu, petali za asubuhi.",
+      "transliteration": "Tamakua yabusu, petali za asubuhi.",
+      "category": "Weather",
+      "generated_at": "2026-10-22T20:46:56.624427"
+    },
+    {
+      "english": "Clouds like cotton, float by.",
+      "swahili": "Mawingu kama pamba, yapita kwa utulivu.",
+      "transliteration": "Mawingu kama pamba, yapita kwa utulivu.",
+      "category": "Weather",
+      "generated_at": "2026-10-22T20:46:56.624429"
+    },
+    {
+      "english": "Gentle rain, a soft patter.",
+      "swahili": "Mvua ya taratibu, igongea kwa upole.",
+      "transliteration": "Mvua ya taratibu, igongea kwa upole.",
+      "category": "Weather",
+      "generated_at": "2026-10-22T20:46:56.624431"
+    },
+    {
+      "english": "A cool gust, shakes the leaves.",
+      "swahili": "Upepo mbaridi, hutikisa majani.",
+      "transliteration": "Upepo mbaridi, hutikisa majani.",
+      "category": "Weather",
+      "generated_at": "2026-10-22T20:46:56.624432"
     }
   ],
-  "last_updated": "2026-10-22T18:45:41.777072"
+  "last_updated": "2026-10-22T20:46:56.624434"
 }
