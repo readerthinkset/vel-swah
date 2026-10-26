@@ -21139,7 +21139,42 @@
       "transliteration": "Na-foo-ra-hee-ya, kee-la da-kee-ka.",
       "category": "Restaurant",
       "generated_at": "2026-10-26T05:14:44.311617"
+    },
+    {
+      "english": "Hear the market's buzz, follow that sound.",
+      "swahili": "Sauti za soko, usikie.",
+      "transliteration": "Sautee zah soh-koh, ooskeea.",
+      "category": "Directions",
+      "generated_at": "2026-10-26T18:51:50.382734"
+    },
+    {
+      "english": "Sunlight on your path, move forward.",
+      "swahili": "Jua njiani, endelea.",
+      "transliteration": "Joo-ah njee-ah-nee, ende-le-ah.",
+      "category": "Directions",
+      "generated_at": "2026-10-26T18:51:50.382745"
+    },
+    {
+      "english": "The main road, go a little.",
+      "swahili": "Barabara kubwa, songa mbele.",
+      "transliteration": "Bah-rah-bah-rah koobwah, songah mbele-h.",
+      "category": "Directions",
+      "generated_at": "2026-10-26T18:51:50.382747"
+    },
+    {
+      "english": "Colorful street, enter there.",
+      "swahili": "Mtaa wenye rangi, ingia.",
+      "transliteration": "Mtaah yenyeh ran-gee, in-gee-ah.",
+      "category": "Directions",
+      "generated_at": "2026-10-26T18:51:50.382748"
+    },
+    {
+      "english": "Don't forget, to turn right.",
+      "swahili": "Usisahau, kugeuka kulia.",
+      "transliteration": "Oo-see-sah-hoo, koo-ge-oo-kah koo-lee-ah.",
+      "category": "Directions",
+      "generated_at": "2026-10-26T18:51:50.382750"
     }
   ],
-  "last_updated": "2026-10-26T05:14:44.311618"
+  "last_updated": "2026-10-26T18:51:50.382751"
 }
