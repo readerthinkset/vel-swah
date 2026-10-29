@@ -21594,7 +21594,42 @@
       "transliteration": "Akili imara, hufikia.",
       "category": "Strength",
       "generated_at": "2026-10-29T00:14:07.331871"
+    },
+    {
+      "english": "Watch out, falling rocks!",
+      "swahili": "Jihadharini, mawe yanadondoka!",
+      "transliteration": "Jihadharini, mawe yanadondoka!",
+      "category": "Emergency",
+      "generated_at": "2026-10-29T06:24:26.424375"
+    },
+    {
+      "english": "The river, it's rising!",
+      "swahili": "Mto, unafurika!",
+      "transliteration": "Mto, unafurika!",
+      "category": "Emergency",
+      "generated_at": "2026-10-29T06:24:26.424387"
+    },
+    {
+      "english": "Poisonous gas, nearby!",
+      "swahili": "Gesi ya sumu, karibu!",
+      "transliteration": "Gesi ya sumu, karibu!",
+      "category": "Emergency",
+      "generated_at": "2026-10-29T06:24:26.424389"
+    },
+    {
+      "english": "Ground unstable, careful!",
+      "swahili": "Ardhi tete, tahadhari!",
+      "transliteration": "Ardhi tete, tahadhari!",
+      "category": "Emergency",
+      "generated_at": "2026-10-29T06:24:26.424390"
+    },
+    {
+      "english": "Explosion, imminent!",
+      "swahili": "Mlipuko, unakaribia!",
+      "transliteration": "Mlipuko, unakaribia!",
+      "category": "Emergency",
+      "generated_at": "2026-10-29T06:24:26.424391"
     }
   ],
-  "last_updated": "2026-10-29T00:14:07.331873"
+  "last_updated": "2026-10-29T06:24:26.424393"
 }
