@@ -21804,7 +21804,42 @@
       "transliteration": "Msimu, wenye utulivu, ukumbatie.",
       "category": "Holidays",
       "generated_at": "2026-10-30T06:23:24.930484"
+    },
+    {
+      "english": "A dozen eggs, for the cake.",
+      "swahili": "Dauza ya mayai, kwa keki.",
+      "transliteration": "dauza ya mayai, kwa keki",
+      "category": "Numbers",
+      "generated_at": "2026-10-30T18:11:51.084118"
+    },
+    {
+      "english": "Twenty years, feels like yesterday.",
+      "swahili": "Miaka ishirini, kama jana.",
+      "transliteration": "miaka ishirini, kama jana",
+      "category": "Numbers",
+      "generated_at": "2026-10-30T18:11:51.084129"
+    },
+    {
+      "english": "Half a dozen, please.",
+      "swahili": "Nusu dauza, tafadhali.",
+      "transliteration": "nusu dauza, tafadhali",
+      "category": "Numbers",
+      "generated_at": "2026-10-30T18:11:51.084131"
+    },
+    {
+      "english": "A hundred strong, we stand.",
+      "swahili": "Mia moja imara, tunasimama.",
+      "transliteration": "mia moja imara, tunasimama",
+      "category": "Numbers",
+      "generated_at": "2026-10-30T18:11:51.084133"
+    },
+    {
+      "english": "Just four, for the game.",
+      "swahili": "Wanne tu, kwa mchezo.",
+      "transliteration": "wanne tu, kwa mchezo",
+      "category": "Numbers",
+      "generated_at": "2026-10-30T18:11:51.084134"
     }
   ],
-  "last_updated": "2026-10-30T06:23:24.930485"
+  "last_updated": "2026-10-30T18:11:51.084135"
 }
