@@ -22259,7 +22259,42 @@
       "transliteration": "Kicheko chako, wimbo mtamu.",
       "category": "Gratitude",
       "generated_at": "2026-11-01T21:22:56.410933"
+    },
+    {
+      "english": "Sky, getting moody, now.",
+      "swahili": "Anga, linabadilika, sasa.",
+      "transliteration": "Anga, linabadilika, sasa.",
+      "category": "Weather",
+      "generated_at": "2026-11-01T23:49:07.103412"
+    },
+    {
+      "english": "Warm breeze, tickles my face.",
+      "swahili": "Upepo joto, unafuraisha uso.",
+      "transliteration": "Upepo joto, unafuraisha uso.",
+      "category": "Weather",
+      "generated_at": "2026-11-01T23:49:07.103432"
+    },
+    {
+      "english": "Sun setting, painting colors.",
+      "swahili": "Jua likizama, linachora rangi.",
+      "transliteration": "Jua likizama, linachora rangi.",
+      "category": "Weather",
+      "generated_at": "2026-11-01T23:49:07.103433"
+    },
+    {
+      "english": "Fog rolling, over the hills.",
+      "swahili": "Ukungu unajikokota, milimani.",
+      "transliteration": "Ukungu unajikokota, milimani.",
+      "category": "Weather",
+      "generated_at": "2026-11-01T23:49:07.103434"
+    },
+    {
+      "english": "Little rain, just a sprinkle.",
+      "swahili": "Mvua kidogo, hunyunyiza tu.",
+      "transliteration": "Mvua kidogo, hunyunyiza tu.",
+      "category": "Weather",
+      "generated_at": "2026-11-01T23:49:07.103435"
     }
   ],
-  "last_updated": "2026-11-01T21:22:56.410936"
+  "last_updated": "2026-11-01T23:49:07.103437"
 }
