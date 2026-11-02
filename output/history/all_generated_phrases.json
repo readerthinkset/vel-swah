@@ -22294,7 +22294,42 @@
       "transliteration": "Mvua kidogo, hunyunyiza tu.",
       "category": "Weather",
       "generated_at": "2026-11-01T23:49:07.103435"
+    },
+    {
+      "english": "A shy rabbit, twitches its nose, in the meadow.",
+      "swahili": "Sungura mkimya, hunywayo pua, shambani.",
+      "transliteration": "Sungura mkimya, hunywayo pua, shambani.",
+      "category": "Animals",
+      "generated_at": "2026-11-02T06:45:34.698294"
+    },
+    {
+      "english": "The busy bee, buzzes near flowers, collecting nectar.",
+      "swahili": "Nyuki mwenye shughuli, hupung'aa karibu na maua, akikusanya mbochi.",
+      "transliteration": "Nyuki mwenye shughuli, hupung'aa karibu na maua, akikusanya mbochi.",
+      "category": "Animals",
+      "generated_at": "2026-11-02T06:45:34.698307"
+    },
+    {
+      "english": "A strong gorilla, pounds its chest, a loud sound.",
+      "swahili": "Ngo'mbe hodari, hupiga kifua chake, sauti kubwa.",
+      "transliteration": "Ngo'mbe hodari, hupiga kifua chake, sauti kubwa.",
+      "category": "Animals",
+      "generated_at": "2026-11-02T06:45:34.698308"
+    },
+    {
+      "english": "The silent wolf, howls at the moon, a lonely cry.",
+      "swahili": "Mbwa mwitu mtulivu, hulia mbalamwezi, kilio cha upweke.",
+      "transliteration": "Mbwa mwitu mtulivu, hulia mbalamwezi, kilio cha upweke.",
+      "category": "Animals",
+      "generated_at": "2026-11-02T06:45:34.698309"
+    },
+    {
+      "english": "A playful otter, slides down the bank, into the water.",
+      "swahili": "Dagaa mcheshi, huteleza chini ya kingo, majini.",
+      "transliteration": "Dagaa mcheshi, huteleza chini ya kingo, majini.",
+      "category": "Animals",
+      "generated_at": "2026-11-02T06:45:34.698310"
     }
   ],
-  "last_updated": "2026-11-01T23:49:07.103437"
+  "last_updated": "2026-11-02T06:45:34.698311"
 }
