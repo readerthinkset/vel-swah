@@ -22749,7 +22749,42 @@
       "transliteration": "Dakika tano, kunyoosha, rudi ukiwa na nguvu.",
       "category": "Numbers",
       "generated_at": "2026-11-04T21:17:50.783070"
+    },
+    {
+      "english": "I step outside, and feel calm, instantly.",
+      "swahili": "Ninatoka nje, na nahisi utulivu, papo hapo.",
+      "transliteration": "Ninatoka nje, na nahisi utulivu, papo hapo.",
+      "category": "Travel",
+      "generated_at": "2026-11-04T22:52:06.008462"
+    },
+    {
+      "english": "Where is the bus stop, please, today?",
+      "swahili": "Kituo cha basi kiko wapi, tafadhali, leo?",
+      "transliteration": "Kituo cha basi kiko wapi, tafadhali, leo?",
+      "category": "Travel",
+      "generated_at": "2026-11-04T22:52:06.008475"
+    },
+    {
+      "english": "How much does this cost, for two people?",
+      "swahili": "Hii inagharimu kiasi gani, kwa watu wawili?",
+      "transliteration": "Hii inagharimu kiasi gani, kwa watu wawili?",
+      "category": "Travel",
+      "generated_at": "2026-11-04T22:52:06.008476"
+    },
+    {
+      "english": "Please, show me the way, slowly.",
+      "swahili": "Tafadhali, nionyeshe njia, taratibu.",
+      "transliteration": "Tafadhali, nionyeshe njia, taratibu.",
+      "category": "Travel",
+      "generated_at": "2026-11-04T22:52:06.008477"
+    },
+    {
+      "english": "I love this street, it feels welcoming.",
+      "swahili": "Ninapenda barabara hii, inaonekana inakaribisha.",
+      "transliteration": "Ninapenda barabara hii, inaonekana inakaribisha.",
+      "category": "Travel",
+      "generated_at": "2026-11-04T22:52:06.008478"
     }
   ],
-  "last_updated": "2026-11-04T21:17:50.783072"
+  "last_updated": "2026-11-04T22:52:06.008479"
 }
