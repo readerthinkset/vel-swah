@@ -22994,7 +22994,42 @@
       "transliteration": "Soksi hizi, zinapatana na hisia zangu leo",
       "category": "Clothes",
       "generated_at": "2026-11-06T01:04:52.183201"
+    },
+    {
+      "english": "Stop, step back, watch the smoke.",
+      "swahili": "Simama, rudi nyuma, angalia moshi.",
+      "transliteration": "Simama, rudi nyuma, angalia moshi.",
+      "category": "Emergency",
+      "generated_at": "2026-11-06T09:06:40.522015"
+    },
+    {
+      "english": "I see water rising, everyone move to higher ground.",
+      "swahili": "Ninaona maji yanaongezeka, sote nendeni juu.",
+      "transliteration": "Ninaona maji yanaongezeka, sote nendeni juu.",
+      "category": "Emergency",
+      "generated_at": "2026-11-06T09:06:40.522026"
+    },
+    {
+      "english": "Hold this railing, don't run, stay calm.",
+      "swahili": "Shika nguzo hii, usikimbie, tulia.",
+      "transliteration": "Shika nguzo hii, usikimbie, tulia.",
+      "category": "Emergency",
+      "generated_at": "2026-11-06T09:06:40.522028"
+    },
+    {
+      "english": "My head hurts, I need air now.",
+      "swahili": "Kichwa changu kinauma, nahitaji hewa sasa.",
+      "transliteration": "Kichwa changu kinauma, nahitaji hewa sasa.",
+      "category": "Emergency",
+      "generated_at": "2026-11-06T09:06:40.522030"
+    },
+    {
+      "english": "Fire extinguisher here, use it carefully!",
+      "swahili": "Kizima moto kiko hapa, kitumieni kwa uangalifu!",
+      "transliteration": "Kizima moto kiko hapa, kitumieni kwa uangalifu!",
+      "category": "Emergency",
+      "generated_at": "2026-11-06T09:06:40.522031"
     }
   ],
-  "last_updated": "2026-11-06T01:04:52.183202"
+  "last_updated": "2026-11-06T09:06:40.522033"
 }
