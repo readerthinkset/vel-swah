@@ -23274,7 +23274,42 @@
       "transliteration": "Kwa msaada wako, napumua kwa urahisi.",
       "category": "Gratitude",
       "generated_at": "2026-11-07T19:00:47.935246"
+    },
+    {
+      "english": "How spicy is this dish, exactly?",
+      "swahili": "Hii sahani ina pilipili kiasi gani, hasa?",
+      "transliteration": "Hii sahani ina pilipili kiasi gani, hasa?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-07T21:04:52.250765"
+    },
+    {
+      "english": "Please, bring me a tasting spoon.",
+      "swahili": "Tafadhali, nilete kijiko cha kuonja.",
+      "transliteration": "Tafadhali, nilete kijiko cha kuonja.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-07T21:04:52.250778"
+    },
+    {
+      "english": "Can I switch to mild, please?",
+      "swahili": "Naweza kubadilisha iwe laini, tafadhali?",
+      "transliteration": "Naweza kubadilisha iwe laini, tafadhali?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-07T21:04:52.250779"
+    },
+    {
+      "english": "What sauces pair best with this plate?",
+      "swahili": "Ni michuzi gani huendana zaidi na sahani hii?",
+      "transliteration": "Ni michuzi gani huendana zaidi na sahani hii?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-07T21:04:52.250780"
+    },
+    {
+      "english": "Do you have a vegetarian option, today?",
+      "swahili": "Mna chaguo la mboga, leo?",
+      "transliteration": "Mna chaguo la mboga, leo?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-07T21:04:52.250781"
     }
   ],
-  "last_updated": "2026-11-07T19:00:47.935248"
+  "last_updated": "2026-11-07T21:04:52.250782"
 }
