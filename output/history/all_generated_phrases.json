@@ -23379,7 +23379,42 @@
       "transliteration": "Kwa wewe, siku ngumu hupoa, haraka",
       "category": "Friendship",
       "generated_at": "2026-11-08T06:39:24.157608"
+    },
+    {
+      "english": "Morning dew, fresh and bright, everywhere.",
+      "swahili": "Utupe wa asubuhi, mpya na angavu, kila mahali.",
+      "transliteration": "Utupe wa asubuhi, mpya na angavu, kila mahali.",
+      "category": "Weather",
+      "generated_at": "2026-11-08T18:04:43.257197"
+    },
+    {
+      "english": "Clouds thicken, slowly now, above us.",
+      "swahili": "Mawingu yanene, taratibu sasa, juu yetu.",
+      "transliteration": "Mawingu yanene, taratibu sasa, juu yetu.",
+      "category": "Weather",
+      "generated_at": "2026-11-08T18:04:43.257212"
+    },
+    {
+      "english": "The sun breaks through, briefly, then softens.",
+      "swahili": "Jua linavunja mawingu, kwa muda, kisha hupoa taratibu.",
+      "transliteration": "Jua linavunja mawingu, kwa muda, kisha hupoa taratibu.",
+      "category": "Weather",
+      "generated_at": "2026-11-08T18:04:43.257214"
+    },
+    {
+      "english": "Breezes turn cool, near the evening.",
+      "swahili": "Upepo unakuwa baridi, karibu na jioni.",
+      "transliteration": "Upepo unakuwa baridi, karibu na jioni.",
+      "category": "Weather",
+      "generated_at": "2026-11-08T18:04:43.257216"
+    },
+    {
+      "english": "A light drizzle, yes, but it clears.",
+      "swahili": "Mvua ya wivu kidogo, ndiyo, kisha husafika.",
+      "transliteration": "Mvua ya wivu kidogo, ndiyo, kisha husafika.",
+      "category": "Weather",
+      "generated_at": "2026-11-08T18:04:43.257217"
     }
   ],
-  "last_updated": "2026-11-08T06:39:24.157609"
+  "last_updated": "2026-11-08T18:04:43.257219"
 }
