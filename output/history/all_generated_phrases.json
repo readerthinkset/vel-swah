@@ -23764,7 +23764,42 @@
       "transliteration": "Maendeleo madogo, nayo ni uponyaji.",
       "category": "Hope",
       "generated_at": "2026-11-10T08:35:49.954854"
+    },
+    {
+      "english": "Where can I try it on?",
+      "swahili": "Naweza kujaribu?",
+      "transliteration": "Na-weza ku-jari-bu?",
+      "category": "Shopping",
+      "generated_at": "2026-11-10T19:05:44.947168"
+    },
+    {
+      "english": "Do you have this in my size?",
+      "swahili": "Mna hii kwa saizi yangu?",
+      "transliteration": "Mna hi-ya kwa sa-izi ya-ngu?",
+      "category": "Shopping",
+      "generated_at": "2026-11-10T19:05:44.947182"
+    },
+    {
+      "english": "How much does it cost, exactly?",
+      "swahili": "Inagharimu kiasi gani, haswa?",
+      "transliteration": "Ina-gari-mu ka-si gani, ha-swa?",
+      "category": "Shopping",
+      "generated_at": "2026-11-10T19:05:44.947184"
+    },
+    {
+      "english": "Is it machine washable?",
+      "swahili": "Inaweza kuoshwa kwa mashine?",
+      "transliteration": "Ina-weza ku-o-shwa kwa ma-shi-ne?",
+      "category": "Shopping",
+      "generated_at": "2026-11-10T19:05:44.947185"
+    },
+    {
+      "english": "What material is this made of?",
+      "swahili": "Imetengenezwa kwa nyenzo gani?",
+      "transliteration": "Ime-ten-ge-nezwa kwa nye-zo ga-ni?",
+      "category": "Shopping",
+      "generated_at": "2026-11-10T19:05:44.947187"
     }
   ],
-  "last_updated": "2026-11-10T08:35:49.954856"
+  "last_updated": "2026-11-10T19:05:44.947189"
 }
