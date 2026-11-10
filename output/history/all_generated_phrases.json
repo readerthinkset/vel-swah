@@ -23834,7 +23834,42 @@
       "transliteration": "Ninashukuru, hata kwa siku za kawaida.",
       "category": "Happiness",
       "generated_at": "2026-11-10T20:40:07.298365"
+    },
+    {
+      "english": "My stomach hurts a little, now.",
+      "swahili": "Tumbo langu linauma kidogo, sasa.",
+      "transliteration": "Tumbo langu linauma kidogo, sasa.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-10T22:15:25.361565"
+    },
+    {
+      "english": "Your shoulder feels tired today, huh?",
+      "swahili": "Bega lako linaonekana limechoka leo, eh?",
+      "transliteration": "Bega lako linaonekana limechoka leo, eh?",
+      "category": "Body Parts",
+      "generated_at": "2026-11-10T22:15:25.361580"
+    },
+    {
+      "english": "Show me your chest, please.",
+      "swahili": "Nioneshe kifua chako, tafadhali.",
+      "transliteration": "Nioneshe kifua chako, tafadhali.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-10T22:15:25.361581"
+    },
+    {
+      "english": "My neck is stiff, please help.",
+      "swahili": "Shingo langu limekaza, tafadhali nisaidie.",
+      "transliteration": "Shingo langu limekaza, tafadhali nisaidie.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-10T22:15:25.361582"
+    },
+    {
+      "english": "Can you touch your cheek gently?",
+      "swahili": "Unaweza kugusa shavu lako kwa upole?",
+      "transliteration": "Unaweza kugusa shavu lako kwa upole?",
+      "category": "Body Parts",
+      "generated_at": "2026-11-10T22:15:25.361583"
     }
   ],
-  "last_updated": "2026-11-10T20:40:07.298367"
+  "last_updated": "2026-11-10T22:15:25.361584"
 }
