@@ -23904,7 +23904,42 @@
       "transliteration": "Usikate tamaa, piga pumzi, jaribu.",
       "category": "Strength",
       "generated_at": "2026-11-11T00:21:17.704240"
+    },
+    {
+      "english": "I have one apple, for lunch.",
+      "swahili": "Nina tufaha moja, kwa chakula.",
+      "transliteration": "Nina tufaha MOJA, kwa chakula.",
+      "category": "Numbers",
+      "generated_at": "2026-11-11T05:41:35.065833"
+    },
+    {
+      "english": "Give me two cups, please.",
+      "swahili": "Nipe vikombe viwili, tafadhali.",
+      "transliteration": "Nipe VIKOMBE viwili, tafadhali.",
+      "category": "Numbers",
+      "generated_at": "2026-11-11T05:41:35.065846"
+    },
+    {
+      "english": "She brought three books, today.",
+      "swahili": "Alileta vitabu vitatu, leo.",
+      "transliteration": "Alileta VITABU vitatu, leo.",
+      "category": "Numbers",
+      "generated_at": "2026-11-11T05:41:35.065847"
+    },
+    {
+      "english": "We need four chairs, now.",
+      "swahili": "Tunahitaji viti vinne, sasa.",
+      "transliteration": "Tunamhitaji VITI vinne, sasa.",
+      "category": "Numbers",
+      "generated_at": "2026-11-11T05:41:35.065849"
+    },
+    {
+      "english": "I want five bananas, please.",
+      "swahili": "Nataka ndizi tano, tafadhali.",
+      "transliteration": "Nataka NDIZI tano, tafadhali.",
+      "category": "Numbers",
+      "generated_at": "2026-11-11T05:41:35.065850"
     }
   ],
-  "last_updated": "2026-11-11T00:21:17.704241"
+  "last_updated": "2026-11-11T05:41:35.065851"
 }
