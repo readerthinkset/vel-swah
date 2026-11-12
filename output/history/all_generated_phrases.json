@@ -24184,7 +24184,42 @@
       "transliteration": "Ujipumzishe vizuri, karibu nyumbani.",
       "category": "Greetings",
       "generated_at": "2026-11-12T21:15:32.305497"
+    },
+    {
+      "english": "Go ahead, then stop at the corner.",
+      "swahili": "Songa mbele, kisha simama kwenye kona.",
+      "transliteration": "So-ng-a mbe-le, kisha sima-ma kwenye ko-na",
+      "category": "Directions",
+      "generated_at": "2026-11-12T22:39:59.754840"
+    },
+    {
+      "english": "Cross the bridge, carefully and calmly.",
+      "swahili": "Vuka daraja, kwa uangalifu na utulivu.",
+      "transliteration": "Vu-ka da-raa-ja, kwa u-an-ga-li-fu na u-tu-liv-u",
+      "category": "Directions",
+      "generated_at": "2026-11-12T22:39:59.754854"
+    },
+    {
+      "english": "Walk until you reach the church.",
+      "swahili": "Tembea hadi ufike kanisani.",
+      "transliteration": "Te-mbe-a ha-di u-fi-ke ka-ni-sa-ni",
+      "category": "Directions",
+      "generated_at": "2026-11-12T22:39:59.754855"
+    },
+    {
+      "english": "Turn right at the traffic lights.",
+      "swahili": "Geuka kulia kwenye taa za trafiki.",
+      "transliteration": "Geu-ka ku-lia kwenye taa za tra-fi-ki",
+      "category": "Directions",
+      "generated_at": "2026-11-12T22:39:59.754857"
+    },
+    {
+      "english": "Turn left near the pharmacy sign.",
+      "swahili": "Geuka kushoto karibu na duka la dawa.",
+      "transliteration": "Geu-ka ku-sho-to ka-ribu na du-ka la da-wa",
+      "category": "Directions",
+      "generated_at": "2026-11-12T22:39:59.754858"
     }
   ],
-  "last_updated": "2026-11-12T21:15:32.305499"
+  "last_updated": "2026-11-12T22:39:59.754860"
 }
