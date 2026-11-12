@@ -24149,7 +24149,42 @@
       "transliteration": "Shiriki wazo lako, hata kama ni dogo.",
       "category": "Creativity",
       "generated_at": "2026-11-12T19:22:20.668242"
+    },
+    {
+      "english": "Hello, karibu, hope you’re doing well.",
+      "swahili": "Hujambo, karibu, ninatumai uko sawa.",
+      "transliteration": "Hujambo, karibu, ninatumai uko sawa.",
+      "category": "Greetings",
+      "generated_at": "2026-11-12T21:15:32.305475"
+    },
+    {
+      "english": "Welcome, please take a seat, friend.",
+      "swahili": "Karibu, tafadhali kaa, rafiki.",
+      "transliteration": "Karibu, tafadhali kaa, rafiki.",
+      "category": "Greetings",
+      "generated_at": "2026-11-12T21:15:32.305493"
+    },
+    {
+      "english": "Good to see you again, karibu.",
+      "swahili": "Nimefurahi kukuona tena, karibu.",
+      "transliteration": "Nimefurahi kukuona tena, karibu.",
+      "category": "Greetings",
+      "generated_at": "2026-11-12T21:15:32.305495"
+    },
+    {
+      "english": "How is your family doing today?",
+      "swahili": "Familia yako iko vipi leo?",
+      "transliteration": "Familia yako iko vipi leo?",
+      "category": "Greetings",
+      "generated_at": "2026-11-12T21:15:32.305496"
+    },
+    {
+      "english": "May you rest well, karibu nyumbani.",
+      "swahili": "Ujipumzishe vizuri, karibu nyumbani.",
+      "transliteration": "Ujipumzishe vizuri, karibu nyumbani.",
+      "category": "Greetings",
+      "generated_at": "2026-11-12T21:15:32.305497"
     }
   ],
-  "last_updated": "2026-11-12T19:22:20.668244"
+  "last_updated": "2026-11-12T21:15:32.305499"
 }
