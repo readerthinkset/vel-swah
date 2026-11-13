@@ -24254,7 +24254,42 @@
       "transliteration": "U-na-ni-tu-li-za ha-ra-ka",
       "category": "Relationships",
       "generated_at": "2026-11-13T00:51:06.616017"
+    },
+    {
+      "english": "Good morning, how is your day going?",
+      "swahili": "Habari za asubuhi, siku yako inaendaje?",
+      "transliteration": "ha-baa-ri za a-su-bu-hi, si-ku ya-ko i-na-en-de-je?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T06:03:13.289112"
+    },
+    {
+      "english": "Hello, what is your name?",
+      "swahili": "Habari, jina lako ni nani?",
+      "transliteration": "ha-baa-ri, ji-na la-ko ni na-ni?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T06:03:13.289125"
+    },
+    {
+      "english": "I’m learning Swahili, please help me.",
+      "swahili": "Ninakabili Kiswahili, tafadhali ni saidie.",
+      "transliteration": "ni-na-ka-bi-li ki-swa-hi-li, ta-fa-dha-li ni sa-i-di-e.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T06:03:13.289127"
+    },
+    {
+      "english": "Where is the bus stop, please?",
+      "swahili": "Kituo cha basi kiko wapi, tafadhali?",
+      "transliteration": "ki-tu-o cha ba-si ki-ko wa-pi, ta-fa-dha-li?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T06:03:13.289129"
+    },
+    {
+      "english": "How much does this cost, exactly?",
+      "swahili": "Hii gharama yake ni kiasi gani hasa?",
+      "transliteration": "hi-i gha-ra-ma ya-ke ni ka-si ya-ni ha-sa?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T06:03:13.289130"
     }
   ],
-  "last_updated": "2026-11-13T00:51:06.616019"
+  "last_updated": "2026-11-13T06:03:13.289133"
 }
