@@ -24289,7 +24289,42 @@
       "transliteration": "hi-i gha-ra-ma ya-ke ni ka-si ya-ni ha-sa?",
       "category": "Basic Phrases",
       "generated_at": "2026-11-13T06:03:13.289130"
+    },
+    {
+      "english": "I forgive you, truly, today.",
+      "swahili": "Ninakusamehe, kwa kweli, leo.",
+      "transliteration": "Na-naku-samehe, kwa kweli, leo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-13T18:59:42.900291"
+    },
+    {
+      "english": "Let's move past this, kindly.",
+      "swahili": "Tuendelee mbele, kwa upole.",
+      "transliteration": "Tuendelee mbele, kwa upole.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-13T18:59:42.900305"
+    },
+    {
+      "english": "I release the anger, now.",
+      "swahili": "Niachilia hasira, sasa.",
+      "transliteration": "Nia-chi- lia ha-si-ra, sa-sa.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-13T18:59:42.900306"
+    },
+    {
+      "english": "You can make it right with me.",
+      "swahili": "Unaweza kufanya sawa na mimi.",
+      "transliteration": "Una-weza kufanya sa-wa na mi-mi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-13T18:59:42.900308"
+    },
+    {
+      "english": "I won't hold grudges anymore.",
+      "swahili": "Sitabeba chuki tena.",
+      "transliteration": "Si-ta-be-ba chu-ki te-na.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-13T18:59:42.900309"
     }
   ],
-  "last_updated": "2026-11-13T06:03:13.289133"
+  "last_updated": "2026-11-13T18:59:42.900311"
 }
