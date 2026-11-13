@@ -24219,7 +24219,42 @@
       "transliteration": "Geu-ka ku-sho-to ka-ribu na du-ka la da-wa",
       "category": "Directions",
       "generated_at": "2026-11-12T22:39:59.754858"
+    },
+    {
+      "english": "I trust you with my heart.",
+      "swahili": "Nakutegemea kwa moyo wangu.",
+      "transliteration": "Na-ku-te-ge-me-a kwa mo-yo wa-gu",
+      "category": "Relationships",
+      "generated_at": "2026-11-13T00:51:06.615999"
+    },
+    {
+      "english": "Your smile makes my day brighter.",
+      "swahili": "Tabasamu lako linaifanya siku yangu iwe nyepesi.",
+      "transliteration": "Ta-ba-sa-mu la-ko li-na-i-fa-ya si-ku ya-gu iwe nye-pe-si",
+      "category": "Relationships",
+      "generated_at": "2026-11-13T00:51:06.616012"
+    },
+    {
+      "english": "I feel safe when you're near.",
+      "swahili": "Ninahisi usalama ninapokuwa karibu nawe.",
+      "transliteration": "Ni-na-hi-si u-sa-la-ma ni-na-po-ku-wa ka-bu-li na-we",
+      "category": "Relationships",
+      "generated_at": "2026-11-13T00:51:06.616014"
+    },
+    {
+      "english": "We celebrate the little wins together.",
+      "swahili": "Tunaadhimisha ushindi mdogo pamoja.",
+      "transliteration": "Tu-na-a-dhi-mi-sha u-shin-di mdo-go pa-mo-ja",
+      "category": "Relationships",
+      "generated_at": "2026-11-13T00:51:06.616015"
+    },
+    {
+      "english": "You calm me down fast.",
+      "swahili": "Unanituliza haraka.",
+      "transliteration": "U-na-ni-tu-li-za ha-ra-ka",
+      "category": "Relationships",
+      "generated_at": "2026-11-13T00:51:06.616017"
     }
   ],
-  "last_updated": "2026-11-12T22:39:59.754860"
+  "last_updated": "2026-11-13T00:51:06.616019"
 }
