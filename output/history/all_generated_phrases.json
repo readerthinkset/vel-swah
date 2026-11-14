@@ -24534,7 +24534,42 @@
       "transliteration": "Ki-ji-to ki-na-che-ka juu ya ma-we",
       "category": "Nature",
       "generated_at": "2026-11-14T18:54:17.287346"
+    },
+    {
+      "english": "The food tastes incredible, very fresh.",
+      "swahili": "Chakula kina ladha ya kushangaza, safi sana.",
+      "transliteration": "Chakula kina ladha ya kushangaza, safi sana.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-14T21:15:27.779052"
+    },
+    {
+      "english": "I love how tender this meat is.",
+      "swahili": "Naipenda jinsi nyama ilivyo laini.",
+      "transliteration": "Naipenda jinsi nyama ilivyo laini.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-14T21:15:27.779065"
+    },
+    {
+      "english": "Is this dish spicy, or mild?",
+      "swahili": "Sahani hii ni ya pilipili, au laini?",
+      "transliteration": "Sahani hii ni ya pilipili, au laini?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-14T21:15:27.779067"
+    },
+    {
+      "english": "Please, tell me what’s inside this.",
+      "swahili": "Tafadhali niambie kilicho ndani yake.",
+      "transliteration": "Tafadhali niambie kilicho ndani yake.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-14T21:15:27.779068"
+    },
+    {
+      "english": "Could I get this to go, please?",
+      "swahili": "Naweza kukipakia nikienda, tafadhali?",
+      "transliteration": "Naweza kukipakia nikienda, tafadhali?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-14T21:15:27.779069"
     }
   ],
-  "last_updated": "2026-11-14T18:54:17.287348"
+  "last_updated": "2026-11-14T21:15:27.779071"
 }
