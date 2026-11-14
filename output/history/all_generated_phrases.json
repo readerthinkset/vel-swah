@@ -24429,7 +24429,42 @@
       "transliteration": "Uliza maswali, inakufanya ujasiri.",
       "category": "Inspiration",
       "generated_at": "2026-11-14T00:35:55.740021"
+    },
+    {
+      "english": "At this time, we start.",
+      "swahili": "Wakati huu, tunaanza.",
+      "transliteration": "Wakati huu, tunaanza.",
+      "category": "Time",
+      "generated_at": "2026-11-14T05:52:18.213034"
+    },
+    {
+      "english": "Right now, please wait.",
+      "swahili": "Kwa sasa, tafadhali subiri.",
+      "transliteration": "Kwa sasa, tafadhali subiri.",
+      "category": "Time",
+      "generated_at": "2026-11-14T05:52:18.213051"
+    },
+    {
+      "english": "Later, we’ll meet outside.",
+      "swahili": "Baadaye, tutakutana nje.",
+      "transliteration": "Baadaye, tutakutana nje.",
+      "category": "Time",
+      "generated_at": "2026-11-14T05:52:18.213054"
+    },
+    {
+      "english": "In the evening, come to me.",
+      "swahili": "Jioni, njoo kwangu.",
+      "transliteration": "Jioni, njoo kwangu.",
+      "category": "Time",
+      "generated_at": "2026-11-14T05:52:18.213055"
+    },
+    {
+      "english": "By morning, everything will be ready.",
+      "swahili": "Asubuhi, kila kitu kitakuwa tayari.",
+      "transliteration": "Asubuhi, kila kitu kitakuwa tayari.",
+      "category": "Time",
+      "generated_at": "2026-11-14T05:52:18.213057"
     }
   ],
-  "last_updated": "2026-11-14T00:35:55.740023"
+  "last_updated": "2026-11-14T05:52:18.213059"
 }
