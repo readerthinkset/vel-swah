@@ -24779,7 +24779,42 @@
       "transliteration": "jisikia sakafu, shikilia msimamo wako",
       "category": "Balance",
       "generated_at": "2026-11-15T23:40:47.706175"
+    },
+    {
+      "english": "Help me, call the police now.",
+      "swahili": "Nisaidie, piga simu polisi sasa.",
+      "transliteration": "ni-sa-idie, piga simu polisi sa-sa.",
+      "category": "Emergency",
+      "generated_at": "2026-11-16T05:52:58.209481"
+    },
+    {
+      "english": "Emergency, I need medical help immediately.",
+      "swahili": "Dharura, nahitaji huduma ya daktari mara moja.",
+      "transliteration": "dha-ru-ra, na-hi-taji hu-du-ma ya dak-ta-ri ma-ra o-ja.",
+      "category": "Emergency",
+      "generated_at": "2026-11-16T05:52:58.209495"
+    },
+    {
+      "english": "Where is the nearest hospital, please?",
+      "swahili": "Hospitali iliyo karibu iko wapi, tafadhali?",
+      "transliteration": "hos-pi-ta-li i-li-o ka-ru-bi i-ko wa-pi, ta-fa-dha-li?",
+      "category": "Emergency",
+      "generated_at": "2026-11-16T05:52:58.209497"
+    },
+    {
+      "english": "I’m bleeding, please help me stop.",
+      "swahili": "Ninavuja damu, tafadhali nisaidie kuacha.",
+      "transliteration": "ni-na-vu-ja da-mu, ta-fa-dha-li ni-sa-idie ku-a-cha.",
+      "category": "Emergency",
+      "generated_at": "2026-11-16T05:52:58.209499"
+    },
+    {
+      "english": "My arm is hurt badly, help.",
+      "swahili": "Mkono wangu unauma vibaya, nisaidie.",
+      "transliteration": "mko-no wa-ngu u-na-u-ma vi-ba-ya, ni-sa-idie.",
+      "category": "Emergency",
+      "generated_at": "2026-11-16T05:52:58.209500"
     }
   ],
-  "last_updated": "2026-11-15T23:40:47.706179"
+  "last_updated": "2026-11-16T05:52:58.209502"
 }
