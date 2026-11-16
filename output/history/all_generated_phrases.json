@@ -24849,7 +24849,42 @@
       "transliteration": "pa-ka mwenye n-jaa, hu-in-gi-a ji-ko-ni ki-mya ki-mya",
       "category": "Animals",
       "generated_at": "2026-11-16T21:27:11.288002"
+    },
+    {
+      "english": "It’s sunny, and the day feels bright.",
+      "swahili": "Jua linang'aa, na siku inaonekana angavu.",
+      "transliteration": "Jua linang'aa, na siku inaonekana angavu.",
+      "category": "Weather",
+      "generated_at": "2026-11-16T23:07:21.063401"
+    },
+    {
+      "english": "The wind is calm, for now.",
+      "swahili": "Upepo ni tulivu, kwa sasa.",
+      "transliteration": "Upepo ni tulivu, kwa sasa.",
+      "category": "Weather",
+      "generated_at": "2026-11-16T23:07:21.063421"
+    },
+    {
+      "english": "The clouds are building up again.",
+      "swahili": "Mawingu yanaongezeka tena.",
+      "transliteration": "Mawingu yanaongezeka tena.",
+      "category": "Weather",
+      "generated_at": "2026-11-16T23:07:21.063423"
+    },
+    {
+      "english": "I can smell rain coming soon.",
+      "swahili": "Ninanuka mvua inakaribia.",
+      "transliteration": "Ninanuka mvua inakaribia.",
+      "category": "Weather",
+      "generated_at": "2026-11-16T23:07:21.063425"
+    },
+    {
+      "english": "The sky looks clear above town.",
+      "swahili": "Anga linaonekana wazi juu ya mji.",
+      "transliteration": "Anga linaonekana wazi juu ya mji.",
+      "category": "Weather",
+      "generated_at": "2026-11-16T23:07:21.063427"
     }
   ],
-  "last_updated": "2026-11-16T21:27:11.288003"
+  "last_updated": "2026-11-16T23:07:21.063429"
 }
