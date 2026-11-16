@@ -24814,7 +24814,42 @@
       "transliteration": "mko-no wa-ngu u-na-u-ma vi-ba-ya, ni-sa-idie.",
       "category": "Emergency",
       "generated_at": "2026-11-16T05:52:58.209500"
+    },
+    {
+      "english": "A brave eagle, circles high above us.",
+      "swahili": "Mwewe jasiri, huzunguka juu sana.",
+      "transliteration": "mwe-we ja-si-ri, hu-zu-ngu-ka juu sa-na",
+      "category": "Animals",
+      "generated_at": "2026-11-16T21:27:11.287982"
+    },
+    {
+      "english": "A red fox, trots through the tall grass.",
+      "swahili": "Mbweha mwekundu, hutembea taratibu kwenye nyasi ndefu.",
+      "transliteration": "mbwe-ha m-wek-un-du, hu-te-m-be-a ta-ra-ti-bu kwenye nya-si n-defu",
+      "category": "Animals",
+      "generated_at": "2026-11-16T21:27:11.287999"
+    },
+    {
+      "english": "A calm dolphin, swims beside the boat.",
+      "swahili": "Dolphin tulivu, huogelea kando ya mashua.",
+      "transliteration": "dol-fin tu-li-vi, hu-o-ge-lee kan-do ya ma-shua",
+      "category": "Animals",
+      "generated_at": "2026-11-16T21:27:11.288000"
+    },
+    {
+      "english": "The playful puppy, chases its own tail.",
+      "swahili": "Mbwa mdogo anacheza, hukimbiza mkia wake.",
+      "transliteration": "mbwa mi-do-go a-na-che-za, hu-kim-bi-za mi-ki-a wa-ke",
+      "category": "Animals",
+      "generated_at": "2026-11-16T21:27:11.288001"
+    },
+    {
+      "english": "A hungry cat, walks softly into the kitchen.",
+      "swahili": "Paka mwenye njaa, huingia jikoni kimya kimya.",
+      "transliteration": "pa-ka mwenye n-jaa, hu-in-gi-a ji-ko-ni ki-mya ki-mya",
+      "category": "Animals",
+      "generated_at": "2026-11-16T21:27:11.288002"
     }
   ],
-  "last_updated": "2026-11-16T05:52:58.209502"
+  "last_updated": "2026-11-16T21:27:11.288003"
 }
