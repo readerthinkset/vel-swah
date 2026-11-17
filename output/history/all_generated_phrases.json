@@ -25059,7 +25059,42 @@
       "transliteration": "Na-shu-ku-ru kwa m-sa-a-da wa-ko wa u-a-mi-ni-fu.",
       "category": "Gratitude",
       "generated_at": "2026-11-17T21:58:50.887515"
+    },
+    {
+      "english": "Fresh bread, warm from the oven.",
+      "swahili": "Mkate safi, moto kutoka oveni.",
+      "transliteration": "mkate sa-fi, mo-to ku-to-ka o-ve-ni",
+      "category": "Food",
+      "generated_at": "2026-11-17T23:53:52.398621"
+    },
+    {
+      "english": "Hot tea, let’s eat together now.",
+      "swahili": "Chai ya moto, tule sasa pamoja.",
+      "transliteration": "chai ya mo-to, tu-le sa-sa pa-moja",
+      "category": "Food",
+      "generated_at": "2026-11-17T23:53:52.398634"
+    },
+    {
+      "english": "I’m craving ugali tonight, please.",
+      "swahili": "Natafuta ugali leo usiku, tafadhali.",
+      "transliteration": "na-ta-fa-ta ug-a-li le-o u-si-ku, ta-fa-dha-li",
+      "category": "Food",
+      "generated_at": "2026-11-17T23:53:52.398635"
+    },
+    {
+      "english": "This stew smells amazing, I’m hungry.",
+      "swahili": "Huu mchuzi unanukia vizuri, na njaa.",
+      "transliteration": "huu mch-u-zi u-na-nu-ki-a vzuri, na njaa",
+      "category": "Food",
+      "generated_at": "2026-11-17T23:53:52.398636"
+    },
+    {
+      "english": "Pass the salt, my food needs it.",
+      "swahili": "Pitishe chumvi, chakula changu kinahitaji.",
+      "transliteration": "pi-ti-she chu-mvi, cha-ku-la cha-ngu ki-na-hi-taji",
+      "category": "Food",
+      "generated_at": "2026-11-17T23:53:52.398637"
     }
   ],
-  "last_updated": "2026-11-17T21:58:50.887517"
+  "last_updated": "2026-11-17T23:53:52.398638"
 }
