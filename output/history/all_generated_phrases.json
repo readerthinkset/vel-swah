@@ -24919,7 +24919,42 @@
       "transliteration": "Polepole, utahisi ikifika sawa.",
       "category": "Patience",
       "generated_at": "2026-11-17T00:43:50.610646"
+    },
+    {
+      "english": "I need Wi‑Fi to continue.",
+      "swahili": "Nahitaji Wi‑Fi ili niendelee.",
+      "transliteration": "Ninahitaj i Wi-FI ili niendelee.",
+      "category": "Technology",
+      "generated_at": "2026-11-17T02:43:35.395541"
+    },
+    {
+      "english": "Can you connect your headset, please?",
+      "swahili": "Unaweza kuunganisha headset yako, tafadhali?",
+      "transliteration": "Unaweza kuunganisha haed-seti yako, tafadhali?",
+      "category": "Technology",
+      "generated_at": "2026-11-17T02:43:35.395555"
+    },
+    {
+      "english": "This button starts the app.",
+      "swahili": "Kitufe hiki kinaanzisha programu.",
+      "transliteration": "Kitu fe hiki kinaanzisha programu.",
+      "category": "Technology",
+      "generated_at": "2026-11-17T02:43:35.395556"
+    },
+    {
+      "english": "The battery is low, charge now.",
+      "swahili": "Betri iko chini, chaji sasa.",
+      "transliteration": "Betr i iko chini, chaji sasa.",
+      "category": "Technology",
+      "generated_at": "2026-11-17T02:43:35.395558"
+    },
+    {
+      "english": "Please back up your files tonight.",
+      "swahili": "Tafadhali hifadhi nakala za faili leo usiku.",
+      "transliteration": "Tafadhali hifadhi nakala za faili leo usiku.",
+      "category": "Technology",
+      "generated_at": "2026-11-17T02:43:35.395559"
     }
   ],
-  "last_updated": "2026-11-17T00:43:50.610648"
+  "last_updated": "2026-11-17T02:43:35.395560"
 }
