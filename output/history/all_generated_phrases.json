@@ -24884,7 +24884,42 @@
       "transliteration": "Anga linaonekana wazi juu ya mji.",
       "category": "Weather",
       "generated_at": "2026-11-16T23:07:21.063427"
+    },
+    {
+      "english": "Be calm, we have time.",
+      "swahili": "Tulia, tuna muda.",
+      "transliteration": "Tulia, tuna muda.",
+      "category": "Patience",
+      "generated_at": "2026-11-17T00:43:50.610630"
+    },
+    {
+      "english": "Please wait, it will be ready.",
+      "swahili": "Tafadhali subiri, itakuwa tayari.",
+      "transliteration": "Tafadhali subiri, itakuwa tayari.",
+      "category": "Patience",
+      "generated_at": "2026-11-17T00:43:50.610644"
+    },
+    {
+      "english": "I understand, go step by step.",
+      "swahili": "Ninaelewa, nenda hatua kwa hatua.",
+      "transliteration": "Ninaelewa, nenda hatua kwa hatua.",
+      "category": "Patience",
+      "generated_at": "2026-11-17T00:43:50.610645"
+    },
+    {
+      "english": "Keep going, don't rush things.",
+      "swahili": "Endelea, usikimbilie mambo.",
+      "transliteration": "Endelea, usikimbilie mambo.",
+      "category": "Patience",
+      "generated_at": "2026-11-17T00:43:50.610646"
+    },
+    {
+      "english": "Slowly, you’ll feel it click.",
+      "swahili": "Polepole, utahisi ikifika sawa.",
+      "transliteration": "Polepole, utahisi ikifika sawa.",
+      "category": "Patience",
+      "generated_at": "2026-11-17T00:43:50.610646"
     }
   ],
-  "last_updated": "2026-11-16T23:07:21.063429"
+  "last_updated": "2026-11-17T00:43:50.610648"
 }
