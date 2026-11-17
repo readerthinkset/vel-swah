@@ -25024,7 +25024,42 @@
       "transliteration": "Jaribu kutumia neno hilo kwenye sentensi",
       "category": "Education",
       "generated_at": "2026-11-17T20:16:59.212733"
+    },
+    {
+      "english": "Thank you, for helping me today.",
+      "swahili": "Asante, kwa kunisaidia leo.",
+      "transliteration": "A-san-te, kwa ni-sa-a-di-a le-o.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T21:58:50.887498"
+    },
+    {
+      "english": "I appreciate your time and effort.",
+      "swahili": "Na shukuru kwa muda na juhudi zako.",
+      "transliteration": "Na shu-ku-ru kwa mu-da na ju-hu-di za-ko.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T21:58:50.887511"
+    },
+    {
+      "english": "Your kindness really means something to me.",
+      "swahili": "Ukarimu wako unamaanisha mengi kwangu.",
+      "transliteration": "U-ka-ri-mu wa-ko u-na-ma-a-nisha men-gi kwan-gu.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T21:58:50.887513"
+    },
+    {
+      "english": "Thank you, I truly feel supported.",
+      "swahili": "Asante, najisikia nimeungwa mkono.",
+      "transliteration": "A-san-te, na-ji-si-ki-a ni-me-ung-wa mkon-o.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T21:58:50.887514"
+    },
+    {
+      "english": "I’m grateful for your honest help.",
+      "swahili": "Nashukuru kwa msaada wako wa uaminifu.",
+      "transliteration": "Na-shu-ku-ru kwa m-sa-a-da wa-ko wa u-a-mi-ni-fu.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T21:58:50.887515"
     }
   ],
-  "last_updated": "2026-11-17T20:16:59.212737"
+  "last_updated": "2026-11-17T21:58:50.887517"
 }
