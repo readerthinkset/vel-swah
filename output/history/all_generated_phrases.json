@@ -25234,7 +25234,42 @@
       "transliteration": "tuchukue hatua tano, tuone kote",
       "category": "Numbers",
       "generated_at": "2026-11-18T21:40:27.200659"
+    },
+    {
+      "english": "Hi, how’s your day going?",
+      "swahili": "Hujambo, siku yako inaendeaje?",
+      "transliteration": "Hu-jambo, si-ku ya-ko i-nae-de-je?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-18T23:22:05.407179"
+    },
+    {
+      "english": "Good to see you again.",
+      "swahili": "Nimefurahi kukuona tena.",
+      "transliteration": "Ni-me-fu-ra-hi ku-ku-o-na te-na.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-18T23:22:05.407190"
+    },
+    {
+      "english": "I’m doing fine, asante.",
+      "swahili": "Niko sawa, asante.",
+      "transliteration": "Ni-ko sa-wa, a-san-te.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-18T23:22:05.407191"
+    },
+    {
+      "english": "What do you do for work?",
+      "swahili": "Unafanya kazi gani?",
+      "transliteration": "U-na-fa-a ka-zi ga-ni?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-18T23:22:05.407192"
+    },
+    {
+      "english": "Where are you going now?",
+      "swahili": "Unaelekea wapi sasa?",
+      "transliteration": "U-na-e-le-ke-a wa-pi sa-sa?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-18T23:22:05.407193"
     }
   ],
-  "last_updated": "2026-11-18T21:40:27.200661"
+  "last_updated": "2026-11-18T23:22:05.407194"
 }
