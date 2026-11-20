@@ -25479,7 +25479,42 @@
       "transliteration": "Amini jitihada, inajikusanya.",
       "category": "Motivation",
       "generated_at": "2026-11-20T01:39:28.061090"
+    },
+    {
+      "english": "Where can I find these items?",
+      "swahili": "Ninaweza kupata vitu hivi wapi?",
+      "transliteration": "Ninaweza kupata vitu hivi wapi?",
+      "category": "Shopping",
+      "generated_at": "2026-11-20T06:45:22.423804"
+    },
+    {
+      "english": "Do you have this in red?",
+      "swahili": "Una hicho kwa rangi nyekundu?",
+      "transliteration": "Una hicho kwa rangi nyekundu?",
+      "category": "Shopping",
+      "generated_at": "2026-11-20T06:45:22.423815"
+    },
+    {
+      "english": "How much is this shirt today?",
+      "swahili": "Je, shati hii inagharimu kiasi gani?",
+      "transliteration": "Je, shati hii inagharimu kiasi gani?",
+      "category": "Shopping",
+      "generated_at": "2026-11-20T06:45:22.423828"
+    },
+    {
+      "english": "I’d like to see other options.",
+      "swahili": "Ningependa kuona chaguo nyingine.",
+      "transliteration": "Ningependa kuona chaguo nyingine.",
+      "category": "Shopping",
+      "generated_at": "2026-11-20T06:45:22.423830"
+    },
+    {
+      "english": "Does it come with a receipt?",
+      "swahili": "Inakuja na risiti, tafadhali?",
+      "transliteration": "Inakuja na risiti, tafadhali?",
+      "category": "Shopping",
+      "generated_at": "2026-11-20T06:45:22.423832"
     }
   ],
-  "last_updated": "2026-11-20T01:39:28.061092"
+  "last_updated": "2026-11-20T06:45:22.423834"
 }
