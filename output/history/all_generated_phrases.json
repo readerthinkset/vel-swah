@@ -25724,7 +25724,42 @@
       "transliteration": "Mtu ameniiibia simu yangu, msaada!",
       "category": "Emergency",
       "generated_at": "2026-11-21T18:30:33.198056"
+    },
+    {
+      "english": "I feel pain in my neck.",
+      "swahili": "Nina maumivu shingoni mwangu.",
+      "transliteration": "Nina maumivu shingoni mwangu.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-21T20:18:38.661106"
+    },
+    {
+      "english": "Wash your hands, please, now.",
+      "swahili": "Osha mikono yako, tafadhali, sasa.",
+      "transliteration": "Osha mikono yako, tafadhali, sasa.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-21T20:18:38.661122"
+    },
+    {
+      "english": "Hold my arm, it’s sore.",
+      "swahili": "Shika mkono wangu, nina uchungu.",
+      "transliteration": "Shika mkono wangu, nina uchungu.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-21T20:18:38.661125"
+    },
+    {
+      "english": "Your knee hurts when you run.",
+      "swahili": "Goti lako linauma ukikimbia.",
+      "transliteration": "Goti lako linauma ukikimbia.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-21T20:18:38.661127"
+    },
+    {
+      "english": "My elbow feels stiff today.",
+      "swahili": "Kiungo cha mkono wangu kimebana leo.",
+      "transliteration": "Kiungo cha mkono wangu kimebana leo.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-21T20:18:38.661128"
     }
   ],
-  "last_updated": "2026-11-21T18:30:33.198058"
+  "last_updated": "2026-11-21T20:18:38.661130"
 }
