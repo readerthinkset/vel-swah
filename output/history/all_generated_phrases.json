@@ -25689,7 +25689,42 @@
       "transliteration": "Usifuate kelele, tafuta maana halisi.",
       "category": "Wisdom",
       "generated_at": "2026-11-21T06:38:13.187932"
+    },
+    {
+      "english": "Stop, I need help, please.",
+      "swahili": "Simama, nahitaji msaada, tafadhali.",
+      "transliteration": "Sima-a, nahitaji msaada, tafadhali.",
+      "category": "Emergency",
+      "generated_at": "2026-11-21T18:30:33.198037"
+    },
+    {
+      "english": "Please call an ambulance right now.",
+      "swahili": "Tafadhali piga simu ya gari la wagonjwa sasa.",
+      "transliteration": "Tafadhali piga simu ya gari la wagonjwa sasa.",
+      "category": "Emergency",
+      "generated_at": "2026-11-21T18:30:33.198050"
+    },
+    {
+      "english": "I think I'm having a seizure.",
+      "swahili": "Nadhani ninapata kifafa.",
+      "transliteration": "Nadhani ninapata kifafa.",
+      "category": "Emergency",
+      "generated_at": "2026-11-21T18:30:33.198054"
+    },
+    {
+      "english": "Call the police, there's a robbery.",
+      "swahili": "Piga polisi, kuna wizi.",
+      "transliteration": "Piga polisi, kuna wizi.",
+      "category": "Emergency",
+      "generated_at": "2026-11-21T18:30:33.198055"
+    },
+    {
+      "english": "Someone stole my phone, help!",
+      "swahili": "Mtu ameniiibia simu yangu, msaada!",
+      "transliteration": "Mtu ameniiibia simu yangu, msaada!",
+      "category": "Emergency",
+      "generated_at": "2026-11-21T18:30:33.198056"
     }
   ],
-  "last_updated": "2026-11-21T06:38:13.187933"
+  "last_updated": "2026-11-21T18:30:33.198058"
 }
