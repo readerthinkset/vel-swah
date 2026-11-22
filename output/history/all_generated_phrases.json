@@ -25864,7 +25864,42 @@
       "transliteration": "Ujasiri huja, hofu inapojitokeza.",
       "category": "Strength",
       "generated_at": "2026-11-22T06:06:52.485352"
+    },
+    {
+      "english": "Where can I buy water nearby?",
+      "swahili": "Ninaweza kununua maji wapi karibu?",
+      "transliteration": "Ninaweza kununua maji wapi karibu?",
+      "category": "Travel",
+      "generated_at": "2026-11-22T18:52:24.836319"
+    },
+    {
+      "english": "Is there a restroom for travelers here?",
+      "swahili": "Kuna choo cha wageni hapa?",
+      "transliteration": "Kuna choo cha wageni hapa?",
+      "category": "Travel",
+      "generated_at": "2026-11-22T18:52:24.836355"
+    },
+    {
+      "english": "Please help me find the market.",
+      "swahili": "Tafadhali nipe mwongozo hadi sokoni.",
+      "transliteration": "Tafadhali nipe mwongozo hadi sokoni.",
+      "category": "Travel",
+      "generated_at": "2026-11-22T18:52:24.836358"
+    },
+    {
+      "english": "How much is one ticket to town?",
+      "swahili": "Tiketi moja hadi mjini ni kiasi gani?",
+      "transliteration": "Tiketi moja hadi mjini ni kiasi gani?",
+      "category": "Travel",
+      "generated_at": "2026-11-22T18:52:24.836374"
+    },
+    {
+      "english": "What time does the bus leave?",
+      "swahili": "Basi linaondoka saa ngapi?",
+      "transliteration": "Basi linaondoka saa ngapi?",
+      "category": "Travel",
+      "generated_at": "2026-11-22T18:52:24.836376"
     }
   ],
-  "last_updated": "2026-11-22T06:06:52.485354"
+  "last_updated": "2026-11-22T18:52:24.836378"
 }
