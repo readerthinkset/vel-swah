@@ -26039,7 +26039,42 @@
       "transliteration": "kaa i-ma-ra, za-mu ya-ko i-ta-fa-ki-a",
       "category": "Patience",
       "generated_at": "2026-11-23T06:58:54.637775"
+    },
+    {
+      "english": "I want something warm, maybe soup.",
+      "swahili": "Nataka kitu chenye joto, labda supu.",
+      "transliteration": "Nataka kitu chenye joto, labda supu.",
+      "category": "Food",
+      "generated_at": "2026-11-23T23:07:02.027686"
+    },
+    {
+      "english": "Please pass the sauce, I need it.",
+      "swahili": "Tafadhali nipitishe mchuzi, nahitaji.",
+      "transliteration": "Tafadhali nipitishe mchuzi, nahitaji.",
+      "category": "Food",
+      "generated_at": "2026-11-23T23:07:02.027699"
+    },
+    {
+      "english": "This stew is perfect for today.",
+      "swahili": "Kitoweo hiki ni kizuri kwa leo.",
+      "transliteration": "Kitoweo hiki ni kizuri kwa leo.",
+      "category": "Food",
+      "generated_at": "2026-11-23T23:07:02.027701"
+    },
+    {
+      "english": "The pilau smells good, come taste.",
+      "swahili": "Ugal i hii harufu yake ni nzuri, njoo kuonja.",
+      "transliteration": "Ugal i hii harufu yake ni nzuri, njoo kuonja.",
+      "category": "Food",
+      "generated_at": "2026-11-23T23:07:02.027702"
+    },
+    {
+      "english": "Can I have more rice, please?",
+      "swahili": "Naomba mchele zaidi, tafadhali.",
+      "transliteration": "Naomba mchele zaidi, tafadhali.",
+      "category": "Food",
+      "generated_at": "2026-11-23T23:07:02.027703"
     }
   ],
-  "last_updated": "2026-11-23T06:58:54.637777"
+  "last_updated": "2026-11-23T23:07:02.027705"
 }
