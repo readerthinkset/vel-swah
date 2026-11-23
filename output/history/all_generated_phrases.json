@@ -26004,7 +26004,42 @@
       "transliteration": "tu-i-thi-bi-ti-she ta-ree-ha ya MU-sho pa-mo-ja",
       "category": "Work",
       "generated_at": "2026-11-23T00:33:50.752285"
+    },
+    {
+      "english": "Be patient, it will work out.",
+      "swahili": "Subiri, litafanikiwa.",
+      "transliteration": "su-Bi-ri, li-ta-fa-fa-ni-ka",
+      "category": "Patience",
+      "generated_at": "2026-11-23T06:58:54.637752"
+    },
+    {
+      "english": "Take your time, no hurry.",
+      "swahili": "Chukua muda wako, usikimbilie.",
+      "transliteration": "chU-ku-a mu-da wa-ko, u-si-kim-bi-lie",
+      "category": "Patience",
+      "generated_at": "2026-11-23T06:58:54.637769"
+    },
+    {
+      "english": "Hold on, everything settles eventually.",
+      "swahili": "Shikilia, kila kitu hatimaye kitajipanga.",
+      "transliteration": "shi-ki-ii-la, ki-la ki-tu ha-ti-ma-ye ki-ta-ji-pang-a",
+      "category": "Patience",
+      "generated_at": "2026-11-23T06:58:54.637771"
+    },
+    {
+      "english": "Wait a bit, then we try again.",
+      "swahili": "Subiri kidogo, kisha tujaribu tena.",
+      "transliteration": "su-bi-ri ki-do-go, ki-sha tu-ja-ru-bu te-na",
+      "category": "Patience",
+      "generated_at": "2026-11-23T06:58:54.637773"
+    },
+    {
+      "english": "Stay steady, your turn will come.",
+      "swahili": "Kaa imara, zamu yako itafika.",
+      "transliteration": "kaa i-ma-ra, za-mu ya-ko i-ta-fa-ki-a",
+      "category": "Patience",
+      "generated_at": "2026-11-23T06:58:54.637775"
     }
   ],
-  "last_updated": "2026-11-23T00:33:50.752287"
+  "last_updated": "2026-11-23T06:58:54.637777"
 }
