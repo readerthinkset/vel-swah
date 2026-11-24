@@ -26214,7 +26214,42 @@
       "transliteration": "Si-ku za-ko zi-we a-nga-vu na tu-li-vu.",
       "category": "Holidays",
       "generated_at": "2026-11-24T09:25:14.703501"
+    },
+    {
+      "english": "The sun is out, finally today.",
+      "swahili": "Jua linaonekana, hatimaye leo.",
+      "transliteration": "Jua linaonekana, hatimaye leo.",
+      "category": "Weather",
+      "generated_at": "2026-11-24T21:46:01.068571"
+    },
+    {
+      "english": "It’s chilly, so bring a jacket.",
+      "swahili": "Ni baridi, kwa hivyo leta koti.",
+      "transliteration": "Ni baridi, kwa hivyo leta koti.",
+      "category": "Weather",
+      "generated_at": "2026-11-24T21:46:01.068584"
+    },
+    {
+      "english": "I feel the humidity in the air.",
+      "swahili": "Ninahisi unyevunyevu hewani.",
+      "transliteration": "Ninahisi unyevunyevu hewani.",
+      "category": "Weather",
+      "generated_at": "2026-11-24T21:46:01.068586"
+    },
+    {
+      "english": "Thunder is rumbling in the distance.",
+      "swahili": "Ngurumo inanguruma mbali.",
+      "transliteration": "Ngurumo inanguruma mbali.",
+      "category": "Weather",
+      "generated_at": "2026-11-24T21:46:01.068587"
+    },
+    {
+      "english": "A storm might come later.",
+      "swahili": "Dhoruba huenda ikaja baadaye.",
+      "transliteration": "Dhoruba huenda ikaja baadaye.",
+      "category": "Weather",
+      "generated_at": "2026-11-24T21:46:01.068589"
     }
   ],
-  "last_updated": "2026-11-24T09:25:14.703503"
+  "last_updated": "2026-11-24T21:46:01.068591"
 }
