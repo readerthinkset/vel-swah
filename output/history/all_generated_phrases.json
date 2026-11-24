@@ -26109,7 +26109,42 @@
       "transliteration": "Ma-ko-sa hu-ta-ke-a, ha-lafu u-na-endelea.",
       "category": "Success",
       "generated_at": "2026-11-24T01:22:21.818823"
+    },
+    {
+      "english": "Turn off Bluetooth, now if you want.",
+      "swahili": "Zima Bluetooth, sasa kama unataka.",
+      "transliteration": "Zima Bluetooth, sasa kama unataka.",
+      "category": "Technology",
+      "generated_at": "2026-11-24T03:32:46.106840"
+    },
+    {
+      "english": "I can't find the Wi‑Fi network.",
+      "swahili": "Siwezi kupata mtandao wa Wi‑Fi.",
+      "transliteration": "Siwezi kupata mtandao wa Wi-Fi.",
+      "category": "Technology",
+      "generated_at": "2026-11-24T03:32:46.106856"
+    },
+    {
+      "english": "Let's check your internet speed quickly.",
+      "swahili": "Tuangalie kasi ya intaneti haraka.",
+      "transliteration": "Tuuangaliye kasi ya intaneti haraka.",
+      "category": "Technology",
+      "generated_at": "2026-11-24T03:32:46.106857"
+    },
+    {
+      "english": "The app crashed, try again later.",
+      "swahili": "Programu imeanguka, jaribu baadaye.",
+      "transliteration": "Programu imeanguka, jaribu baadaye.",
+      "category": "Technology",
+      "generated_at": "2026-11-24T03:32:46.106859"
+    },
+    {
+      "english": "Enable location services for better results.",
+      "swahili": "Washa huduma za eneo kwa matokeo bora.",
+      "transliteration": "Washa huduma za eneo kwa matokeo bora.",
+      "category": "Technology",
+      "generated_at": "2026-11-24T03:32:46.106860"
     }
   ],
-  "last_updated": "2026-11-24T01:22:21.818826"
+  "last_updated": "2026-11-24T03:32:46.106862"
 }
