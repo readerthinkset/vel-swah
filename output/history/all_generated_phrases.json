@@ -26249,7 +26249,42 @@
       "transliteration": "Dhoruba huenda ikaja baadaye.",
       "category": "Weather",
       "generated_at": "2026-11-24T21:46:01.068589"
+    },
+    {
+      "english": "Drink water when you wake up.",
+      "swahili": "Kunywa maji ukiamka.",
+      "transliteration": "Kunywa maji ukiamka.",
+      "category": "Health",
+      "generated_at": "2026-11-24T23:19:56.189085"
+    },
+    {
+      "english": "Take a short walk, stretch your legs.",
+      "swahili": "Tembea kidogo, inua miguu yako.",
+      "transliteration": "Tembea kidogo, inua miguu yako.",
+      "category": "Health",
+      "generated_at": "2026-11-24T23:19:56.189099"
+    },
+    {
+      "english": "Wash hands, especially before eating.",
+      "swahili": "Osha mikono, hasa kabla ya kula.",
+      "transliteration": "Osha mikono, hasa kabla ya kula.",
+      "category": "Health",
+      "generated_at": "2026-11-24T23:19:56.189101"
+    },
+    {
+      "english": "Eat fruit, it helps your body.",
+      "swahili": "Kula matunda, yanasaidia mwili wako.",
+      "transliteration": "Kula matunda, yanasaidia mwili wako.",
+      "category": "Health",
+      "generated_at": "2026-11-24T23:19:56.189103"
+    },
+    {
+      "english": "Add vegetables, make meals lighter.",
+      "swahili": "Ongeza mboga, fanya chakula kiwe chepesi.",
+      "transliteration": "Ongeza mboga, fanya chakula kiwe chepesi.",
+      "category": "Health",
+      "generated_at": "2026-11-24T23:19:56.189105"
     }
   ],
-  "last_updated": "2026-11-24T21:46:01.068591"
+  "last_updated": "2026-11-24T23:19:56.189107"
 }
