@@ -26354,7 +26354,42 @@
       "transliteration": "Sa-fa-ri ya-ko i-li-en-de-a-je, sa-la-ma?",
       "category": "Greetings",
       "generated_at": "2026-11-25T03:16:58.353270"
+    },
+    {
+      "english": "What time is it now?",
+      "swahili": "Ni saa ngapi sasa?",
+      "transliteration": "Ni saa ngapi sasa?",
+      "category": "Time",
+      "generated_at": "2026-11-25T07:57:12.132325"
+    },
+    {
+      "english": "Please tell me the exact time.",
+      "swahili": "Tafadhali niambie muda halisi.",
+      "transliteration": "Tafadhali niambie muda halisi.",
+      "category": "Time",
+      "generated_at": "2026-11-25T07:57:12.132338"
+    },
+    {
+      "english": "I’ll be there in ten minutes.",
+      "swahili": "Nitaﬁka baada ya dakika kumi.",
+      "transliteration": "Nitafika baada ya dakika kumi.",
+      "category": "Time",
+      "generated_at": "2026-11-25T07:57:12.132340"
+    },
+    {
+      "english": "We have time, take your breath.",
+      "swahili": "Tuna muda, pumua kidogo.",
+      "transliteration": "Tuna muda, pumua kidogo.",
+      "category": "Time",
+      "generated_at": "2026-11-25T07:57:12.132341"
+    },
+    {
+      "english": "The meeting starts at six sharp.",
+      "swahili": "Mkutano unaanza saa sita kamili.",
+      "transliteration": "Mkutano unaanza saa sita kamili.",
+      "category": "Time",
+      "generated_at": "2026-11-25T07:57:12.132342"
     }
   ],
-  "last_updated": "2026-11-25T03:16:58.353272"
+  "last_updated": "2026-11-25T07:57:12.132344"
 }
