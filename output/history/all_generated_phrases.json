@@ -26319,7 +26319,42 @@
       "transliteration": "Onga polepole, ili wakuelewe.",
       "category": "Purpose",
       "generated_at": "2026-11-25T01:21:04.954225"
+    },
+    {
+      "english": "Hi there, karibu. How are you?",
+      "swahili": "Hujambo, karibu. Unaendeleaje?",
+      "transliteration": "Hu-jam-bo, ka-rya-bo. U-na-en-de-le-a-je?",
+      "category": "Greetings",
+      "generated_at": "2026-11-25T03:16:58.353254"
+    },
+    {
+      "english": "Peace be with you today.",
+      "swahili": "Amani iwe na wewe leo.",
+      "transliteration": "A-ma-ni iwe na we-we le-o.",
+      "category": "Greetings",
+      "generated_at": "2026-11-25T03:16:58.353265"
+    },
+    {
+      "english": "Karibu sana, naomba ukae kidogo.",
+      "swahili": "Karibu sana, naomba ukae kidogo.",
+      "transliteration": "Ka-ryu-bu sa-na, na-o-mba u-ka-e ki-do-go.",
+      "category": "Greetings",
+      "generated_at": "2026-11-25T03:16:58.353267"
+    },
+    {
+      "english": "Good to have you here, rafiki.",
+      "swahili": "Ni vizuri uko hapa, rafiki.",
+      "transliteration": "Ni bu-ri-zi u-ko ha-pa, ra-fi-ki.",
+      "category": "Greetings",
+      "generated_at": "2026-11-25T03:16:58.353269"
+    },
+    {
+      "english": "How was your trip, salama?",
+      "swahili": "Safari yako iliendaje, salama?",
+      "transliteration": "Sa-fa-ri ya-ko i-li-en-de-a-je, sa-la-ma?",
+      "category": "Greetings",
+      "generated_at": "2026-11-25T03:16:58.353270"
     }
   ],
-  "last_updated": "2026-11-25T01:21:04.954228"
+  "last_updated": "2026-11-25T03:16:58.353272"
 }
