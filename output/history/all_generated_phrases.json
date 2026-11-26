@@ -26529,7 +26529,42 @@
       "transliteration": "Toa pumzi taratibu, mwili utulie.",
       "category": "Balance",
       "generated_at": "2026-11-26T02:34:42.233399"
+    },
+    {
+      "english": "I feel calm, as I breathe slowly.",
+      "swahili": "Ninahisi utulivu, ninapumua polepole.",
+      "transliteration": "Ninahisi utulivu, ninapumua polepole.",
+      "category": "Feelings",
+      "generated_at": "2026-11-26T07:49:14.282490"
+    },
+    {
+      "english": "I’m feeling safe, right here.",
+      "swahili": "Ninahisi salama, hapa.",
+      "transliteration": "Ninahisi salama, hapa.",
+      "category": "Feelings",
+      "generated_at": "2026-11-26T07:49:14.282502"
+    },
+    {
+      "english": "A light joy is coming back.",
+      "swahili": "Furaha nyepesi inarudi.",
+      "transliteration": "Furaha nyepesi inarudi.",
+      "category": "Feelings",
+      "generated_at": "2026-11-26T07:49:14.282504"
+    },
+    {
+      "english": "I feel a little worried, today.",
+      "swahili": "Nina wasiwasi kidogo, leo.",
+      "transliteration": "Nina wasiwasi kidogo, leo.",
+      "category": "Feelings",
+      "generated_at": "2026-11-26T07:49:14.282505"
+    },
+    {
+      "english": "I feel hopeful, about tomorrow.",
+      "swahili": "Nina matumaini, kuhusu kesho.",
+      "transliteration": "Nina matumaini, kuhusu kesho.",
+      "category": "Feelings",
+      "generated_at": "2026-11-26T07:49:14.282507"
     }
   ],
-  "last_updated": "2026-11-26T02:34:42.233401"
+  "last_updated": "2026-11-26T07:49:14.282508"
 }
