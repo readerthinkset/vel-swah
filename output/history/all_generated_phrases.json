@@ -26655,7 +26655,28 @@
       "transliteration": "Nisaidie, hakuna shida.",
       "category": "Kindness",
       "generated_at": "2026-11-27T11:37:06.244784"
+    },
+    {
+      "english": "Please repeat that, I missed it.",
+      "swahili": "Tafadhali rudia tena, sikupata.",
+      "transliteration": "Tafadhali rudia tena, siku-pata.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-27T19:22:26.944517"
+    },
+    {
+      "english": "Where is the bathroom here, please?",
+      "swahili": "Choo kiko wapi hapa, tafadhali?",
+      "transliteration": "Choo kiko wapi hapa, tafadhali?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-27T19:22:26.944529"
+    },
+    {
+      "english": "How do you say this in Swahili?",
+      "swahili": "Unasemaje hili kwa Kiswahili?",
+      "transliteration": "Una-sema-je hili kwa Kiswahili?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-27T19:22:26.944531"
     }
   ],
-  "last_updated": "2026-11-27T11:37:06.244785"
+  "last_updated": "2026-11-27T19:22:26.944533"
 }
